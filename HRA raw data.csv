@@ -1,0 +1,1002 @@
+Employee Name,Employee ID,Applicant Source,Status,CV Submission Date,CV Review,HR Interview Date,HR Interview,Hiring  Date,Manager Interview,Gender,Department,Job Type,Exit Date,Exit Type,Exit Reason,Years of Experience,Salary,Bonus,Last Performance Rating,Promotion Date,Training Hours Completed,Satisfaction Score,Engagement Score,Number of  Leaves
+Tanya Finley,b4b4f285,Internal,Hired,30-03-2021,Failed,25-06-2021,Failed,05-11-2022,Failed,Male,Finance,Contract,12-02-2021,,Layoff,24,77374,5663,5,17-12-2023,163,8,6,10
+Stephen Davies,c21b8351,Internal,Hired,14-12-2023,Failed,24-07-2021,Failed,06-12-2023,Passed,Male,Operations,Contract,03-09-2023,Involuntary,Layoff,11,103131,1535,4,18-12-2023,49,7,6,4
+April Cole,8b536ba5,Online Application,Hired,02-01-2020,Passed,26-03-2024,Failed,25-03-2024,Failed,Female,Sales,Part-time,,Voluntary,Termination,30,97104,17162,2,18-11-2023,97,3,9,1
+Jennifer Kaufman,3c2c68eb,Internal,New hire,31-05-2023,Passed,29-10-2020,Passed,13-05-2022,Passed,Female,IT,Part-time,10-11-2020,Involuntary,Layoff,20,104432,12894,4,19-11-2023,112,4,7,14
+Aaron Bradley,958534a8,Online Application,Hired,27-07-2022,Failed,16-05-2020,Failed,08-04-2020,Passed,Female,Finance,Full-time,17-01-2021,Voluntary,Other,12,41568,13275,1,03-07-2023,58,3,8,12
+Joseph Ramos,6f550c6a,Online Application,New hire,09-11-2022,Failed,02-03-2024,Passed,21-01-2020,Passed,Female,Operations,Full-time,01-04-2021,Involuntary,Layoff,7,49417,10894,1,04-07-2023,16,7,1,7
+Gabriel Becker,ab57ab64,Internal,Hired,20-08-2020,Failed,25-07-2024,Passed,04-01-2024,Passed,Other,Sales,Contract,18-01-2021,Involuntary,Other,11,133208,19983,5,05-07-2023,37,10,7,15
+George Thomas,a4403792,Agency,New hire,14-08-2024,Failed,09-10-2021,Passed,16-06-2023,Passed,Female,Sales,Part-time,,Involuntary,,2,144071,5564,2,06-07-2023,181,10,9,10
+Stephen Solis,e0b204d3,Internal,Hired,18-07-2021,Passed,25-12-2023,Passed,18-03-2024,Failed,Female,Operations,Full-time,14-06-2022,Voluntary,Other,16,72995,3949,4,07-07-2023,43,2,5,13
+Blake Chavez,5c2efeae,Internal,Hired,20-07-2023,Passed,15-10-2022,Failed,11-05-2021,Failed,Male,Operations,Full-time,,Voluntary,Other,10,94642,2229,1,08-07-2023,109,3,9,5
+Corey Lopez,292923df,Internal,Hired,15-01-2023,Passed,22-04-2022,Passed,20-02-2023,Passed,Female,Marketing,Full-time,,Involuntary,Personal Reasons,2,66318,13128,1,09-07-2023,174,8,4,7
+Michael Hill,7c3f7d22,Online Application,New hire,02-09-2022,Passed,08-10-2021,Passed,06-08-2021,Failed,Female,Finance,Contract,24-02-2023,Voluntary,,1,102242,5985,4,,154,6,4,8
+Charles Ellis,437dd2db,Online Application,New hire,07-05-2022,Failed,21-03-2022,Failed,10-06-2024,Failed,Other,IT,Full-time,,,Retirement,11,88930,13937,3,,69,9,1,15
+Brandon Wyatt,f9df6ec3,Online Application,Hired,29-01-2023,Failed,23-06-2021,Passed,21-08-2024,Failed,Other,Marketing,Contract,,Voluntary,Termination,19,71673,3604,1,,149,7,4,7
+Zachary Smith,0301edc9,Online Application,New hire,11-06-2021,Passed,27-04-2023,Failed,03-07-2024,Passed,Male,Finance,Part-time,10-11-2020,Voluntary,,25,46664,1154,5,21-10-2021,92,1,9,7
+Brandon Guerra,530a4338,Internal,Hired,09-06-2024,Passed,16-02-2021,Passed,21-02-2021,Passed,Male,Finance,Contract,,,,1,110759,6113,4,22-10-2021,12,5,6,8
+Jody Lewis,7a4d4e15,Agency,Hired,06-06-2024,Failed,02-07-2022,Passed,18-12-2023,Passed,Male,Sales,Part-time,02-05-2021,Involuntary,Retirement,20,90885,12947,4,,86,7,6,2
+Chad Shaw,37d1142e,Agency,Hired,22-09-2022,Passed,08-02-2022,Failed,19-07-2023,Failed,Female,Finance,Full-time,10-11-2020,Voluntary,Personal Reasons,1,142208,16734,3,18-07-2024,48,6,6,4
+Christopher Mack,905c7eb7,Online Application,New hire,23-08-2021,Passed,12-02-2023,Failed,23-06-2020,Passed,Other,Finance,Contract,,Voluntary,Other,14,134145,18726,1,19-07-2024,88,2,7,13
+Matthew Moore,af7edd05,Agency,Hired,23-05-2020,Failed,18-07-2020,Passed,31-05-2021,Failed,Female,Sales,Full-time,21-04-2022,Voluntary,Layoff,15,98811,4022,2,20-07-2024,38,5,7,7
+Natasha Nelson,d2a15251,Agency,Hired,31-07-2020,Passed,16-09-2023,Failed,21-07-2021,Passed,Other,HR,Full-time,,Voluntary,,16,51601,11486,5,21-07-2024,108,5,10,11
+Stephanie Lopez,27b10b06,Internal,Hired,31-07-2023,Failed,09-11-2020,Failed,08-05-2020,Failed,Female,IT,Contract,,,Personal Reasons,12,132779,8000,4,22-07-2024,135,8,3,0
+Holly Bradley,e9cc374d,Agency,Hired,02-08-2023,Passed,02-04-2024,Failed,03-04-2022,Failed,Female,Operations,Full-time,,Voluntary,Termination,3,56595,18201,3,23-07-2024,118,3,4,14
+Mr. Anthony Gibbs,4764ef71,Agency,New hire,08-01-2024,Passed,09-08-2020,Passed,27-07-2024,Failed,Other,Finance,Part-time,,Involuntary,Termination,5,72716,2816,4,24-07-2024,107,1,3,1
+Jordan Preston,28e21589,Internal,New hire,30-09-2022,Passed,24-12-2021,Failed,09-07-2022,Passed,Other,HR,Contract,,Voluntary,Termination,16,144386,14445,2,25-07-2024,71,2,5,9
+Emily Peterson,c51f52f7,Internal,New hire,14-12-2021,Failed,25-01-2021,Failed,22-08-2021,Failed,Female,IT,Contract,30-12-2022,Involuntary,Personal Reasons,30,135876,19961,5,,9,3,3,14
+Thomas Johnson,c3f14398,Internal,New hire,25-06-2023,Failed,29-03-2020,Failed,05-03-2021,Failed,Male,Finance,Part-time,28-03-2024,Involuntary,Personal Reasons,17,121151,14733,2,,46,7,1,12
+Katherine Jones,14d32dc5,Internal,Hired,24-12-2021,Failed,05-08-2021,Failed,10-06-2022,Failed,Other,HR,Full-time,02-05-2022,Voluntary,Termination,6,90150,17994,4,29-11-2020,101,1,3,5
+Robert Erickson,51059ffa,Agency,Hired,21-08-2022,Failed,28-06-2024,Passed,02-01-2020,Passed,Male,IT,Part-time,,Voluntary,Other,15,110368,7459,3,30-11-2020,65,9,7,12
+Michelle Martin,fc881f55,Online Application,Hired,11-06-2023,Failed,24-04-2020,Passed,23-12-2023,Passed,Other,Finance,Part-time,,Involuntary,Termination,19,83031,10856,2,01-12-2020,59,2,2,1
+Rebecca Pacheco,25bcffac,Online Application,New hire,06-11-2022,Failed,15-01-2021,Failed,11-10-2022,Failed,Male,Finance,Part-time,,,Retirement,10,94160,15494,1,02-12-2020,7,6,1,5
+Jeffrey Nielsen,96bd2216,Agency,Hired,07-11-2021,Failed,19-05-2022,Passed,21-07-2023,Failed,Male,Marketing,Part-time,,Involuntary,Other,16,58124,10490,1,,31,4,7,2
+April Gordon,f84877f1,Agency,Hired,22-06-2022,Failed,18-07-2024,Passed,23-02-2021,Failed,Male,Marketing,Part-time,10-11-2020,Voluntary,,14,71206,17079,1,29-07-2024,73,10,6,15
+Rachel Alexander,2e78651e,Agency,New hire,10-10-2020,Failed,20-04-2023,Passed,19-04-2022,Failed,Male,HR,Contract,,Involuntary,Layoff,29,87909,4875,1,,9,10,10,3
+Elijah Smith,e916b467,Online Application,Hired,12-03-2022,Failed,18-04-2021,Passed,03-01-2020,Passed,Male,HR,Full-time,26-12-2022,Involuntary,Retirement,18,107988,18462,4,,121,3,6,10
+Jason Cannon,09fdc56b,Internal,Hired,11-09-2022,Passed,04-10-2021,Failed,07-12-2023,Passed,Other,Operations,Full-time,10-08-2021,Voluntary,Termination,18,97377,15908,5,,179,3,9,12
+Dustin Cook,55f16658,Internal,New hire,05-01-2022,Failed,15-03-2024,Passed,10-09-2023,Passed,Female,HR,Part-time,,Voluntary,,7,113472,9871,5,,102,8,5,3
+Leah Gordon,e711cf12,Internal,Hired,28-07-2021,Passed,05-08-2020,Passed,14-08-2024,Passed,Female,HR,Part-time,10-11-2020,Voluntary,Other,9,147221,13195,3,21-05-2024,166,4,2,2
+Rick Anderson,8a582de6,Online Application,Hired,01-05-2020,Failed,18-06-2024,Passed,04-03-2021,Passed,Male,Operations,Contract,10-11-2020,Voluntary,Termination,28,69051,11872,3,16-08-2022,92,10,6,6
+Mariah Sellers,ffcfcb2b,Agency,Hired,10-03-2024,Passed,23-07-2023,Failed,01-09-2021,Failed,Female,Finance,Contract,22-07-2020,Voluntary,Termination,19,117744,16386,4,,179,8,9,9
+Robin Casey,ae5d3cfb,Internal,Hired,12-05-2020,Failed,04-04-2020,Failed,26-01-2024,Failed,Other,Finance,Full-time,,Voluntary,Termination,21,67723,19715,1,,175,6,9,5
+Tammy Cook,f921ee27,Online Application,Hired,09-07-2023,Failed,18-06-2021,Passed,20-04-2023,Failed,Female,HR,Contract,10-11-2020,Involuntary,Termination,1,149408,14763,2,23-08-2022,82,10,8,2
+Kelly English,708a9ca9,Agency,Hired,25-03-2024,Passed,29-05-2020,Passed,12-03-2021,Passed,Male,Operations,Part-time,,Voluntary,Personal Reasons,10,93052,5608,2,,171,2,3,14
+Robin Roberts,8e48f61e,Online Application,Hired,24-08-2021,Passed,11-11-2021,Failed,26-12-2023,Passed,Female,HR,Part-time,08-11-2020,Voluntary,,8,41556,19449,4,,174,8,2,6
+Nicholas Newton,f06454c9,Online Application,Hired,14-05-2021,Failed,03-09-2022,Failed,30-04-2023,Failed,Other,IT,Part-time,09-11-2020,,Personal Reasons,26,113309,15065,1,,125,10,1,13
+Joyce Case,8fda4c57,Online Application,Hired,14-02-2022,Failed,08-09-2021,Passed,22-02-2022,Passed,Male,Marketing,Full-time,10-11-2020,Involuntary,Termination,16,118384,13121,4,29-08-2022,66,1,4,13
+Robert Keith,d438be31,Internal,New hire,19-04-2021,Passed,12-06-2023,Passed,01-01-2021,Passed,Female,Marketing,Part-time,15-11-2023,Involuntary,Personal Reasons,1,98454,15250,1,30-08-2022,149,5,8,10
+John Gonzalez,2bf9b681,Agency,Hired,10-10-2020,Failed,26-02-2021,Passed,30-04-2020,Failed,Other,Marketing,Contract,16-11-2023,,Personal Reasons,10,117035,15930,2,31-08-2022,32,3,5,2
+Mary Brown,8a6a9db0,Agency,New hire,13-04-2022,Passed,17-02-2020,Passed,20-07-2022,Passed,Female,Sales,Part-time,20-06-2022,Voluntary,Personal Reasons,6,47615,13719,4,01-09-2022,68,3,4,4
+Ryan Smith,f761dbf1,Online Application,Hired,09-06-2020,Passed,27-04-2020,Failed,28-08-2022,Passed,Female,Operations,Contract,26-10-2022,Involuntary,Other,25,53657,8803,3,,86,1,8,11
+Jenny Patrick,3868effc,Agency,Hired,07-01-2022,Failed,01-09-2022,Failed,14-08-2020,Passed,Other,Marketing,Part-time,27-10-2022,Involuntary,Layoff,19,49546,4661,3,02-03-2022,192,4,3,1
+Brendan Stevens,e324266e,Internal,Hired,29-06-2021,Failed,24-01-2021,Failed,22-01-2022,Passed,Male,Finance,Contract,27-02-2024,Involuntary,Other,16,68240,6641,5,03-03-2022,67,5,2,11
+Jessica Mendoza,65c2c202,Online Application,Hired,20-04-2023,Passed,25-08-2020,Failed,06-01-2024,Passed,Female,HR,Contract,28-02-2024,Voluntary,Termination,26,129001,13277,4,04-03-2022,33,4,10,8
+Sarah Simpson,91b5cc20,Agency,Hired,01-03-2023,Failed,02-03-2021,Passed,19-01-2023,Failed,Female,Sales,Full-time,,Involuntary,Termination,19,135244,16016,1,,189,5,7,5
+Stacie Martinez,ef2e94f5,Online Application,Hired,04-11-2021,Passed,13-08-2021,Failed,21-08-2021,Passed,Male,Operations,Contract,10-11-2020,Voluntary,Termination,2,143723,7276,5,13-07-2023,35,5,4,11
+Alexis Lucero,be095a2e,Internal,New hire,06-09-2021,Passed,26-05-2024,Passed,19-01-2021,Failed,Male,Marketing,Full-time,10-11-2020,Involuntary,Other,1,49862,5106,4,17-05-2023,96,6,2,6
+Jared Harvey,65d4542b,Online Application,Hired,06-12-2022,Passed,13-10-2022,Passed,16-06-2022,Passed,Other,IT,Full-time,10-11-2020,Involuntary,Other,12,64099,5814,4,01-06-2022,197,1,1,13
+Jeffrey Richards PhD,133196d1,Agency,New hire,18-07-2020,Passed,19-06-2021,Passed,04-04-2022,Passed,Other,Operations,Contract,10-11-2020,Voluntary,Termination,17,123514,3845,1,29-10-2022,134,2,8,11
+Monica Kline,cc156bef,Agency,Hired,14-04-2021,Passed,30-06-2021,Failed,27-09-2021,Passed,Other,IT,Full-time,,Involuntary,Retirement,15,101687,1975,3,,91,1,5,7
+Claudia Watson,74d93e0b,Internal,Hired,12-08-2023,Passed,19-06-2022,Failed,16-12-2021,Failed,Male,Finance,Contract,,Involuntary,Retirement,13,46583,12655,5,,138,3,8,15
+Vanessa Stewart,c03afee6,Agency,New hire,04-07-2022,Failed,13-12-2023,Passed,29-05-2024,Passed,Male,IT,Contract,10-11-2020,Involuntary,Termination,21,90498,9971,5,21-04-2024,196,5,4,5
+David Gibson,8364d939,Internal,Hired,30-05-2021,Failed,27-11-2023,Failed,06-05-2023,Failed,Male,Operations,Full-time,10-11-2020,Involuntary,Retirement,16,47707,3067,1,29-12-2022,162,9,3,12
+Cole Perkins,cd2556ab,Online Application,Hired,28-03-2024,Failed,28-01-2021,Failed,31-10-2020,Failed,Other,Finance,Contract,,Voluntary,Personal Reasons,3,77500,3048,2,,47,8,1,12
+Ashley Snyder,d36f17de,Agency,Hired,05-12-2020,Failed,06-08-2021,Failed,20-03-2023,Failed,Other,IT,Full-time,21-06-2023,Involuntary,Personal Reasons,22,110383,11310,3,21-05-2021,9,1,4,1
+Anthony Williams,10e33342,Online Application,Hired,18-04-2022,Failed,26-10-2022,Failed,27-04-2024,Failed,Male,Operations,Contract,08-02-2021,Voluntary,Layoff,12,87741,7194,3,,44,7,10,0
+Douglas Suarez,ceaeb055,Agency,New hire,18-01-2023,Passed,21-04-2021,Failed,13-09-2023,Failed,Other,Sales,Contract,,Involuntary,Termination,14,90286,4930,4,,46,7,5,8
+Mary Moore,3c435827,Agency,Hired,16-11-2020,Failed,03-06-2024,Passed,23-04-2023,Failed,Male,Finance,Full-time,,Involuntary,Retirement,6,138891,13763,3,25-12-2023,178,4,10,11
+Christopher Mason,0ef8047f,Agency,Hired,03-02-2024,Passed,12-10-2021,Passed,30-07-2022,Passed,Other,Marketing,Contract,10-03-2023,Voluntary,Personal Reasons,7,134269,11343,1,26-12-2023,53,7,5,11
+Steven Collins,95b89e31,Online Application,Hired,13-05-2022,Failed,01-12-2023,Failed,18-05-2024,Passed,Female,HR,Full-time,,Voluntary,,19,120823,6997,2,27-12-2023,72,3,7,10
+Shannon Murphy,6124683,Internal,Hired,15-01-2022,Passed,20-01-2021,Passed,06-01-2024,Passed,Female,Operations,Contract,,Involuntary,Retirement,30,67439,2507,3,28-12-2023,79,3,9,12
+Christina Smith,d3a5fbe1,Agency,Hired,23-05-2022,Passed,10-04-2023,Passed,08-02-2022,Failed,Male,Sales,Full-time,,,Termination,24,76900,3082,1,29-12-2023,78,1,8,2
+Ann Smith,5c68eac7,Agency,Hired,30-03-2023,Passed,03-11-2020,Passed,23-09-2022,Passed,Female,Finance,Contract,,Involuntary,,8,51061,1089,2,30-12-2023,143,4,8,2
+Andrew Santos,5a53ced7,Internal,Hired,31-05-2020,Failed,02-04-2022,Failed,29-11-2023,Failed,Female,Sales,Part-time,13-10-2022,Involuntary,Layoff,18,104126,10308,2,31-12-2023,52,5,6,2
+Ariel Hopkins,11b5ebc7,Online Application,Hired,18-11-2022,Passed,25-05-2023,Passed,03-01-2022,Failed,Other,IT,Contract,26-01-2020,,Termination,26,147632,16873,3,01-01-2024,56,2,8,2
+Monica Rodriguez,f4eb148b,Agency,Hired,19-02-2022,Failed,28-10-2020,Passed,03-02-2022,Passed,Other,Marketing,Part-time,,,Layoff,12,79987,11369,1,,9,7,4,10
+Sharon Day,c374914b,Internal,Hired,19-08-2022,Passed,22-01-2024,Passed,20-07-2023,Failed,Male,Operations,Part-time,,Involuntary,Termination,24,96123,12255,4,,102,8,1,6
+Hunter Diaz,69d30be9,Agency,Hired,16-07-2021,Passed,08-01-2023,Passed,08-06-2021,Failed,Male,IT,Part-time,10-11-2020,Involuntary,,8,135535,13764,4,10-10-2020,39,10,2,6
+Austin Davis DDS,a5a4c709,Agency,New hire,18-03-2022,Passed,03-10-2023,Passed,24-11-2021,Failed,Female,Operations,Full-time,,Voluntary,,20,109445,6522,2,,124,1,2,15
+Billy Taylor,49c3cc5c,Agency,Hired,12-05-2022,Failed,30-10-2021,Failed,01-09-2024,Passed,Female,Finance,Part-time,30-01-2022,Voluntary,,10,124661,3303,4,,148,6,6,3
+Lucas King,81f9c0a1,Internal,Hired,04-04-2020,Failed,20-06-2023,Failed,27-03-2023,Failed,Female,Sales,Full-time,,Involuntary,Personal Reasons,8,61697,6944,2,,19,3,3,2
+Joan Graham,ac02866c,Agency,Hired,29-05-2023,Failed,27-07-2023,Passed,12-05-2022,Passed,Other,Marketing,Full-time,10-11-2020,Involuntary,Termination,10,56792,10606,2,24-06-2024,47,4,10,8
+Emily Zamora,6100ac63,Online Application,Hired,01-11-2023,Failed,20-06-2022,Passed,02-08-2024,Passed,Female,IT,Full-time,28-06-2023,,,9,137750,2012,5,25-06-2024,174,9,6,15
+James Richardson,228edbce,Online Application,New hire,30-10-2021,Failed,15-03-2022,Passed,23-07-2022,Failed,Male,Operations,Part-time,17-06-2020,,,2,142273,13991,4,26-06-2024,167,4,4,14
+Kendra Caldwell,7c52b537,Online Application,Hired,02-01-2020,Failed,02-07-2023,Passed,23-03-2024,Passed,Female,Sales,Full-time,,Involuntary,Personal Reasons,29,121601,5590,4,27-06-2024,188,2,8,5
+Nina Mercado,583b1d30,Agency,Hired,25-08-2020,Failed,20-04-2020,Failed,12-01-2023,Failed,Other,Finance,Contract,,Involuntary,Layoff,12,72076,1163,5,28-06-2024,116,7,7,12
+Richard King,3f640508,Agency,Hired,30-08-2023,Passed,28-05-2023,Passed,10-06-2021,Passed,Other,HR,Full-time,,Involuntary,Retirement,30,59491,7643,4,,47,3,4,1
+Dustin Smith,ea523bf9,Online Application,Hired,09-11-2023,Passed,24-04-2024,Failed,12-07-2022,Failed,Other,Finance,Contract,25-08-2021,Involuntary,Termination,7,105493,14105,2,13-06-2022,63,8,8,12
+Jasmine Pittman,332de597,Online Application,Hired,27-01-2022,Failed,19-10-2022,Failed,11-01-2020,Failed,Male,Sales,Part-time,,Involuntary,Retirement,8,63437,18695,2,,87,7,4,3
+Rebecca Porter,0fd1bc3f,Online Application,New hire,17-05-2023,Failed,20-02-2021,Failed,07-11-2023,Failed,Female,Sales,Full-time,10-11-2020,Voluntary,Other,7,107911,16088,3,02-04-2024,34,7,2,10
+Joan Johnson,d8525c94,Online Application,Hired,08-03-2023,Passed,24-10-2023,Failed,16-03-2020,Passed,Other,IT,Contract,10-11-2020,,Retirement,23,132255,18336,3,13-09-2023,175,8,4,1
+Joseph Hicks,2d6f830d,Online Application,Hired,15-06-2024,Failed,03-11-2023,Passed,27-10-2022,Failed,Other,HR,Full-time,10-11-2020,Voluntary,Other,24,98173,16017,4,08-09-2023,54,2,10,1
+Kevin Conrad,6ba901ca,Online Application,Hired,05-03-2023,Passed,30-04-2020,Failed,19-06-2023,Failed,Female,Finance,Contract,,Involuntary,,26,50697,14444,5,,1,5,2,8
+David Schwartz,5534b4a4,Online Application,Hired,16-11-2022,Failed,27-07-2023,Failed,02-07-2020,Failed,Other,IT,Contract,,Involuntary,,9,93157,3764,1,,123,8,10,6
+Claudia Ramirez,79b7d1c0,Online Application,Hired,12-01-2020,Failed,12-01-2023,Passed,24-06-2023,Failed,Male,Finance,Part-time,,Involuntary,Layoff,11,49874,15634,4,,190,5,3,15
+Holly Carpenter,2034d664,Agency,Hired,12-05-2023,Failed,01-01-2021,Failed,10-10-2022,Failed,Female,HR,Full-time,10-11-2020,Involuntary,Other,16,122471,6650,4,14-07-2021,99,3,9,15
+Margaret Larson,9196d7c0,Internal,Hired,31-03-2022,Passed,21-04-2024,Failed,16-03-2020,Failed,Male,Finance,Full-time,,Voluntary,Other,16,98566,12031,5,,81,5,8,3
+James Franco,a740ce13,Internal,Hired,15-02-2023,Passed,09-04-2021,Failed,17-02-2020,Passed,Other,IT,Part-time,,Voluntary,Other,10,42316,9045,5,,1,4,1,8
+Scott Mejia,47954a48,Internal,Hired,26-07-2024,Passed,28-01-2021,Passed,27-04-2021,Failed,Male,HR,Full-time,05-09-2022,Involuntary,Retirement,19,97679,1039,5,,88,8,4,1
+Robert Pena,a3f99c94,Agency,Hired,30-12-2023,Passed,06-09-2021,Failed,19-03-2024,Failed,Male,Marketing,Contract,,Voluntary,Retirement,20,108128,13664,1,,134,2,2,3
+Rebecca Trevino,7718d751,Online Application,Hired,07-12-2021,Failed,25-02-2020,Passed,18-02-2023,Passed,Female,IT,Full-time,,Involuntary,Retirement,11,105425,11821,5,,68,6,6,12
+Samuel Nelson,3541996d,Online Application,Hired,30-05-2021,Failed,02-03-2024,Failed,03-04-2022,Passed,Other,HR,Part-time,11-06-2020,Voluntary,,18,68394,5518,3,,168,3,5,10
+Terry Smith,e15bca69,Agency,Hired,01-03-2023,Passed,20-10-2023,Passed,10-05-2023,Failed,Other,IT,Contract,,Voluntary,,20,116458,10707,2,02-06-2024,63,7,1,8
+Jessica Shepherd,8a3bcb1b,Agency,Hired,23-05-2024,Passed,21-12-2022,Failed,24-08-2024,Failed,Male,HR,Part-time,,Involuntary,,13,80211,7041,3,03-06-2024,90,5,5,14
+Karen Johnson,77e22d10,Online Application,Hired,18-01-2024,Passed,02-01-2021,Failed,22-11-2021,Failed,Female,IT,Part-time,,Involuntary,Retirement,20,94111,13887,4,04-06-2024,26,3,6,5
+John Peters,7eb8a233,Agency,Hired,23-11-2020,Failed,27-02-2020,Passed,16-07-2023,Failed,Other,IT,Contract,,Voluntary,Layoff,4,136170,15637,1,05-06-2024,105,4,2,3
+Joshua Schmidt,abc2ce82,Online Application,New hire,16-04-2021,Failed,23-04-2023,Passed,08-09-2020,Failed,Other,Marketing,Contract,05-05-2022,Voluntary,Layoff,23,122565,17270,3,06-06-2024,144,10,10,2
+Scott Terry,5cf0a184,Internal,Hired,19-11-2020,Passed,16-04-2022,Failed,17-12-2021,Failed,Male,Marketing,Full-time,,,Layoff,27,59556,13621,4,07-06-2024,193,5,2,11
+Mary Roth,2b949715,Agency,New hire,07-09-2020,Failed,16-07-2023,Failed,21-01-2022,Failed,Male,Marketing,Contract,,,Retirement,3,130758,2560,4,08-06-2024,45,5,1,8
+Cheryl Baldwin,766225c1,Agency,New hire,19-07-2021,Passed,21-02-2024,Failed,06-07-2020,Failed,Female,Sales,Contract,,Voluntary,Personal Reasons,26,40807,6621,3,09-06-2024,194,3,2,3
+Rachel Hill,3f56c4aa,Online Application,Hired,24-09-2023,Passed,08-08-2021,Passed,01-01-2023,Failed,Male,Marketing,Contract,10-07-2021,,Other,3,43046,8598,4,10-06-2024,143,6,9,11
+Emily Wood,518f6bfe,Agency,Hired,17-05-2022,Failed,25-09-2020,Failed,14-09-2023,Passed,Female,Sales,Part-time,,Involuntary,Termination,6,128889,17525,1,11-06-2024,162,7,3,8
+Trevor Gonzalez,137f6daa,Agency,Hired,10-06-2024,Passed,02-01-2022,Failed,08-05-2021,Failed,Other,Sales,Part-time,,Involuntary,Layoff,23,91722,14016,3,12-06-2024,150,4,2,12
+Terry Roberts,8.93E+08,Internal,Hired,10-12-2021,Failed,30-05-2021,Failed,02-09-2023,Passed,Male,Marketing,Part-time,,,,5,64458,19167,1,13-06-2024,87,7,2,0
+Melinda Roberts,03ddd2eb,Online Application,New hire,14-09-2021,Failed,25-09-2022,Passed,22-05-2023,Passed,Other,Operations,Part-time,06-09-2021,Involuntary,Other,20,139776,6510,4,14-06-2024,171,7,8,7
+Cassie Li,831e6222,Internal,Hired,23-11-2021,Passed,01-01-2021,Failed,14-04-2021,Failed,Other,Finance,Part-time,,,Layoff,13,69388,19697,3,15-06-2024,143,2,4,2
+Brad Stanley,c05b68e1,Online Application,Hired,17-06-2020,Passed,04-05-2021,Failed,08-09-2022,Passed,Female,Operations,Contract,,Involuntary,Layoff,30,113215,14225,2,,162,4,10,6
+Tracy Lewis,bd8ba241,Online Application,Hired,09-12-2022,Failed,17-06-2020,Failed,20-03-2023,Failed,Female,Operations,Full-time,,Involuntary,Other,24,107526,17355,1,02-08-2024,160,4,6,3
+David Rodriguez,57181949,Online Application,Hired,19-07-2021,Passed,20-02-2022,Passed,10-01-2023,Passed,Male,IT,Contract,,Involuntary,,1,50081,3995,3,,28,10,7,2
+Anthony Murray,c244ecc3,Online Application,Hired,09-08-2024,Failed,11-07-2020,Passed,30-09-2021,Failed,Female,Marketing,Part-time,26-04-2022,Involuntary,,20,40698,4602,1,10-06-2024,50,7,2,4
+Olivia Carroll,fa312c0a,Internal,New hire,28-03-2024,Failed,09-05-2021,Failed,02-07-2020,Passed,Female,HR,Contract,,Voluntary,,18,88446,6387,5,,200,1,3,2
+Peggy Cervantes,92b4e060,Agency,Hired,18-02-2024,Passed,29-05-2021,Failed,05-04-2023,Failed,Female,IT,Full-time,,Voluntary,Termination,21,117353,11901,4,,194,5,5,11
+Juan Castillo,04ed08df,Internal,Hired,18-12-2021,Failed,24-10-2021,Failed,18-06-2024,Failed,Female,Finance,Contract,,Involuntary,Layoff,24,72888,18683,5,,132,4,2,8
+Charles Hart,54d425406,Internal,Hired,09-06-2021,Passed,15-05-2020,Failed,30-08-2021,Passed,Other,Operations,Full-time,18-05-2020,Voluntary,Retirement,9,97184,12299,3,30-11-2022,92,1,10,13
+Jennifer Wolfe,f849e32c,Internal,New hire,01-10-2021,Passed,24-08-2022,Failed,27-02-2023,Failed,Other,HR,Contract,,Voluntary,Other,15,137181,9236,1,,197,5,9,6
+Michelle Lopez,42907984,Internal,Hired,04-02-2021,Failed,31-05-2020,Failed,26-04-2021,Passed,Other,Operations,Full-time,28-03-2021,Voluntary,Retirement,23,77746,18232,5,,158,8,2,5
+Richard Smith,e82bc7eb,Online Application,New hire,31-12-2023,Passed,10-07-2022,Failed,08-02-2024,Passed,Female,Marketing,Contract,18-05-2020,Voluntary,Retirement,24,74326,9670,1,10-08-2023,11,4,6,13
+Nicole Olsen,e26e5a9e,Online Application,Hired,30-03-2020,Failed,29-10-2022,Passed,10-08-2020,Failed,Other,HR,Contract,,Voluntary,Other,7,70565,1760,1,,136,5,3,13
+Amber Mcintosh,38540bb9,Internal,New hire,27-11-2021,Failed,10-02-2020,Passed,17-11-2020,Passed,Other,Finance,Contract,,Involuntary,Layoff,21,42652,12715,3,,145,9,4,6
+Mr. Brian Holden,91c25c66,Agency,Hired,29-06-2023,Failed,21-07-2023,Passed,05-09-2021,Failed,Other,Finance,Full-time,,Voluntary,Other,14,47744,9469,2,,163,4,8,13
+Megan Anderson,b306de42,Agency,Hired,25-05-2023,Passed,04-05-2023,Passed,04-04-2021,Passed,Other,Marketing,Full-time,18-05-2020,Voluntary,Termination,21,67886,19806,1,16-04-2023,184,4,2,8
+Jacob Blankenship,a90b4faa,Agency,Hired,15-06-2024,Passed,16-09-2021,Passed,15-05-2023,Passed,Male,HR,Part-time,,Involuntary,Personal Reasons,11,118574,8755,1,,28,10,9,2
+Mr. Brandon Page,a1618522,Internal,Hired,30-05-2021,Passed,24-11-2021,Failed,01-12-2021,Failed,Male,Sales,Contract,,,,16,102154,2320,1,16-12-2020,93,10,1,8
+Kathy Wiley,f7b90daf,Agency,Hired,23-07-2021,Failed,05-04-2022,Failed,19-09-2020,Failed,Other,Sales,Contract,23-11-2022,Involuntary,Retirement,1,85079,2995,5,17-12-2020,144,9,9,12
+Barbara Martinez,b21c03c2,Online Application,Hired,11-12-2022,Failed,21-07-2024,Passed,19-06-2022,Passed,Female,Marketing,Contract,23-04-2023,Involuntary,Other,9,88677,8311,1,18-12-2020,62,8,7,9
+Maria Williams,1c814f47,Internal,New hire,13-11-2023,Failed,07-02-2023,Failed,12-06-2021,Passed,Female,Sales,Part-time,,Voluntary,Retirement,25,106846,1106,1,19-12-2020,42,7,1,5
+Joshua Lara,e518d540,Online Application,Hired,23-10-2022,Passed,11-01-2023,Passed,19-08-2020,Passed,Female,Operations,Contract,15-03-2024,Voluntary,Personal Reasons,30,130333,11096,2,20-12-2020,31,4,2,3
+Walter Mclean,dedef858,Agency,Hired,09-09-2023,Failed,19-04-2023,Passed,08-12-2020,Failed,Other,Marketing,Full-time,,,Personal Reasons,18,55738,16517,5,21-12-2020,166,1,2,15
+Marcus Gordon,45f90e7c,Online Application,New hire,16-11-2022,Passed,11-03-2024,Passed,12-09-2020,Failed,Female,Sales,Contract,18-05-2020,Voluntary,Retirement,14,90974,17774,1,22-12-2020,103,6,5,13
+Brenda Carpenter,abf624d3,Internal,Hired,10-09-2022,Failed,02-03-2020,Passed,23-11-2023,Passed,Male,Finance,Full-time,18-05-2020,Involuntary,Termination,19,95769,7400,4,29-05-2023,43,8,6,1
+Joanna Brown,acc30054,Agency,New hire,23-12-2023,Passed,18-07-2020,Passed,25-08-2023,Failed,Other,Marketing,Part-time,28-03-2021,Involuntary,Personal Reasons,11,93383,11670,5,,27,3,7,9
+Samantha Rodriguez,060f37d3,Agency,Hired,14-11-2020,Passed,03-04-2022,Passed,29-06-2024,Failed,Male,Marketing,Full-time,,,Layoff,24,118773,10344,5,,0,6,10,12
+Cynthia Cooke,d3e99d84,Agency,Hired,27-12-2023,Passed,09-11-2020,Failed,07-07-2024,Failed,Female,Finance,Contract,,Involuntary,Termination,30,127379,1495,4,,112,10,5,3
+Ryan Rivera,bbbee838,Online Application,New hire,02-10-2022,Failed,01-01-2020,Passed,25-01-2021,Passed,Female,Sales,Contract,08-02-2020,Involuntary,Other,26,61231,11698,5,,128,4,2,15
+Jonathan Bean,ca699300,Online Application,Hired,15-07-2024,Failed,01-05-2022,Passed,14-02-2021,Passed,Male,IT,Contract,,Involuntary,Termination,10,98220,9975,2,,128,2,3,10
+Jennifer Young,a4b61e34,Online Application,Hired,05-02-2023,Failed,05-10-2022,Passed,07-08-2021,Failed,Male,IT,Contract,18-05-2020,,Other,3,57140,4001,4,05-11-2022,39,3,4,2
+Lindsey Smith,ec2576de,Online Application,Hired,19-07-2020,Failed,11-06-2024,Failed,10-06-2020,Passed,Female,HR,Full-time,30-08-2023,Voluntary,Retirement,21,115561,19505,4,,24,3,8,14
+Hailey White,584221ed,Internal,Hired,06-07-2022,Passed,13-01-2021,Passed,18-07-2023,Failed,Other,Sales,Contract,18-05-2020,Voluntary,Other,15,139855,18621,3,25-12-2022,90,2,7,1
+Kathleen Goodman DVM,c46499d6,Agency,Hired,04-12-2020,Passed,13-02-2024,Failed,24-03-2024,Passed,Male,Sales,Full-time,26-04-2020,,,1,146651,1703,1,,128,10,10,7
+Leah Matthews,b3b78ebc,Internal,Hired,05-09-2023,Failed,19-12-2023,Passed,11-01-2022,Failed,Male,Sales,Contract,12-08-2024,Voluntary,Retirement,8,53631,4612,1,,146,9,6,1
+Mark Rose,4f2ed6ea,Agency,Hired,17-12-2023,Passed,26-03-2020,Passed,26-05-2020,Failed,Female,Sales,Contract,,Voluntary,Retirement,14,117298,7181,2,,162,10,10,9
+Christopher Malone,ac04feda,Agency,Hired,25-12-2021,Passed,01-12-2020,Failed,06-05-2023,Passed,Female,Marketing,Full-time,,Involuntary,Termination,18,110285,4226,5,,18,8,4,14
+Kristie Knapp,271ced71,Online Application,New hire,14-06-2020,Passed,30-05-2020,Passed,10-08-2022,Passed,Female,IT,Full-time,,Voluntary,Personal Reasons,27,144485,13538,4,,124,2,5,2
+Melanie Neal,47e0e132,Internal,Hired,19-10-2020,Passed,09-08-2023,Failed,03-09-2020,Passed,Other,Finance,Part-time,18-05-2020,Voluntary,,20,139998,14572,4,09-02-2023,126,3,9,1
+John Marshall,35b3c6fd,Online Application,Hired,15-03-2022,Passed,19-08-2021,Failed,25-11-2023,Failed,Other,Marketing,Part-time,05-05-2021,Voluntary,Termination,27,62337,14922,5,10-02-2023,103,6,5,4
+Jessica Mitchell,d009c9b4,Agency,Hired,29-08-2021,Failed,21-08-2024,Passed,01-01-2024,Failed,Male,Finance,Contract,,Voluntary,Retirement,15,132974,15427,4,11-02-2023,124,3,9,2
+Kyle Morris,11a8fca9,Agency,Hired,01-03-2020,Failed,07-04-2020,Passed,27-09-2023,Failed,Other,HR,Contract,28-12-2021,Involuntary,Termination,28,137733,11043,1,12-02-2023,172,3,7,2
+Patrick Jensen,7829fbc1,Online Application,Hired,19-03-2024,Passed,27-01-2021,Failed,11-03-2023,Failed,Female,Marketing,Full-time,03-06-2024,Voluntary,,14,109167,4055,1,13-02-2023,111,6,3,1
+Valerie Gordon,16ed9ecb,Agency,Hired,17-08-2021,Failed,11-06-2020,Failed,06-10-2021,Passed,Other,Marketing,Contract,05-02-2021,Voluntary,Personal Reasons,23,69657,13848,3,14-02-2023,168,9,4,0
+Donna Francis,504cff97,Agency,Hired,19-04-2020,Failed,13-05-2023,Passed,13-07-2020,Failed,Male,Sales,Contract,,Involuntary,,11,125410,2487,5,15-02-2023,189,5,7,5
+Gloria Rose,cdc5e662,Agency,Hired,05-07-2023,Failed,14-08-2020,Failed,22-01-2023,Passed,Male,Finance,Contract,18-05-2020,Involuntary,Layoff,2,42049,3785,4,06-04-2022,162,6,7,7
+Lori Key,c081f34a,Internal,New hire,25-12-2022,Failed,23-03-2022,Failed,13-01-2023,Failed,Female,Operations,Full-time,18-05-2020,Voluntary,,2,133307,4970,5,12-08-2024,68,2,8,4
+Michelle Schneider,e7e03d63,Internal,Hired,03-09-2024,Failed,03-08-2021,Failed,15-05-2024,Passed,Male,IT,Part-time,,Involuntary,Retirement,1,85804,3859,1,,81,10,10,7
+Brian Holmes,2edcf3c7,Agency,Hired,02-10-2022,Failed,05-02-2021,Failed,13-10-2023,Failed,Other,Marketing,Full-time,18-05-2020,Involuntary,Personal Reasons,17,134904,3122,2,18-09-2021,57,5,4,14
+Diana King,e1cd6dc5,Agency,Hired,05-10-2022,Failed,08-10-2021,Passed,04-10-2023,Failed,Other,Marketing,Contract,,Voluntary,Personal Reasons,3,84529,8904,3,,174,5,4,3
+Timothy Nguyen,11a040a8,Internal,Hired,26-08-2020,Passed,06-09-2022,Failed,09-01-2021,Failed,Other,IT,Full-time,18-05-2020,Involuntary,Personal Reasons,29,58803,7799,2,12-02-2020,7,1,1,9
+Kimberly Young,cfbb6100,Internal,Hired,05-08-2022,Passed,03-11-2023,Failed,12-02-2020,Passed,Male,Operations,Part-time,18-05-2020,Voluntary,Termination,6,110613,3079,5,04-09-2020,189,7,2,2
+Christopher Wise,9aab63ff,Online Application,Hired,06-04-2023,Passed,27-04-2023,Passed,26-05-2022,Passed,Female,Marketing,Contract,,Involuntary,,13,144680,5856,3,,102,3,4,10
+Kevin Davidson,d4a5fa05,Online Application,Hired,07-05-2023,Failed,20-09-2023,Passed,27-03-2024,Failed,Female,Marketing,Part-time,,Involuntary,Termination,25,64476,9986,4,,0,3,8,15
+Hannah Cook,f420e28c,Agency,Hired,09-09-2020,Failed,22-07-2020,Passed,18-10-2021,Failed,Male,IT,Contract,,Voluntary,,17,131185,3569,5,,83,1,4,15
+Cody Mckinney,b22cc800,Agency,Hired,04-06-2021,Passed,27-01-2023,Passed,16-03-2022,Failed,Female,IT,Contract,18-05-2020,Voluntary,Other,15,123170,17351,1,27-07-2020,175,6,9,0
+Jackie Peters,58d1233f,Online Application,Hired,25-07-2020,Failed,23-02-2021,Failed,22-04-2024,Passed,Other,Operations,Part-time,,Voluntary,Retirement,11,61460,19039,4,28-07-2020,173,2,9,10
+Lindsay Cook,71738599,Internal,New hire,10-12-2020,Passed,30-11-2022,Failed,16-03-2023,Failed,Male,Marketing,Part-time,07-04-2023,,Retirement,17,44619,19574,1,29-07-2020,28,10,3,15
+Vincent Alvarado,97942f6f,Agency,Hired,07-08-2023,Failed,30-01-2024,Failed,30-04-2020,Passed,Other,Sales,Full-time,,,Retirement,27,46652,1102,3,30-07-2020,79,5,10,5
+Dustin Meyers,68f88c9c,Online Application,New hire,16-02-2024,Failed,18-08-2023,Failed,04-02-2024,Failed,Female,HR,Part-time,08-09-2022,Voluntary,Personal Reasons,7,42315,11551,2,17-03-2021,48,10,6,5
+Shannon Miller,ff0f1337,Internal,Hired,12-04-2024,Failed,02-12-2023,Passed,19-05-2020,Passed,Male,Finance,Contract,,Involuntary,Termination,22,75201,19970,2,,7,7,10,6
+Catherine Martinez,f2d05b56,Online Application,New hire,01-01-2024,Passed,22-05-2023,Passed,13-03-2022,Failed,Male,Sales,Contract,05-03-2024,,Layoff,11,43411,12018,2,23-06-2020,119,1,4,2
+Patricia Johnson,125371ba,Agency,New hire,04-12-2023,Failed,09-12-2022,Failed,26-10-2022,Failed,Female,IT,Part-time,31-10-2023,,Termination,9,80245,6086,2,,189,8,9,2
+Christopher Melton,0a4458b9,Agency,New hire,20-03-2024,Passed,03-05-2024,Failed,30-03-2022,Passed,Other,IT,Full-time,,Voluntary,Personal Reasons,15,54991,13424,3,,65,8,2,6
+Mark Nash,28c24f39,Online Application,Hired,28-06-2023,Passed,13-09-2020,Failed,25-08-2021,Failed,Male,Marketing,Full-time,,,Termination,17,113537,16852,1,,74,8,10,5
+Jeffrey Oliver,73fc6997,Internal,Hired,28-06-2023,Passed,19-10-2022,Failed,11-02-2020,Passed,Male,Sales,Part-time,,Voluntary,Layoff,26,61237,17630,5,,8,8,3,3
+Chad Joseph,c015a1c1,Internal,Hired,05-04-2022,Failed,25-07-2022,Passed,09-11-2022,Passed,Other,IT,Contract,,Voluntary,Retirement,18,119612,5006,2,,107,3,6,9
+Daniel Alexander,747b7591,Online Application,Hired,31-01-2022,Passed,11-02-2024,Failed,01-03-2022,Passed,Other,Finance,Part-time,18-05-2020,Involuntary,Layoff,16,76661,3376,2,01-02-2023,198,5,8,11
+Bethany Pratt,d4d5c586,Agency,Hired,21-01-2023,Passed,22-06-2021,Passed,06-06-2020,Passed,Male,IT,Contract,18-05-2020,Voluntary,Personal Reasons,28,134624,10690,2,22-01-2022,131,2,7,10
+Grace Bailey,059ef987,Online Application,Hired,16-12-2021,Failed,27-01-2024,Failed,22-02-2024,Passed,Female,HR,Part-time,12-06-2024,Involuntary,Other,12,125925,1557,3,,180,3,6,7
+Teresa Arellano,f81ffb6b,Internal,Hired,20-07-2020,Failed,17-05-2020,Failed,14-08-2020,Failed,Male,IT,Part-time,18-05-2020,Voluntary,,6,85232,16038,3,29-05-2021,109,1,9,5
+Christopher Ward,d05b9caa,Online Application,Hired,17-11-2023,Failed,16-02-2020,Passed,05-06-2023,Passed,Female,Finance,Contract,02-10-2020,Involuntary,Other,25,90281,16443,1,,169,6,6,4
+Andrew Martin,3a13bbbc,Agency,New hire,05-12-2021,Failed,11-03-2023,Passed,02-10-2021,Failed,Male,HR,Part-time,07-09-2021,Voluntary,Personal Reasons,28,135205,8466,3,,8,2,3,15
+Jason Gregory,d02ec5fe,Online Application,New hire,18-04-2020,Failed,08-05-2020,Passed,09-08-2024,Passed,Other,HR,Part-time,18-05-2020,Voluntary,Termination,28,142739,18435,5,31-03-2020,71,2,4,15
+Vanessa Bennett,f8ff4fd1,Agency,New hire,06-07-2024,Passed,01-06-2023,Failed,15-10-2022,Passed,Other,HR,Full-time,,Voluntary,Retirement,6,73084,9530,4,,40,2,7,0
+Heather Greene,41c300f3,Agency,Hired,27-04-2021,Failed,30-03-2024,Passed,03-03-2024,Failed,Female,Finance,Contract,11-09-2023,,Layoff,28,85208,16727,5,31-05-2023,137,6,3,2
+Shawn Moody,a20c1d92,Online Application,Hired,05-10-2022,Failed,06-03-2024,Failed,13-11-2023,Failed,Female,Finance,Part-time,05-12-2021,Voluntary,Layoff,19,111597,7133,5,,131,7,3,0
+Holly Cooley,75945f88,Online Application,Hired,30-06-2022,Passed,05-01-2024,Passed,01-03-2022,Passed,Male,Sales,Contract,,Involuntary,Other,17,56924,1152,3,27-05-2020,76,1,5,4
+Angela West,96d2618e,Online Application,Hired,09-06-2020,Failed,27-02-2020,Failed,08-07-2021,Failed,Female,HR,Contract,,Voluntary,,3,87127,13274,5,,146,1,10,10
+Kathleen Cook,3cefa4a0,Online Application,New hire,24-09-2021,Failed,29-12-2020,Failed,31-03-2020,Failed,Other,Sales,Part-time,02-06-2022,Involuntary,Personal Reasons,3,53876,4029,4,,149,1,10,2
+Lauren Huff,eb167d71,Online Application,New hire,10-04-2024,Passed,16-08-2021,Passed,05-09-2022,Passed,Female,Operations,Full-time,04-07-2023,Involuntary,,4,136574,8058,2,,137,2,4,1
+Trevor Ellison,a0ed9a47,Agency,New hire,12-08-2020,Failed,12-07-2020,Passed,15-07-2021,Passed,Female,HR,Contract,,,,30,144893,13770,3,,19,10,4,2
+Joseph Jacobs,690383b0,Internal,Hired,28-07-2021,Failed,04-10-2022,Passed,04-06-2021,Failed,Other,HR,Part-time,,Voluntary,Layoff,30,112798,9459,1,,135,3,6,0
+Dr. Jennifer Scott MD,128ad242,Internal,Hired,07-01-2021,Failed,26-03-2021,Failed,04-02-2021,Passed,Male,HR,Contract,,Involuntary,Layoff,22,143217,4281,5,12-03-2020,13,6,1,13
+Kelsey Sharp,6ebb84ab,Internal,Hired,25-12-2022,Passed,08-02-2024,Failed,20-07-2024,Passed,Other,IT,Part-time,15-07-2020,,Layoff,30,120676,7510,4,13-03-2020,83,9,7,12
+Tiffany Simpson,28225722,Agency,Hired,21-11-2020,Failed,18-02-2022,Passed,06-01-2024,Passed,Female,Finance,Full-time,,Involuntary,,1,96794,16972,5,14-03-2020,132,8,8,12
+Mallory Dalton,d8e63482,Agency,Hired,24-11-2022,Passed,24-05-2021,Failed,21-04-2024,Passed,Female,IT,Full-time,19-12-2023,Involuntary,Personal Reasons,2,61032,3545,2,15-03-2020,44,3,7,14
+Kyle Miller,77939c68,Internal,Hired,24-01-2022,Passed,14-08-2021,Passed,24-10-2023,Passed,Female,Operations,Part-time,,Voluntary,Retirement,25,135775,19955,2,16-03-2020,83,9,3,15
+Tara Fritz,4.57E+69,Online Application,New hire,04-01-2022,Failed,22-07-2021,Failed,05-08-2024,Failed,Male,Operations,Full-time,,Involuntary,Personal Reasons,13,148396,6766,5,17-03-2020,29,5,2,0
+James Woods,9728ea99,Online Application,New hire,03-05-2024,Passed,30-05-2024,Passed,11-11-2020,Failed,Other,Sales,Full-time,,Involuntary,Personal Reasons,25,134148,14771,2,18-03-2020,190,5,10,9
+Thomas Lopez,2bf69d5a,Online Application,Hired,31-07-2024,Failed,08-08-2023,Passed,30-06-2020,Failed,Female,Finance,Part-time,21-12-2022,,Termination,11,60490,4432,4,28-09-2022,9,6,9,15
+Teresa Monroe,1d702492,Online Application,New hire,12-07-2022,Failed,09-02-2020,Passed,22-07-2024,Failed,Male,Operations,Full-time,,Voluntary,Layoff,12,88939,12420,3,,13,5,4,6
+James Lewis,fff4a1c7,Internal,Hired,05-04-2024,Passed,13-05-2020,Failed,04-01-2024,Failed,Female,Marketing,Full-time,,Voluntary,Personal Reasons,30,120427,8328,1,24-11-2023,152,4,5,7
+Suzanne Oconnor,83ea2cd7,Online Application,Hired,03-07-2020,Failed,06-07-2021,Failed,05-08-2020,Passed,Female,Operations,Part-time,,Involuntary,Layoff,1,94817,16249,5,,190,10,3,9
+Leslie Jones,fc84c02b,Online Application,New hire,24-05-2023,Failed,13-01-2022,Passed,01-05-2022,Passed,Other,IT,Part-time,15-09-2020,,,13,42152,11489,1,,85,6,1,3
+Tyler Newton,e8ffe0ab,Agency,Hired,24-05-2022,Failed,09-01-2021,Passed,26-03-2023,Failed,Female,Finance,Contract,10-08-2022,Voluntary,,14,64969,15231,3,11-09-2022,134,6,6,4
+Samuel Hudson,29593a87,Agency,New hire,28-08-2024,Passed,05-04-2022,Passed,26-12-2023,Passed,Male,Sales,Contract,31-03-2023,Involuntary,Other,4,118749,11955,3,,168,6,2,12
+Brenda Hamilton,9f931f35,Online Application,New hire,18-06-2020,Passed,17-06-2020,Failed,01-07-2020,Passed,Other,HR,Full-time,,Voluntary,Other,2,41488,10183,2,05-12-2022,155,6,9,0
+Aaron Burton,b2024ffb,Agency,Hired,17-06-2020,Passed,12-10-2021,Failed,31-03-2021,Failed,Female,Operations,Full-time,03-11-2020,Voluntary,Termination,12,100596,16912,3,26-11-2021,112,10,1,9
+Michelle Berry,c56ba89c,Online Application,Hired,04-12-2022,Failed,09-01-2021,Passed,21-03-2023,Failed,Male,Finance,Full-time,,,Layoff,12,73003,16104,5,,24,1,10,3
+Dr. Kristina Ross MD,762d9889,Internal,Hired,20-02-2022,Failed,23-07-2023,Passed,18-02-2023,Failed,Male,Sales,Part-time,03-11-2020,Voluntary,,22,48910,18067,4,19-08-2021,7,6,2,7
+Jordan Miller,9bb9ecd1,Online Application,New hire,06-01-2023,Failed,08-09-2021,Failed,24-10-2022,Passed,Male,Finance,Contract,,Voluntary,Termination,1,130061,11586,4,,193,6,1,9
+Alyssa Mejia,d2c3980e,Online Application,Hired,29-07-2021,Passed,12-12-2021,Passed,07-08-2024,Passed,Male,HR,Part-time,14-07-2023,Involuntary,,21,120087,9999,3,,90,10,2,10
+Nathan Hale,d76dd96c,Internal,Hired,30-05-2024,Failed,15-01-2020,Failed,14-02-2023,Failed,Male,Sales,Contract,,Involuntary,Termination,3,64506,13086,2,,3,10,10,10
+Nathan Meyers,1f955429,Online Application,Hired,14-02-2024,Failed,12-06-2022,Failed,27-10-2023,Passed,Other,IT,Part-time,03-11-2020,,Personal Reasons,24,127272,2200,4,18-06-2024,0,9,8,12
+Michael Wright,80a7be80,Internal,New hire,23-06-2020,Passed,05-06-2021,Failed,11-12-2022,Failed,Male,Marketing,Contract,,Voluntary,Other,25,107615,2820,2,,200,8,8,0
+Jeffrey Jackson,44adab81,Agency,New hire,10-02-2021,Passed,04-10-2022,Passed,19-10-2022,Failed,Male,Marketing,Part-time,01-07-2020,,Layoff,28,123917,16626,4,,197,4,1,6
+Shawna Green,3b008020,Internal,New hire,03-09-2023,Failed,27-08-2022,Passed,23-02-2022,Failed,Female,Finance,Full-time,03-11-2020,Involuntary,Retirement,22,149561,3804,2,27-03-2020,14,5,5,15
+Douglas Farmer,92f22a15,Agency,Hired,24-01-2020,Passed,04-03-2022,Failed,19-12-2023,Failed,Male,Finance,Full-time,,Voluntary,,3,137304,10033,2,,35,10,7,12
+Jennifer Johnson,f880b971,Agency,Hired,21-08-2023,Passed,28-11-2023,Failed,29-09-2020,Failed,Female,Sales,Full-time,14-10-2022,Voluntary,Termination,2,134802,12850,2,,152,10,1,4
+Jamie West,2cb0ad63,Online Application,New hire,14-01-2023,Passed,09-03-2023,Failed,13-07-2022,Passed,Other,Finance,Contract,03-11-2020,,Other,16,140817,3446,2,08-02-2021,190,9,8,1
+Timothy Watson,e37b3563,Agency,New hire,31-01-2022,Passed,03-01-2024,Passed,06-08-2020,Failed,Female,IT,Full-time,,Voluntary,Personal Reasons,25,57912,13616,4,,41,3,7,11
+Whitney Wright,737f45e7,Internal,Hired,30-08-2024,Passed,05-08-2023,Passed,16-08-2024,Passed,Male,HR,Full-time,03-11-2020,Involuntary,,19,73654,3118,4,26-11-2023,179,10,7,7
+Brian Smith,3eb414fe,Internal,Hired,27-05-2022,Failed,01-02-2021,Passed,27-02-2023,Failed,Female,Finance,Part-time,,Voluntary,Layoff,25,101641,12873,2,27-11-2023,109,9,7,2
+Denise Walters,c6909aa4,Internal,Hired,24-08-2021,Failed,13-03-2021,Passed,25-11-2023,Passed,Male,IT,Full-time,06-05-2022,Voluntary,,16,148784,4294,5,28-11-2023,40,2,4,8
+Mr. John Smith Jr.,27a275b3,Agency,Hired,30-12-2022,Failed,08-04-2024,Passed,25-02-2020,Failed,Male,Sales,Part-time,,Voluntary,Retirement,2,71140,3366,3,29-11-2023,169,4,9,10
+Kevin Mathews,c6e299ea,Agency,Hired,15-05-2022,Failed,11-09-2023,Passed,06-07-2023,Passed,Other,IT,Full-time,,,Other,2,76648,15995,4,30-11-2023,164,2,9,13
+Zachary King,5793d237,Internal,Hired,17-10-2021,Passed,17-03-2021,Failed,20-01-2023,Passed,Female,Operations,Full-time,30-05-2023,Voluntary,Retirement,10,123461,6629,1,01-12-2023,112,5,5,6
+Cynthia Williams,4125ee3f,Agency,Hired,24-07-2020,Failed,15-08-2022,Failed,10-04-2024,Failed,Female,Operations,Part-time,03-11-2020,Voluntary,Personal Reasons,12,118175,10324,5,19-05-2024,2,9,8,9
+Benjamin Bright,4ea6597c,Online Application,New hire,29-12-2021,Passed,17-08-2022,Failed,10-07-2023,Failed,Female,HR,Full-time,,Involuntary,Termination,26,57315,2049,4,20-05-2024,155,3,1,11
+Mrs. Jordan Dennis,dc9fc103,Online Application,Hired,23-12-2020,Failed,25-08-2021,Passed,28-04-2021,Failed,Female,Sales,Contract,,Involuntary,Termination,26,66762,9635,1,21-05-2024,98,10,6,13
+Amy Mayo,d072444a,Internal,Hired,09-07-2020,Failed,14-12-2020,Failed,20-09-2020,Failed,Male,Operations,Contract,,Voluntary,,22,102618,1880,3,22-05-2024,160,6,5,2
+Daniel Simon,11913cec,Agency,New hire,11-05-2022,Passed,07-06-2024,Failed,26-02-2021,Failed,Male,Operations,Part-time,,,Layoff,8,72368,3876,1,23-05-2024,149,8,6,1
+Dwayne Aguirre,8ad72822,Internal,Hired,13-01-2023,Passed,18-12-2023,Failed,14-02-2023,Passed,Female,Marketing,Contract,,,Layoff,22,128574,13640,2,24-05-2024,186,5,1,8
+Kristina Morales,a7db528c,Online Application,Hired,30-06-2023,Failed,12-02-2020,Failed,07-04-2020,Passed,Other,Operations,Part-time,,Voluntary,Other,13,53128,15331,2,,89,9,8,9
+Erica Diaz,d44c37c3,Internal,New hire,07-03-2024,Passed,12-07-2022,Passed,13-01-2021,Failed,Female,Sales,Full-time,03-11-2020,,Termination,12,65619,8807,3,28-01-2023,40,1,9,0
+Rachael James,26746b08,Agency,Hired,01-09-2021,Failed,19-10-2022,Failed,14-03-2023,Failed,Other,Marketing,Contract,03-11-2020,Voluntary,Retirement,5,111827,13560,3,07-02-2024,87,6,7,13
+Mariah Baker,f3bdb755,Online Application,Hired,26-06-2020,Failed,11-10-2022,Failed,13-07-2022,Passed,Female,Marketing,Part-time,21-01-2023,Voluntary,Other,5,125679,15828,2,,7,5,5,12
+Matthew Hunter DDS,d7c85fd0,Online Application,New hire,22-01-2020,Failed,18-05-2023,Passed,26-10-2023,Failed,Female,Operations,Full-time,15-04-2021,,Other,15,48812,17236,4,,103,10,9,0
+Vanessa Russell,a4c05245,Online Application,Hired,24-05-2024,Passed,22-05-2020,Passed,11-05-2022,Passed,Other,Operations,Part-time,,Involuntary,Layoff,30,103540,9451,1,10-10-2021,157,6,5,6
+Melissa Welch,4a96c2e5,Internal,Hired,05-01-2021,Passed,29-05-2022,Failed,23-03-2021,Passed,Male,IT,Part-time,05-12-2022,Voluntary,Personal Reasons,5,66434,16106,4,25-04-2021,80,1,6,6
+Samuel Freeman,d41d39ad,Online Application,New hire,13-11-2022,Failed,06-07-2020,Passed,01-10-2020,Passed,Male,Marketing,Contract,,Voluntary,Personal Reasons,16,127752,18159,1,,173,1,3,11
+Amanda Stephens,155f8410,Online Application,Hired,26-01-2023,Failed,20-12-2023,Passed,19-12-2023,Passed,Other,Sales,Part-time,,Voluntary,,13,127369,4892,2,18-01-2021,134,6,3,13
+Peter Brown,5a4ea3f1,Internal,New hire,25-08-2022,Failed,31-07-2023,Failed,30-07-2023,Passed,Other,HR,Contract,02-02-2024,Voluntary,Layoff,15,131359,17326,5,17-08-2023,64,10,4,14
+Mrs. Melissa Riddle,93b23daa,Agency,Hired,24-03-2024,Failed,12-07-2020,Failed,01-12-2023,Passed,Male,Operations,Contract,,Involuntary,Retirement,18,137075,15126,1,,194,9,5,0
+Sheila Phillips,cb1ec0aa,Online Application,Hired,02-04-2021,Passed,05-05-2021,Passed,07-08-2020,Failed,Female,Operations,Contract,,Involuntary,Other,25,127991,3370,1,,64,3,9,11
+Crystal Davis,2a599f46,Internal,Hired,09-02-2023,Passed,18-05-2024,Failed,26-02-2021,Passed,Other,Sales,Full-time,13-01-2022,Involuntary,Other,11,110418,13771,1,24-04-2024,93,9,4,10
+Benjamin Hayes,c81fe224,Internal,New hire,09-06-2022,Passed,18-04-2020,Passed,22-07-2024,Passed,Female,Marketing,Part-time,,Voluntary,Termination,29,87575,19779,2,15-11-2020,26,9,10,14
+Jennifer Robertson,7.42E+145,Internal,Hired,02-03-2024,Failed,07-05-2024,Failed,15-11-2022,Passed,Other,IT,Contract,04-06-2021,Voluntary,,4,138058,2157,3,,152,10,2,9
+Julia Reilly,6561c0258,Internal,Hired,30-10-2022,Failed,23-01-2020,Failed,29-09-2022,Passed,Female,Sales,Full-time,27-11-2023,Involuntary,Retirement,27,74813,12731,1,08-08-2020,88,1,5,11
+Richard Sullivan,c99b2177,Internal,New hire,07-05-2021,Failed,21-12-2020,Failed,18-02-2023,Passed,Male,Operations,Part-time,24-08-2020,Voluntary,Layoff,22,139777,11038,1,15-08-2021,33,5,5,8
+Mr. Mark Copeland,9d4d4f78,Internal,New hire,04-05-2020,Passed,15-08-2022,Failed,06-06-2024,Passed,Male,Marketing,Part-time,,Voluntary,Other,22,62988,19573,1,16-08-2021,73,7,7,13
+Jacob Taylor,22f17b75,Agency,New hire,19-03-2021,Failed,25-06-2023,Passed,25-08-2021,Passed,Other,Finance,Full-time,10-05-2020,Voluntary,Personal Reasons,17,92419,1771,1,17-08-2021,97,7,9,9
+Donald Johnson,3c5f111b,Internal,New hire,23-06-2021,Passed,22-12-2022,Passed,12-10-2020,Passed,Other,IT,Part-time,,,Termination,4,68888,16534,3,18-08-2021,151,9,8,5
+Colton Schwartz,929bec04,Online Application,Hired,02-08-2020,Failed,14-12-2023,Failed,12-05-2020,Passed,Male,IT,Contract,,,Retirement,18,87534,9555,3,19-08-2021,190,5,1,4
+Joshua Bowen,f56352eb,Internal,Hired,13-07-2020,Passed,29-05-2023,Passed,16-01-2021,Passed,Other,HR,Contract,,,Retirement,23,40728,10983,3,20-08-2021,50,4,5,4
+James Aguilar,0c231ff1,Agency,Hired,29-07-2024,Passed,05-02-2022,Passed,03-06-2023,Failed,Female,Operations,Part-time,,Involuntary,Personal Reasons,17,121954,11682,5,21-08-2021,139,5,1,1
+Stanley Robinson,0055cd9c,Internal,Hired,28-05-2021,Passed,15-10-2021,Failed,21-07-2020,Failed,Other,IT,Contract,16-02-2022,Involuntary,Other,15,113782,15156,2,22-08-2021,56,4,9,15
+David Huffman,2b711b21,Online Application,Hired,03-03-2023,Passed,06-12-2021,Failed,18-05-2023,Failed,Female,Sales,Contract,,Involuntary,Other,20,52033,3322,4,23-08-2021,147,8,5,0
+Victoria Campbell,33ebf0d2,Internal,Hired,14-12-2020,Passed,18-12-2023,Failed,27-01-2022,Passed,Female,IT,Contract,,Voluntary,Personal Reasons,7,62722,4927,4,24-08-2021,5,3,4,13
+Glenn Reid,1f343232,Online Application,Hired,29-01-2022,Passed,14-05-2022,Passed,08-12-2022,Failed,Other,IT,Full-time,22-08-2021,Involuntary,Termination,27,56556,14870,3,25-08-2021,98,2,5,4
+Juan Bell,0d042a49,Online Application,Hired,19-06-2023,Passed,23-11-2021,Failed,27-04-2020,Passed,Female,Finance,Part-time,,Involuntary,Personal Reasons,19,132199,14460,1,26-08-2021,55,4,4,13
+Robert Reynolds,d64222c4,Agency,Hired,24-09-2021,Failed,31-08-2022,Passed,05-03-2023,Failed,Male,Sales,Part-time,13-12-2020,Involuntary,Layoff,25,115375,2438,4,27-08-2021,42,7,10,0
+Jeffrey Schneider,208c380c,Internal,Hired,24-01-2022,Passed,06-01-2021,Failed,17-04-2020,Failed,Other,IT,Full-time,28-01-2022,Involuntary,Personal Reasons,11,88841,12827,5,28-08-2021,63,7,3,9
+Angela Colon,1eb924f2,Agency,New hire,17-09-2023,Failed,11-12-2021,Failed,09-03-2024,Passed,Female,Finance,Contract,24-08-2020,Voluntary,Other,6,58726,7142,5,02-01-2023,157,5,10,12
+Crystal Owen MD,8476e6fc,Agency,Hired,03-06-2022,Failed,01-08-2022,Failed,24-01-2024,Failed,Female,Operations,Full-time,24-08-2020,Involuntary,Other,20,76069,1416,1,14-05-2021,48,9,6,14
+Lindsay James,bc3d2e85,Online Application,New hire,16-12-2020,Failed,01-07-2023,Passed,13-11-2021,Failed,Other,Finance,Full-time,,Involuntary,Other,28,55155,8222,1,15-05-2021,38,9,6,9
+Samantha Elliott,f1205432,Agency,New hire,30-08-2023,Passed,17-02-2021,Failed,05-07-2022,Failed,Female,Operations,Part-time,,,Other,12,131126,13431,2,16-05-2021,125,10,5,14
+Jeremy Hayes,1309543f,Internal,Hired,04-08-2021,Failed,16-06-2023,Passed,27-01-2020,Passed,Male,HR,Full-time,,Involuntary,Retirement,3,54074,13774,2,17-05-2021,116,5,1,0
+Samuel Cook,b4730670,Internal,New hire,15-03-2020,Passed,09-08-2023,Failed,04-07-2023,Failed,Other,IT,Part-time,18-07-2020,Involuntary,,5,79868,15592,5,18-05-2021,135,9,2,5
+Erin Carter,01645d84,Online Application,New hire,03-09-2024,Failed,15-08-2024,Failed,28-07-2023,Passed,Other,IT,Part-time,,Voluntary,,2,80922,8228,2,19-05-2021,114,1,1,0
+Mary Bowen,574a87a8,Online Application,New hire,12-11-2023,Passed,07-01-2021,Passed,15-03-2024,Failed,Other,Marketing,Contract,,Voluntary,,23,104461,13219,4,20-05-2021,122,3,1,3
+Jeffrey Molina,ec286e50,Internal,Hired,08-12-2021,Failed,11-05-2021,Passed,14-10-2021,Failed,Other,Marketing,Part-time,24-08-2020,Involuntary,Other,12,107900,9065,1,14-11-2022,65,8,8,12
+Taylor Dunn,b3f6f747,Agency,Hired,21-05-2021,Passed,06-03-2021,Passed,20-01-2020,Failed,Female,HR,Full-time,02-08-2023,Involuntary,,11,49465,10673,5,15-11-2022,119,8,1,4
+Shannon Hernandez,3f760b53,Online Application,Hired,19-05-2023,Failed,03-06-2023,Passed,14-01-2022,Passed,Other,Operations,Part-time,,Involuntary,Retirement,30,140782,19382,4,16-11-2022,80,7,2,15
+Jerome Miller,19477e5b,Online Application,Hired,17-08-2022,Passed,22-09-2020,Failed,26-04-2022,Passed,Other,HR,Part-time,,Involuntary,,25,91146,7759,4,17-11-2022,101,3,9,4
+Cody Bird,f7cc7a0e,Internal,Hired,05-07-2020,Failed,22-05-2022,Passed,26-01-2022,Failed,Male,Finance,Contract,,Voluntary,Termination,21,74500,16197,1,18-11-2022,67,8,6,10
+Douglas Fletcher,fd2afe97,Online Application,Hired,30-01-2022,Passed,24-02-2022,Passed,20-06-2020,Passed,Female,Finance,Contract,30-01-2020,,Other,25,58212,15748,3,19-11-2022,10,9,10,4
+Kimberly Hodge,6467f332,Online Application,Hired,23-12-2021,Passed,13-12-2022,Passed,28-12-2022,Failed,Female,Finance,Full-time,06-10-2023,Involuntary,Personal Reasons,7,140400,18174,1,08-11-2023,106,9,2,13
+George Hunt,e0582eee,Internal,Hired,31-07-2023,Failed,06-11-2022,Failed,25-07-2024,Passed,Male,Sales,Full-time,28-09-2023,Voluntary,Retirement,8,117103,5576,5,,102,10,9,4
+Stephanie Wheeler,9897ec6d,Agency,Hired,05-05-2021,Passed,23-07-2023,Failed,04-06-2021,Passed,Male,Sales,Full-time,,Voluntary,Personal Reasons,9,147844,16142,1,,105,3,7,7
+Philip Nichols,625e44ae,Agency,New hire,21-07-2022,Passed,12-06-2022,Passed,17-08-2020,Passed,Male,Sales,Contract,,Involuntary,Layoff,16,139573,8571,1,,147,10,6,15
+Kelly Brady,47fdf833,Internal,Hired,19-11-2022,Passed,11-12-2020,Passed,30-09-2020,Passed,Male,Operations,Contract,,Voluntary,,15,40681,9326,4,23-10-2020,139,1,8,0
+Joshua Bush,6cb0ff41,Internal,New hire,26-11-2021,Passed,22-03-2020,Passed,26-09-2023,Passed,Other,IT,Contract,,Involuntary,Layoff,24,49878,14727,1,,185,5,2,0
+Melissa Garcia,6ebf5e2d,Internal,New hire,24-03-2024,Passed,05-03-2024,Passed,03-09-2021,Failed,Female,Finance,Full-time,13-03-2023,Voluntary,Layoff,20,55121,17686,2,25-06-2022,117,2,1,10
+Cynthia Valdez,6dd8e7ff,Internal,New hire,20-02-2020,Passed,08-09-2020,Failed,26-05-2020,Passed,Female,Operations,Full-time,,Voluntary,Termination,21,50313,13213,2,26-06-2022,47,7,10,4
+Brittney Ware,bd2d296b,Agency,Hired,27-09-2022,Failed,25-12-2022,Passed,07-02-2023,Passed,Male,HR,Contract,16-09-2020,Voluntary,Other,3,95048,7414,3,27-06-2022,131,5,5,0
+Brandon Moore,2a14484a,Internal,Hired,30-08-2022,Passed,26-02-2020,Failed,23-03-2022,Passed,Other,Operations,Full-time,15-12-2022,Involuntary,Layoff,28,112121,12189,1,28-06-2022,174,5,2,10
+Michele Allen,e9f7a07e,Internal,Hired,05-11-2021,Failed,20-03-2021,Failed,13-10-2023,Failed,Male,Sales,Part-time,,Involuntary,,15,134503,18938,4,29-06-2022,31,4,6,7
+Joseph Hensley,5d3532cd,Online Application,New hire,30-08-2020,Failed,03-05-2024,Passed,20-02-2024,Passed,Male,Marketing,Contract,,Voluntary,Personal Reasons,12,132522,16639,4,30-06-2022,100,8,10,15
+James Kline,0d7eb54c,Internal,Hired,30-03-2021,Failed,18-05-2023,Passed,23-01-2023,Failed,Male,Finance,Part-time,,,Layoff,6,127746,12868,1,,37,7,3,6
+Juan Morris,458b0b1a,Agency,Hired,26-11-2023,Failed,17-05-2021,Failed,31-10-2023,Passed,Other,Sales,Part-time,,Voluntary,Other,9,142815,7741,2,06-05-2023,33,3,8,11
+Jasmine Fischer,20cd8c9e,Agency,Hired,12-09-2021,Failed,31-03-2022,Failed,24-05-2021,Failed,Male,HR,Contract,09-09-2022,Involuntary,,26,138797,12453,2,07-05-2023,103,3,2,4
+Adam Bush,24cea2eb,Internal,Hired,16-05-2020,Failed,10-04-2023,Passed,14-07-2020,Failed,Other,Operations,Part-time,,Voluntary,Personal Reasons,12,71473,11494,4,08-05-2023,62,3,10,13
+Randall Smith,ff4accc9,Internal,Hired,24-03-2023,Passed,19-06-2021,Passed,13-11-2022,Passed,Male,Sales,Contract,,Voluntary,,14,107563,15871,4,09-05-2023,39,9,2,3
+Emily Gilmore,a7c3dd33,Internal,Hired,29-07-2021,Passed,10-08-2024,Passed,26-08-2020,Failed,Other,Sales,Full-time,24-08-2024,Voluntary,Other,2,148069,5839,3,10-05-2023,132,5,5,5
+Tammy Wright,135fab2c,Agency,Hired,21-07-2023,Failed,30-05-2021,Passed,11-06-2024,Failed,Female,HR,Full-time,,,Termination,7,86889,18876,5,11-05-2023,112,3,6,8
+Crystal Williams,bf807f84,Internal,Hired,05-02-2024,Passed,10-06-2020,Failed,26-07-2023,Failed,Female,Finance,Full-time,,Involuntary,,24,65563,18482,3,12-05-2023,69,5,2,10
+Jeff Reed,105076f7,Internal,Hired,15-10-2023,Passed,17-02-2020,Failed,13-03-2024,Passed,Male,Finance,Part-time,,Voluntary,Layoff,9,108641,8699,5,13-05-2023,72,4,4,5
+Jason Heath,8314d4bf,Agency,Hired,24-04-2020,Passed,05-03-2023,Passed,25-01-2020,Failed,Female,Marketing,Part-time,,Voluntary,Termination,12,52784,7414,5,14-05-2023,175,2,8,12
+Jennifer Johnson,5732997a,Internal,Hired,28-04-2022,Failed,27-01-2021,Failed,23-12-2020,Failed,Other,Sales,Full-time,,,Termination,10,81511,13269,4,15-05-2023,48,1,3,12
+Maria Alvarez,beb0f9a1,Agency,New hire,22-05-2020,Failed,04-06-2024,Failed,01-07-2020,Failed,Male,Finance,Part-time,20-01-2021,Voluntary,,3,123035,8355,2,,190,7,7,12
+Christian Singh,a99b6632,Online Application,Hired,13-11-2023,Failed,13-07-2022,Passed,29-07-2023,Passed,Male,Marketing,Contract,,Involuntary,Other,12,101409,13398,2,,3,10,6,4
+Sherri Waters,6f02e68c,Internal,Hired,18-05-2021,Passed,10-12-2020,Failed,29-02-2020,Failed,Female,IT,Full-time,14-02-2023,Involuntary,Retirement,24,140918,7323,5,30-07-2023,10,4,8,15
+Christina Forbes,2d6879d5,Agency,Hired,04-04-2023,Failed,02-03-2023,Passed,10-10-2021,Failed,Other,IT,Full-time,28-06-2021,Involuntary,Other,9,145745,10614,2,,174,5,8,11
+Christopher Richards,3a5eba23,Agency,Hired,17-05-2023,Failed,26-08-2022,Passed,19-07-2020,Passed,Female,Finance,Full-time,,Involuntary,,16,62454,1431,5,24-10-2022,157,9,4,10
+Julie Valenzuela MD,ae4cfb61,Agency,New hire,12-03-2024,Failed,13-02-2023,Passed,19-02-2022,Failed,Male,HR,Contract,31-05-2022,Involuntary,,13,123889,19321,3,25-10-2022,52,6,1,10
+Kristina Dalton,b36e30e3,Agency,Hired,31-10-2021,Passed,13-02-2023,Passed,05-01-2020,Failed,Female,Finance,Full-time,05-07-2022,Involuntary,Other,24,64473,13305,5,26-10-2022,85,2,10,6
+Lee Flores,b6d94d8a,Internal,Hired,10-08-2020,Failed,24-11-2020,Failed,16-04-2020,Failed,Female,Operations,Part-time,,Voluntary,,7,109188,3105,1,27-10-2022,46,8,4,2
+Stacey Salinas,01c0ecd2,Internal,Hired,18-10-2021,Failed,14-06-2020,Failed,19-06-2024,Passed,Male,Finance,Full-time,10-10-2023,,Termination,27,115806,5242,5,28-10-2022,21,9,9,11
+Michael King,81e450d5,Internal,Hired,17-10-2022,Passed,16-06-2024,Failed,15-05-2023,Passed,Other,IT,Full-time,,Involuntary,Termination,15,44658,11389,5,29-10-2022,154,4,10,13
+Michael Jones,17c81741,Agency,Hired,25-04-2021,Failed,19-02-2020,Passed,20-12-2021,Passed,Female,Sales,Full-time,,Involuntary,Layoff,1,108303,5930,2,30-10-2022,171,8,1,0
+Thomas Jackson,abf1cfe1,Agency,Hired,19-10-2022,Passed,06-02-2020,Passed,31-01-2020,Passed,Female,Finance,Full-time,,Voluntary,Other,7,105160,13935,4,25-08-2020,57,10,7,4
+Michael Jones,843c1a50,Agency,Hired,27-05-2021,Passed,14-01-2022,Passed,09-04-2020,Failed,Other,Finance,Contract,,Voluntary,Layoff,15,48796,11382,2,,149,7,1,9
+Ann Park,d8fa29a4,Agency,New hire,03-08-2023,Failed,25-09-2020,Failed,25-06-2021,Passed,Male,Sales,Contract,,Involuntary,,10,88230,8696,5,14-01-2020,36,1,10,2
+Valerie Jackson,4beebeeb,Online Application,Hired,17-02-2021,Failed,16-06-2022,Passed,08-12-2021,Failed,Female,Operations,Contract,06-12-2021,Voluntary,,26,129362,15429,5,21-01-2020,34,6,4,15
+Rhonda Rose,1559a863,Internal,Hired,18-12-2021,Failed,29-07-2022,Passed,08-04-2021,Passed,Male,HR,Full-time,,Voluntary,Personal Reasons,28,138415,17662,3,,191,5,3,7
+Jeffrey Huff,3bc7ed6f,Internal,Hired,18-12-2021,Failed,01-02-2022,Passed,13-05-2023,Passed,Male,IT,Part-time,06-12-2021,,Retirement,1,81826,6512,4,01-07-2023,37,8,8,13
+Austin Church,941c8492,Internal,Hired,25-10-2020,Passed,23-05-2024,Failed,09-10-2021,Passed,Female,Operations,Part-time,06-12-2021,Voluntary,Retirement,3,105896,11429,4,18-02-2022,1,2,8,2
+Walter Braun,6b03faff,Agency,New hire,12-02-2023,Passed,26-09-2020,Passed,24-12-2022,Passed,Female,HR,Contract,19-09-2023,,Layoff,15,90961,8003,4,,191,9,7,0
+Ryan Jacobs,29ee9c51,Online Application,New hire,27-07-2021,Failed,12-08-2020,Passed,30-03-2024,Passed,Other,Sales,Part-time,06-12-2021,Voluntary,Retirement,7,58525,17361,1,29-10-2020,24,4,5,7
+Daniel Garcia,b5752dd5,Agency,Hired,24-05-2024,Failed,06-08-2023,Passed,24-08-2023,Passed,Other,HR,Contract,10-07-2020,Involuntary,,22,85114,14847,2,,113,5,1,9
+Maria Le,5e4c611c,Internal,Hired,01-01-2021,Passed,09-05-2024,Passed,24-09-2022,Failed,Female,HR,Contract,,Involuntary,Termination,27,145415,9372,1,03-01-2022,6,1,2,8
+Gregory Stewart,0e6fddb8,Agency,Hired,29-04-2023,Passed,12-02-2020,Passed,15-11-2021,Failed,Male,IT,Full-time,30-06-2024,Involuntary,Layoff,10,146297,12150,3,,2,10,2,11
+Susan Owen,6384327b,Agency,Hired,04-01-2023,Passed,10-05-2023,Failed,25-02-2022,Passed,Female,Marketing,Part-time,01-12-2021,Involuntary,Retirement,23,66917,12676,5,10-11-2021,162,10,6,10
+Mrs. Gail Hoffman,4050dec6,Internal,New hire,19-09-2022,Passed,19-11-2021,Failed,18-12-2022,Failed,Male,IT,Part-time,15-06-2021,Involuntary,Retirement,12,48473,1863,2,01-04-2021,183,4,2,4
+Philip Rivera,27bf39a7,Agency,Hired,20-10-2022,Passed,12-07-2024,Passed,27-02-2022,Passed,Female,IT,Contract,,,Other,28,120379,14751,1,14-11-2020,185,2,10,1
+Lori Mclaughlin,2cd0a428,Internal,New hire,30-06-2020,Passed,29-01-2020,Passed,10-01-2022,Passed,Female,Finance,Full-time,16-04-2024,Involuntary,Termination,17,59962,14668,3,15-11-2020,47,8,8,4
+Paula Evans,41863405,Agency,Hired,14-04-2022,Failed,17-04-2022,Passed,11-03-2020,Failed,Other,HR,Full-time,,Voluntary,Other,10,130120,10405,2,16-11-2020,151,10,7,13
+Alicia Brown,6f52b784,Internal,Hired,07-06-2023,Failed,01-08-2023,Passed,29-01-2021,Passed,Male,Marketing,Part-time,,Involuntary,Retirement,20,63038,11105,5,17-11-2020,185,8,5,8
+Martha Schroeder,cabc5a7c,Online Application,New hire,18-03-2024,Passed,08-05-2021,Passed,01-04-2024,Failed,Other,Sales,Contract,17-06-2024,,Layoff,25,62099,5172,3,18-11-2020,125,9,4,1
+Alexandria Smith,ad2906f7,Internal,Hired,13-01-2024,Failed,23-01-2020,Passed,01-08-2024,Passed,Female,IT,Part-time,15-06-2021,Involuntary,Personal Reasons,13,57142,17135,4,19-11-2020,46,4,10,11
+Steven Gilbert,78487ed1,Online Application,Hired,24-04-2021,Passed,04-06-2021,Passed,05-02-2023,Failed,Female,Sales,Contract,08-07-2022,,Retirement,30,97265,6110,1,,84,6,7,11
+Kayla Williams,1a624c2e,Online Application,Hired,29-08-2023,Passed,11-11-2022,Failed,14-04-2020,Failed,Male,Finance,Contract,15-06-2021,Involuntary,Retirement,12,147585,2947,3,18-02-2020,185,10,5,3
+Susan Cook DDS,b0d35c36,Internal,New hire,22-05-2023,Failed,07-07-2020,Passed,08-12-2023,Passed,Female,Sales,Full-time,15-06-2021,Involuntary,Personal Reasons,22,147437,8793,5,05-03-2021,194,5,1,11
+Michael Powers,ba9f4748,Internal,Hired,01-08-2020,Failed,14-01-2020,Passed,11-05-2021,Failed,Male,Marketing,Contract,15-06-2021,Voluntary,Layoff,23,98688,4820,4,12-08-2023,178,4,1,12
+Jacob Stewart,b0315ec8,Agency,Hired,19-01-2022,Passed,30-11-2020,Passed,10-11-2022,Passed,Male,Finance,Part-time,,Involuntary,,12,124715,12644,3,13-08-2023,63,3,7,1
+Joshua West,a426d212,Internal,Hired,19-06-2024,Passed,22-09-2023,Failed,17-03-2022,Failed,Male,Sales,Full-time,,Voluntary,Layoff,13,100870,19947,1,14-08-2023,186,7,10,7
+Matthew Cruz,2cd73f7f,Online Application,New hire,12-04-2023,Failed,12-07-2021,Failed,04-01-2020,Passed,Female,IT,Part-time,,Voluntary,Layoff,25,132906,7305,4,15-08-2023,54,9,8,10
+Austin Reed,e1a1bc54,Agency,New hire,13-09-2022,Passed,07-01-2020,Failed,20-07-2024,Failed,Other,Marketing,Contract,,Voluntary,Other,6,140232,16247,3,16-08-2023,26,5,3,2
+David May,31a00890,Internal,New hire,29-11-2023,Passed,25-04-2022,Failed,19-04-2021,Failed,Male,IT,Contract,,Involuntary,Layoff,5,97980,16377,4,06-11-2023,91,8,4,9
+Deborah Moore,8186eb74,Online Application,Hired,15-11-2021,Failed,26-05-2020,Failed,05-09-2024,Passed,Other,Marketing,Part-time,,Involuntary,,3,93956,10352,4,,52,4,5,1
+Veronica Richardson,f96788f8,Online Application,Hired,27-02-2020,Passed,12-01-2021,Passed,03-03-2023,Passed,Male,HR,Part-time,15-02-2021,Involuntary,Layoff,17,127351,9003,4,05-05-2024,192,7,10,11
+Christian White PhD,e91f133d,Online Application,New hire,15-08-2023,Passed,08-03-2020,Failed,18-10-2023,Passed,Female,Operations,Full-time,,Involuntary,Personal Reasons,26,44096,16636,3,08-05-2023,34,6,7,11
+Tamara Thomas,4bf7586e,Internal,Hired,21-02-2022,Passed,14-06-2023,Failed,17-07-2024,Failed,Other,HR,Contract,22-08-2022,Voluntary,Termination,2,131815,5253,1,,3,10,6,15
+Eric Giles,ecdb4401,Online Application,Hired,23-12-2021,Failed,27-10-2023,Failed,21-06-2023,Failed,Other,Sales,Part-time,,Involuntary,Layoff,29,56095,19790,4,27-07-2022,48,5,9,0
+Lisa Li,26e0d0aa,Online Application,New hire,06-10-2020,Passed,21-09-2023,Passed,21-07-2022,Failed,Female,Finance,Contract,,,Personal Reasons,3,79664,11170,3,28-07-2022,156,6,9,8
+Brandon Williams,d70906aa,Online Application,Hired,22-09-2020,Passed,14-04-2022,Failed,26-10-2023,Failed,Other,Operations,Full-time,,Involuntary,,23,101673,2091,5,29-07-2022,76,5,7,13
+Jessica Cunningham,a796f9ff,Agency,New hire,27-07-2021,Passed,22-09-2021,Failed,26-04-2022,Failed,Male,Finance,Part-time,,Voluntary,Other,26,107878,18770,1,30-07-2022,154,10,9,3
+Derrick Gill,6bfebf0d,Agency,New hire,23-10-2023,Passed,26-12-2021,Failed,15-05-2021,Passed,Male,Finance,Full-time,,,Other,1,40674,12219,3,31-07-2022,150,7,6,5
+Vincent Cook,eafce076,Agency,Hired,10-02-2024,Failed,10-04-2022,Failed,28-03-2021,Failed,Other,Marketing,Part-time,,Involuntary,Other,29,46223,10576,5,01-08-2022,109,10,8,5
+Tina Tate,c020972c,Online Application,New hire,02-12-2023,Passed,31-07-2021,Passed,13-11-2021,Passed,Other,Operations,Full-time,,Involuntary,Other,8,77367,13610,2,,144,6,2,12
+Tammy Cole,daea9b01,Online Application,Hired,31-05-2020,Passed,31-10-2023,Failed,13-10-2021,Failed,Female,Sales,Part-time,,,Termination,3,101134,18140,2,,74,7,6,8
+Samantha Alexander,2bacb148,Online Application,Hired,19-05-2024,Passed,19-07-2024,Passed,19-11-2022,Failed,Other,HR,Part-time,25-03-2023,,Other,5,131994,17395,4,26-01-2023,8,2,6,11
+Renee Gonzalez,5743723,Internal,Hired,09-07-2021,Failed,20-07-2024,Passed,12-04-2024,Failed,Female,IT,Part-time,29-09-2022,,Termination,17,47835,9229,3,27-01-2023,193,10,9,7
+Mark Pugh,30408cc0,Online Application,Hired,10-06-2020,Failed,06-08-2022,Failed,15-06-2024,Passed,Other,Finance,Contract,25-03-2020,,,8,135568,5243,4,28-01-2023,122,7,10,7
+Tyler Snow,1dca7e92,Online Application,Hired,13-03-2024,Failed,17-04-2021,Failed,30-03-2022,Passed,Male,Sales,Full-time,,Voluntary,,9,70073,12599,1,29-01-2023,153,2,1,14
+David Perez,9c12cac6,Internal,Hired,31-01-2021,Passed,23-03-2020,Failed,06-06-2021,Passed,Male,IT,Part-time,,,Termination,4,70548,2598,3,30-01-2023,174,10,2,15
+Raymond Bryant,7ecd6a02,Online Application,Hired,25-07-2022,Passed,13-04-2023,Passed,08-06-2024,Passed,Female,Finance,Full-time,,Voluntary,Other,19,57173,8981,5,31-01-2023,2,2,1,11
+Michael Baker,6b3e8dd7,Internal,Hired,02-08-2020,Passed,04-07-2024,Passed,26-03-2023,Passed,Other,Operations,Full-time,06-02-2022,Involuntary,Personal Reasons,16,65715,19969,1,01-02-2023,59,6,3,13
+Anthony Brooks,10e91dea,Agency,Hired,10-06-2024,Failed,29-04-2022,Passed,01-02-2021,Passed,Male,Sales,Full-time,,Voluntary,Layoff,19,40920,1226,2,,25,8,2,13
+Sean Johnson,73dd1ec7,Internal,New hire,02-08-2020,Passed,01-01-2022,Passed,27-05-2022,Passed,Other,Finance,Contract,,,,26,66002,6341,2,,12,9,7,11
+Mr. Jordan Jones,184abccc,Agency,Hired,02-04-2022,Passed,07-02-2022,Passed,15-03-2023,Failed,Female,Marketing,Contract,26-02-2020,Voluntary,,5,80498,14490,1,,50,5,5,3
+Laurie Smith,908d1fdf,Agency,Hired,22-04-2024,Passed,01-06-2023,Passed,12-02-2023,Passed,Other,Sales,Part-time,,Involuntary,Layoff,14,87019,4224,3,,180,4,6,14
+Courtney Powers,c5a650e0,Agency,New hire,26-03-2021,Failed,13-11-2021,Failed,04-01-2024,Failed,Other,HR,Full-time,,Involuntary,Retirement,17,95006,5229,2,27-08-2021,155,5,4,8
+Pamela Park,1ae8cb0c,Agency,New hire,04-10-2022,Failed,24-03-2020,Passed,29-01-2024,Failed,Male,IT,Full-time,17-01-2022,Involuntary,Retirement,25,118635,8867,4,28-08-2021,143,4,9,6
+Sara Flowers,3.93E+05,Agency,Hired,14-07-2022,Failed,11-10-2022,Passed,23-10-2022,Passed,Other,Marketing,Contract,22-10-2022,Voluntary,,22,143315,13143,5,29-08-2021,102,7,7,14
+Charlene Johnston,766c1a24,Online Application,Hired,18-09-2023,Failed,26-08-2022,Passed,14-06-2021,Passed,Other,IT,Full-time,,Involuntary,Other,21,133098,7870,4,,132,7,10,4
+Allison Aguirre,0ac3d962,Online Application,Hired,02-04-2023,Failed,20-03-2021,Passed,17-01-2023,Passed,Other,Marketing,Part-time,,Voluntary,Other,5,52195,15866,1,18-07-2020,28,1,2,13
+Matthew Cole,833d89b1,Online Application,Hired,03-10-2021,Failed,03-11-2023,Failed,05-02-2020,Failed,Other,Sales,Contract,,Voluntary,,21,115950,1711,3,,71,5,2,0
+Jeremy Smith,d62d9fab,Agency,New hire,09-10-2022,Passed,27-08-2022,Passed,26-02-2020,Passed,Female,IT,Part-time,,Voluntary,Personal Reasons,2,55611,12053,4,,46,10,1,2
+Jason White,100a5ba9,Agency,New hire,13-03-2023,Passed,29-08-2020,Failed,23-06-2022,Passed,Other,HR,Full-time,04-09-2021,Involuntary,Termination,13,52489,7499,5,,80,10,6,6
+Chloe Grimes,002c60cb,Agency,Hired,11-04-2024,Passed,22-03-2022,Failed,01-06-2023,Passed,Other,Finance,Contract,,Involuntary,Layoff,24,141346,17763,1,,78,7,8,7
+Kyle Thompson,89f2fbb0,Internal,Hired,03-09-2024,Passed,18-03-2023,Failed,09-06-2023,Passed,Female,Sales,Part-time,23-03-2024,Voluntary,Termination,8,149762,4704,2,13-11-2023,58,9,9,14
+Cheryl Baker,24f7bc79,Online Application,New hire,28-06-2020,Passed,27-01-2021,Passed,11-07-2024,Failed,Other,IT,Full-time,13-04-2020,Involuntary,Retirement,23,85315,15765,1,,187,10,5,5
+Michaela Strong,4dd065b0,Internal,Hired,05-08-2020,Passed,02-02-2022,Passed,18-09-2020,Passed,Male,Sales,Part-time,19-01-2021,Voluntary,Personal Reasons,15,123660,18124,5,26-10-2022,111,1,2,1
+Aaron Rivas,ecb0e785,Agency,New hire,16-04-2024,Failed,27-04-2021,Failed,16-02-2023,Failed,Female,Operations,Contract,,Involuntary,Other,3,57631,16794,2,,60,9,1,7
+Laura Ramirez,849218b5,Internal,Hired,07-01-2024,Passed,18-05-2023,Failed,29-05-2023,Passed,Male,Operations,Part-time,19-01-2021,Involuntary,,22,103816,10574,3,12-06-2020,199,9,9,2
+Todd Hernandez,b958dfcf,Internal,Hired,15-05-2024,Passed,06-05-2022,Failed,01-01-2022,Failed,Female,IT,Contract,03-10-2022,Involuntary,Retirement,15,128350,15102,1,13-06-2020,109,4,2,12
+Michelle Kaufman,bcf0891a,Agency,New hire,23-12-2022,Passed,03-10-2022,Failed,05-06-2020,Failed,Other,Marketing,Part-time,,Voluntary,Termination,10,53884,15317,3,14-06-2020,55,2,5,0
+Michael Garcia,0c091f76,Internal,Hired,28-05-2022,Passed,25-04-2021,Failed,30-07-2021,Passed,Female,Marketing,Part-time,,Involuntary,Termination,23,44200,6629,3,15-06-2020,166,9,7,15
+Kara Morris,0b000f40,Agency,Hired,11-01-2024,Passed,04-12-2023,Passed,30-12-2020,Failed,Male,Finance,Part-time,,Voluntary,Personal Reasons,21,72737,3816,4,16-06-2020,161,3,2,14
+Justin Thompson,06d36fb4,Internal,Hired,03-07-2023,Failed,24-09-2022,Passed,14-03-2021,Passed,Female,Marketing,Contract,,Involuntary,Personal Reasons,4,130865,5512,2,17-06-2020,108,5,10,1
+Justin Silva,49502f67,Internal,Hired,28-12-2020,Passed,22-04-2023,Failed,25-07-2020,Failed,Other,Operations,Full-time,,Involuntary,Retirement,5,59628,9679,1,,16,5,4,1
+William King,418bdcb4,Agency,Hired,10-07-2024,Failed,03-05-2022,Failed,17-06-2021,Failed,Other,IT,Contract,19-01-2021,Involuntary,Other,11,77860,15900,5,07-05-2020,178,8,3,0
+Judith Blake,9004f7b8,Online Application,New hire,21-03-2020,Passed,11-05-2024,Failed,02-04-2023,Passed,Other,HR,Contract,01-06-2022,,Layoff,13,55807,19648,2,,181,7,9,11
+Elizabeth Gonzalez,9b1c5fa0,Internal,New hire,10-11-2021,Passed,26-04-2022,Passed,07-05-2023,Passed,Female,HR,Full-time,,,Other,5,134753,11378,5,,126,2,1,3
+Kim Edwards,77dea9b3,Agency,Hired,01-12-2021,Passed,16-01-2021,Failed,04-12-2020,Failed,Other,HR,Contract,,Voluntary,Other,11,73481,19583,3,28-03-2021,33,8,6,1
+Theresa Molina,8641d5488,Internal,Hired,10-02-2024,Failed,14-12-2020,Passed,09-03-2023,Failed,Other,Sales,Contract,09-02-2023,Voluntary,Termination,17,118728,9436,2,29-03-2021,62,10,3,6
+Gail Walton,603fe057,Online Application,Hired,18-06-2021,Passed,02-11-2023,Failed,17-04-2024,Passed,Other,Finance,Full-time,03-11-2022,Involuntary,,16,63218,4615,3,30-03-2021,52,3,4,4
+Lawrence Holmes,033176d3,Agency,Hired,28-04-2021,Passed,10-08-2022,Failed,03-11-2022,Failed,Other,Operations,Full-time,,Involuntary,,3,98785,7651,4,31-03-2021,29,6,2,10
+Miss Megan Sosa,e56d88e9,Online Application,Hired,16-04-2021,Passed,25-10-2023,Passed,23-05-2020,Failed,Female,Operations,Contract,08-04-2024,Voluntary,,12,78461,14141,4,01-04-2021,78,3,3,10
+Kaitlin Shields,94f612e9,Agency,New hire,01-05-2022,Failed,25-11-2022,Failed,04-02-2022,Passed,Other,IT,Part-time,,,Other,18,112004,9328,4,02-04-2021,148,10,7,7
+Bruce Lopez,14c81754,Internal,New hire,24-02-2021,Passed,25-05-2021,Passed,27-01-2021,Failed,Other,Finance,Part-time,,Involuntary,Other,17,82490,5502,1,03-04-2021,158,3,3,1
+Richard Pope,8feec31d,Online Application,New hire,17-12-2023,Passed,27-04-2024,Passed,24-08-2020,Passed,Female,Marketing,Contract,29-08-2021,Voluntary,Other,22,51221,16961,4,04-04-2021,161,1,10,0
+Patrick Castillo,0a6e651a,Internal,New hire,03-06-2020,Failed,13-03-2021,Failed,23-07-2021,Failed,Female,Sales,Full-time,05-02-2020,,Other,28,68882,13318,5,05-04-2021,143,8,7,3
+Taylor Meyer,9498e33e,Agency,Hired,09-11-2020,Failed,21-03-2024,Failed,29-06-2023,Failed,Male,IT,Contract,,Voluntary,Retirement,17,127674,14343,2,06-04-2021,167,9,5,0
+William Oliver,7278b77c,Agency,New hire,22-01-2024,Failed,29-03-2021,Passed,06-01-2022,Failed,Male,Operations,Contract,07-08-2021,Voluntary,Retirement,12,58160,6757,4,,174,1,9,15
+Lisa Clark,945f6321,Agency,Hired,11-08-2023,Passed,23-02-2023,Failed,16-02-2020,Failed,Male,Marketing,Full-time,01-06-2021,,Personal Reasons,13,126253,8190,1,09-05-2020,65,6,2,10
+Jeffrey Acosta,065e2b49,Internal,New hire,17-02-2023,Passed,19-06-2022,Passed,20-01-2022,Failed,Other,IT,Contract,18-01-2020,Voluntary,Retirement,10,52578,3884,2,,166,5,9,11
+Kyle Douglas,0ba4daab,Internal,New hire,07-11-2021,Failed,09-02-2022,Failed,06-04-2024,Failed,Other,Finance,Part-time,02-09-2023,,,29,52157,6516,3,,140,2,3,3
+Julie Clark,fdac0d0b,Internal,Hired,07-11-2021,Failed,24-04-2020,Failed,17-09-2021,Failed,Male,IT,Full-time,30-09-2022,Involuntary,,30,40938,15158,5,,116,4,4,6
+Thomas Jackson,c643c6ff,Internal,New hire,19-04-2020,Failed,11-11-2021,Failed,05-11-2021,Failed,Other,HR,Contract,26-02-2022,Involuntary,Termination,8,73382,3395,3,16-08-2020,84,2,5,3
+Ashley Bailey,513e1500,Agency,Hired,08-06-2021,Passed,07-10-2020,Passed,21-07-2024,Failed,Female,Sales,Part-time,,Involuntary,,21,128508,16162,2,,115,5,10,9
+Sara Sosa,0a83023c,Internal,New hire,27-08-2021,Failed,08-10-2022,Failed,28-09-2021,Passed,Male,Sales,Part-time,26-02-2022,Voluntary,Other,9,65288,12625,4,25-02-2020,129,2,2,9
+David Mcdonald,5c68898c,Agency,Hired,11-01-2024,Failed,01-03-2020,Failed,22-05-2023,Failed,Female,Sales,Full-time,,,Layoff,22,65442,1722,1,,78,10,4,8
+Becky Munoz,88c3db0c,Internal,New hire,10-04-2022,Passed,18-02-2022,Passed,06-02-2023,Failed,Female,Sales,Contract,13-02-2020,Voluntary,Termination,18,129987,16929,4,,119,5,6,15
+Alejandro Barry,9bc994c8,Internal,Hired,12-03-2024,Passed,25-08-2021,Failed,24-11-2023,Failed,Other,HR,Part-time,,Voluntary,Layoff,13,112410,15310,5,,130,5,5,5
+Theresa Olson,172bdf74,Internal,Hired,23-07-2024,Passed,13-04-2023,Failed,11-08-2024,Passed,Female,Finance,Contract,23-12-2023,,Retirement,26,46763,14599,1,,155,1,4,6
+Nathan Harmon II,84d02b7b,Online Application,Hired,06-12-2022,Passed,10-04-2023,Passed,07-09-2023,Passed,Other,Marketing,Contract,,Voluntary,Layoff,25,69219,12555,4,,187,3,10,8
+Tracy Mendoza,e5229b7d,Internal,Hired,12-12-2021,Failed,08-08-2020,Passed,18-10-2023,Failed,Female,Operations,Full-time,07-12-2022,,Other,27,45463,11004,2,,31,5,1,6
+Steve Smith,b9ec51ba,Internal,New hire,21-07-2022,Passed,07-06-2021,Failed,02-07-2024,Passed,Other,Operations,Part-time,26-02-2022,Involuntary,,4,87203,1197,5,22-06-2021,94,8,10,3
+John Harvey,df4cf0a7,Internal,Hired,14-03-2020,Passed,15-09-2021,Passed,24-10-2020,Passed,Female,Marketing,Contract,,Voluntary,Termination,5,95936,1506,2,,149,7,9,6
+Randy Murphy,4d370c8e,Internal,Hired,02-08-2020,Failed,03-02-2022,Passed,01-11-2020,Passed,Male,IT,Contract,,Involuntary,Retirement,21,120566,14097,5,16-11-2021,177,4,5,14
+Ashley Mcdaniel,ac75615a,Internal,Hired,03-10-2023,Passed,23-03-2023,Passed,19-03-2020,Passed,Female,Operations,Contract,,,Termination,20,95498,15515,2,,86,1,6,8
+Robert Gordon,fb1eb5ef,Online Application,Hired,11-09-2020,Passed,19-09-2021,Failed,17-01-2022,Passed,Female,HR,Part-time,08-06-2021,,Retirement,24,134742,9463,1,06-02-2021,39,6,5,12
+Rachel Mahoney,a40e6491,Online Application,New hire,27-08-2020,Failed,03-05-2020,Passed,23-12-2023,Failed,Male,Finance,Contract,01-02-2024,Involuntary,Other,20,40100,16082,4,,194,7,7,8
+Gregory Hernandez,eef7fa06,Internal,New hire,23-09-2023,Passed,05-10-2021,Failed,12-02-2021,Failed,Female,HR,Part-time,14-06-2020,Involuntary,,22,121309,9222,4,,153,8,1,12
+April Welch,62ec020f,Online Application,New hire,03-04-2020,Passed,24-08-2024,Failed,03-09-2024,Failed,Male,Operations,Full-time,,Involuntary,Termination,21,98306,18327,2,23-02-2021,35,1,8,1
+Derek Maynard,4d5b22a1,Internal,Hired,14-08-2022,Passed,25-10-2022,Passed,16-04-2024,Failed,Female,Marketing,Part-time,,Voluntary,Layoff,13,75090,17281,3,,150,8,8,15
+Kim Richard,770c5caa,Online Application,New hire,02-04-2023,Failed,12-03-2021,Passed,22-01-2024,Failed,Other,Finance,Contract,26-11-2022,Voluntary,,25,118423,3475,3,,172,4,3,10
+Mark Yates,8df54cca,Online Application,Hired,28-10-2021,Failed,23-12-2020,Passed,07-11-2020,Failed,Male,Operations,Part-time,,Involuntary,Layoff,24,108351,1967,1,,196,3,6,5
+Courtney Garcia,4222d9f5,Online Application,New hire,12-05-2024,Passed,24-11-2020,Passed,07-10-2023,Passed,Male,HR,Part-time,28-04-2024,,Termination,14,42415,7726,1,13-12-2023,200,9,3,4
+Mark Ford,7e584945,Agency,Hired,13-12-2022,Passed,30-05-2022,Failed,24-05-2020,Failed,Male,Operations,Part-time,03-09-2020,,Other,17,105106,19505,1,,68,1,8,6
+Matthew Reyes,4442099b,Agency,Hired,03-08-2020,Failed,02-12-2021,Passed,10-11-2020,Passed,Other,Marketing,Full-time,09-08-2022,Voluntary,,18,113275,13857,5,,194,2,8,8
+Ronnie Friedman,b04a6a30,Internal,Hired,02-10-2022,Failed,10-12-2020,Passed,18-09-2023,Failed,Female,Operations,Part-time,,,,2,140498,15731,5,,131,1,5,0
+Richard Patterson,ae8e3f20,Internal,New hire,21-01-2024,Passed,25-08-2023,Passed,30-06-2020,Passed,Male,HR,Full-time,,Involuntary,Personal Reasons,5,132243,6497,3,27-05-2021,4,8,2,14
+Drew Santana,23b9de4d,Agency,Hired,30-04-2023,Failed,04-06-2023,Passed,21-12-2020,Failed,Female,IT,Part-time,,Involuntary,,1,74239,15331,3,,180,4,5,7
+Laurie Guerrero,53a69d78,Internal,New hire,29-07-2024,Failed,08-08-2023,Passed,16-06-2024,Failed,Female,HR,Contract,,Voluntary,Termination,15,103773,15813,4,19-03-2023,3,2,10,12
+Roger Vega,39187bce,Agency,Hired,13-01-2021,Passed,12-06-2023,Passed,03-04-2023,Failed,Male,Sales,Contract,,Involuntary,Layoff,21,102542,15870,3,,12,9,3,8
+Jeff Smith,24b50c2e,Internal,Hired,27-09-2020,Passed,03-11-2023,Passed,21-03-2021,Passed,Female,HR,Part-time,,Voluntary,Personal Reasons,27,119200,13300,3,,142,3,4,13
+Mary Reed,4b7144db,Internal,Hired,16-01-2021,Failed,02-08-2021,Passed,29-11-2020,Failed,Other,Finance,Part-time,27-07-2020,Voluntary,Personal Reasons,14,132912,8683,5,,39,2,9,10
+Joe Garcia,6be9a23a,Internal,Hired,11-04-2021,Failed,24-05-2022,Failed,29-08-2024,Failed,Female,Marketing,Full-time,07-11-2022,Voluntary,Retirement,13,42494,1756,2,17-06-2021,196,1,8,13
+Leah Mayo,52d8d648,Agency,New hire,04-06-2024,Failed,29-06-2021,Passed,08-04-2022,Passed,Male,Marketing,Full-time,,Involuntary,Termination,3,102831,4011,1,12-04-2021,68,2,10,6
+Laura Coleman,1cdb9859,Online Application,Hired,13-09-2022,Passed,12-08-2023,Failed,03-02-2022,Failed,Other,Finance,Contract,,Involuntary,,16,129557,6772,5,,40,2,7,4
+Mrs. Anna Lane,7e439562,Online Application,Hired,24-03-2020,Failed,24-03-2020,Passed,19-12-2021,Passed,Other,HR,Part-time,,Voluntary,Termination,18,57706,2197,3,,146,7,3,15
+Christopher Green,30fe886f,Agency,New hire,12-06-2020,Passed,10-10-2023,Failed,20-07-2024,Passed,Female,Finance,Contract,,Voluntary,Retirement,14,80720,17891,3,,128,8,7,10
+Tiffany Rodriguez,51504898,Online Application,New hire,24-09-2020,Passed,15-02-2022,Passed,03-07-2024,Passed,Other,Marketing,Part-time,,Involuntary,Personal Reasons,26,145621,12145,1,,10,10,4,5
+Julie Prince,f14efbd0,Internal,Hired,03-04-2021,Failed,28-06-2020,Failed,23-01-2024,Failed,Other,HR,Full-time,,,Retirement,12,79202,12271,2,,98,1,1,8
+Alexis Lambert,29dbd7dd,Agency,Hired,18-01-2022,Failed,18-08-2020,Passed,19-05-2021,Failed,Male,Marketing,Contract,22-11-2023,Involuntary,Termination,25,143570,8607,3,14-03-2022,42,10,5,3
+Logan Johnson,91e1bfea,Agency,Hired,25-03-2024,Failed,05-01-2023,Passed,08-02-2022,Failed,Female,Sales,Full-time,29-02-2020,Voluntary,Retirement,20,77396,13409,2,,198,4,2,15
+Melinda West,8eb9bfee,Online Application,New hire,07-05-2021,Passed,09-08-2023,Failed,27-10-2020,Failed,Female,HR,Part-time,13-02-2021,Voluntary,Termination,4,104390,4272,1,,134,10,5,0
+Tracy Riley,4b7ab78d,Internal,Hired,19-08-2021,Passed,17-10-2022,Failed,04-05-2024,Failed,Female,Operations,Part-time,,Voluntary,Personal Reasons,18,135341,14747,1,27-07-2022,57,3,8,14
+Gavin Adkins,4e1e7dbd,Online Application,Hired,14-05-2024,Failed,22-01-2024,Failed,01-02-2021,Failed,Female,Marketing,Part-time,,Voluntary,,20,89771,16129,4,14-06-2021,185,9,8,3
+Samantha Phillips,e6d55ff1,Agency,New hire,29-10-2022,Passed,08-11-2021,Failed,27-08-2023,Passed,Other,HR,Contract,30-08-2023,Voluntary,Personal Reasons,12,101012,8012,5,04-12-2022,186,6,8,1
+Jason Hunter,dffb1547,Internal,Hired,07-01-2021,Passed,21-11-2020,Passed,15-10-2020,Failed,Female,Sales,Contract,24-09-2023,Voluntary,,27,106043,10893,1,,93,4,7,15
+Madeline Davis,7ccc3327,Agency,Hired,08-05-2021,Passed,20-07-2024,Failed,15-08-2023,Failed,Other,Marketing,Full-time,03-10-2021,Voluntary,,11,42631,17831,5,,151,5,6,1
+Katie Wood,27055215,Internal,Hired,06-10-2021,Failed,29-01-2022,Passed,23-02-2021,Failed,Female,IT,Contract,22-12-2020,,Layoff,12,47617,8065,3,,115,9,7,11
+William Mahoney,963b56fa,Internal,Hired,01-07-2020,Failed,23-05-2023,Passed,02-08-2022,Failed,Male,Sales,Contract,16-06-2023,,,7,117158,13173,1,,92,8,2,3
+Bryan Black,c2aeaf5a,Agency,New hire,14-08-2020,Failed,19-01-2021,Passed,24-09-2020,Failed,Female,HR,Full-time,12-03-2022,,Retirement,6,53095,2278,2,,14,1,5,12
+James Johnson,4c5d00df,Agency,Hired,16-04-2021,Failed,16-04-2021,Failed,18-04-2020,Passed,Other,Marketing,Full-time,25-05-2021,Involuntary,Personal Reasons,22,67080,12797,1,04-02-2023,102,2,6,5
+Rebecca Williams,8b86b679,Online Application,Hired,31-07-2024,Passed,13-05-2021,Failed,27-06-2022,Failed,Male,Marketing,Contract,07-08-2021,Involuntary,Termination,5,49813,16536,5,,186,6,1,7
+Mark Wilson,343c9be5,Agency,Hired,16-06-2023,Failed,22-01-2022,Passed,02-04-2021,Failed,Male,Marketing,Part-time,,Involuntary,Termination,29,44335,6735,5,,164,3,7,6
+Debbie Gordon,e27045f3,Agency,Hired,21-05-2022,Passed,19-07-2021,Failed,03-11-2022,Failed,Other,Sales,Part-time,,,,21,50353,7671,5,,143,7,2,7
+Vanessa Gill,91e934ba,Agency,Hired,03-03-2024,Passed,17-07-2021,Failed,29-05-2020,Failed,Male,Sales,Full-time,,Voluntary,Other,24,90050,10185,1,,148,9,4,6
+Carrie Cook,f9f5ee9d,Online Application,Hired,20-05-2021,Failed,12-07-2020,Passed,23-01-2022,Failed,Female,Operations,Part-time,,,Layoff,29,112946,17998,1,,11,5,1,15
+Lisa Moore,6a4f9598,Online Application,Hired,04-05-2023,Failed,28-01-2022,Failed,03-10-2020,Failed,Male,Marketing,Part-time,10-05-2022,Voluntary,Layoff,19,68017,11022,5,,187,9,1,1
+Heather King,8bac1447,Online Application,Hired,16-09-2020,Failed,28-06-2021,Passed,17-06-2024,Failed,Other,Marketing,Part-time,,Involuntary,Layoff,9,44012,11150,4,,131,8,1,14
+Bradley Price,5bf696ca,Internal,Hired,04-09-2023,Passed,30-03-2021,Passed,18-04-2021,Passed,Female,Marketing,Contract,04-09-2023,Involuntary,,1,92171,7626,3,27-03-2024,68,6,6,4
+Sandra Williams,c5eb95c5,Online Application,Hired,24-06-2022,Passed,10-10-2022,Passed,20-03-2023,Failed,Male,IT,Contract,,Voluntary,Retirement,15,88128,5667,3,,18,1,7,9
+Philip Flores PhD,3727a739,Agency,Hired,29-10-2021,Passed,17-09-2022,Passed,24-07-2024,Failed,Male,Sales,Full-time,,,Retirement,2,100138,15970,4,,188,6,7,13
+Scott Nguyen,9151ffec,Agency,New hire,13-02-2023,Passed,09-06-2024,Passed,14-10-2020,Passed,Other,Marketing,Full-time,,Involuntary,Other,14,51213,13591,3,,84,1,4,13
+Dr. Laura Pace,96d3af59,Internal,Hired,07-01-2022,Passed,11-02-2024,Failed,03-06-2024,Passed,Other,Finance,Full-time,,Involuntary,Other,21,90875,12539,1,,112,2,5,5
+Justin Morgan,371f76d7,Agency,Hired,02-02-2021,Failed,07-02-2022,Passed,27-08-2020,Passed,Male,IT,Full-time,27-12-2022,Involuntary,Retirement,9,100546,16191,3,,5,9,6,12
+Daniel Watson,54b06b5a,Internal,New hire,01-02-2022,Passed,28-07-2022,Passed,16-05-2022,Passed,Other,IT,Contract,,Voluntary,,24,131425,19827,5,,198,2,2,13
+Jordan Whitehead,28cd1dee,Online Application,Hired,25-03-2020,Passed,20-02-2020,Passed,12-04-2023,Failed,Male,HR,Part-time,,Voluntary,Layoff,18,131803,8451,5,28-04-2020,161,3,6,4
+Justin Moore,eba58807,Online Application,Hired,28-06-2022,Failed,07-07-2022,Failed,25-01-2023,Failed,Female,Marketing,Full-time,,Involuntary,,21,105453,7405,3,02-03-2022,149,3,10,10
+Wesley Koch,8c1e9474,Agency,Hired,20-09-2021,Passed,16-06-2022,Failed,23-08-2022,Passed,Female,Marketing,Part-time,02-07-2024,Voluntary,Other,27,97117,6980,2,,30,5,8,11
+Charlotte Smith,0448ab73,Agency,Hired,05-02-2023,Passed,03-08-2024,Failed,13-10-2023,Failed,Other,HR,Contract,30-06-2022,Involuntary,Personal Reasons,29,131938,18465,3,,184,6,4,5
+Jessica Miller,4b18a119,Online Application,Hired,03-12-2021,Failed,14-12-2021,Failed,20-04-2024,Passed,Male,HR,Full-time,,,Retirement,21,76483,8088,3,,26,3,8,4
+George Ross,ad4872e7,Agency,Hired,17-07-2023,Passed,30-11-2020,Failed,04-08-2020,Passed,Other,HR,Part-time,19-09-2023,Involuntary,,13,142891,1707,1,,67,5,1,9
+Emma Townsend,fbd0848d,Agency,Hired,16-05-2024,Failed,13-05-2021,Failed,13-02-2024,Passed,Male,Operations,Contract,03-02-2023,Involuntary,,14,50240,9702,1,,180,1,8,10
+John Suarez,c9c89c02,Agency,New hire,12-03-2024,Passed,11-02-2021,Passed,28-10-2023,Failed,Male,Sales,Contract,,,Retirement,30,92215,12356,1,,34,4,7,7
+Darrell Flores,71c832f6,Online Application,Hired,03-04-2023,Failed,15-07-2024,Failed,16-02-2020,Failed,Other,Marketing,Contract,07-12-2023,Voluntary,Personal Reasons,14,117729,9803,2,,50,7,9,8
+Amy Hull,59814689,Internal,Hired,02-02-2024,Passed,10-07-2021,Failed,28-02-2023,Passed,Male,HR,Full-time,,Involuntary,Layoff,17,87920,11333,1,,64,2,4,11
+Denise Scott,2448b850,Internal,Hired,06-05-2021,Failed,28-11-2023,Passed,10-06-2022,Failed,Male,IT,Part-time,,,Personal Reasons,28,101191,19835,4,,193,7,8,1
+Susan Gray,7bd93e4c,Internal,Hired,20-11-2023,Passed,18-04-2020,Passed,02-08-2024,Failed,Male,Finance,Full-time,,Voluntary,Retirement,14,91286,15924,1,,103,7,10,12
+Brianna Brown,eb8760a6,Online Application,Hired,12-05-2022,Passed,12-04-2022,Failed,28-06-2020,Failed,Female,IT,Contract,22-08-2024,,Other,21,62458,14966,1,02-06-2023,151,1,5,9
+Adam Bennett,20bd8722,Online Application,Hired,08-03-2020,Passed,27-08-2024,Passed,14-02-2024,Failed,Male,Finance,Full-time,,Involuntary,Layoff,3,93493,15528,4,,29,10,4,7
+Hailey Adams,d542dca9,Internal,Hired,26-12-2022,Failed,12-05-2024,Passed,25-08-2023,Passed,Female,Marketing,Contract,22-08-2024,Voluntary,Termination,15,145841,16981,1,01-01-2023,69,8,7,1
+Carrie Johnson,a0ab1b37,Internal,Hired,21-10-2023,Passed,10-10-2021,Passed,06-03-2021,Passed,Female,Sales,Part-time,,Involuntary,Layoff,11,103269,13880,2,,43,7,5,8
+Jacob Garcia,d69b514f,Internal,Hired,01-12-2020,Passed,12-01-2020,Failed,06-06-2024,Passed,Male,Finance,Part-time,,,Termination,10,148883,17333,3,,14,5,7,4
+Madison Cole,9.06E+88,Internal,Hired,20-01-2021,Failed,07-11-2021,Failed,21-09-2021,Passed,Female,HR,Part-time,,,Termination,14,53749,15094,3,,146,7,5,0
+Joanne Williams,42ea9a9d,Online Application,Hired,14-12-2023,Failed,08-08-2020,Failed,17-07-2023,Passed,Male,Sales,Full-time,17-07-2023,,,13,106024,11867,2,,12,10,6,5
+Anthony Phillips,64fd0557,Online Application,Hired,17-05-2021,Failed,27-08-2020,Failed,29-01-2024,Failed,Female,IT,Full-time,22-08-2024,Involuntary,Layoff,25,57322,17221,1,21-03-2022,123,6,1,1
+Daryl Rose,36eaf2fd,Agency,New hire,05-02-2023,Passed,16-10-2021,Passed,10-11-2020,Failed,Other,IT,Full-time,21-06-2024,Voluntary,Layoff,22,93222,16660,1,,1,1,2,12
+Matthew King,6cc7ca21,Online Application,Hired,07-06-2020,Failed,28-01-2022,Failed,19-03-2023,Failed,Male,HR,Contract,05-02-2020,Involuntary,Other,22,58996,7724,3,,34,7,1,10
+Linda Sanchez,8d773121,Agency,Hired,27-04-2020,Failed,24-05-2021,Failed,14-01-2022,Failed,Male,Sales,Full-time,,,Other,26,149831,10312,5,01-07-2024,132,4,2,14
+Samantha Simmons,6d6084ca,Agency,Hired,12-08-2022,Failed,18-12-2023,Failed,22-09-2020,Failed,Other,Marketing,Part-time,,Voluntary,Other,29,126056,10512,1,,117,5,2,5
+Jessica Clark,77af552d,Internal,Hired,05-06-2021,Passed,12-10-2022,Failed,13-12-2021,Failed,Female,IT,Full-time,,Voluntary,,10,66243,9707,3,,26,6,7,3
+Linda Drake,12cc37d1,Internal,Hired,09-05-2023,Passed,09-06-2021,Failed,16-01-2022,Passed,Other,Sales,Part-time,03-02-2022,Involuntary,,9,136023,19081,2,26-01-2023,171,5,3,9
+Victoria Barton,329c04c2,Internal,New hire,04-05-2024,Failed,09-04-2023,Failed,16-04-2021,Passed,Female,Sales,Contract,,Voluntary,Personal Reasons,15,56202,10222,2,,78,6,6,3
+Manuel Johnston,07f9a036,Online Application,Hired,01-05-2020,Failed,02-12-2022,Passed,23-11-2022,Passed,Other,Sales,Contract,,Voluntary,Retirement,10,117535,15821,4,27-01-2022,138,5,10,14
+Robert Martin,f1a56180,Internal,Hired,06-06-2020,Passed,16-03-2021,Passed,25-01-2024,Passed,Other,HR,Part-time,,Involuntary,,6,92164,16170,3,,47,8,6,13
+Kevin Meyer,aeb6ba24,Internal,Hired,19-08-2020,Passed,10-11-2020,Passed,05-08-2024,Failed,Other,Finance,Full-time,,Involuntary,Other,3,127144,9835,1,,122,3,5,4
+Ashley Cox,ebb124d1,Agency,Hired,03-11-2020,Failed,15-05-2021,Passed,17-03-2022,Failed,Other,IT,Part-time,,,Termination,18,65035,13507,3,,197,5,10,2
+Brent Padilla,a23ad643,Internal,Hired,15-09-2020,Passed,25-04-2022,Passed,20-11-2020,Passed,Other,IT,Contract,,,Other,2,99654,1875,5,,96,5,6,13
+Angela Brown,a1959ab9,Agency,Hired,06-07-2020,Failed,04-05-2024,Passed,26-03-2021,Failed,Female,Sales,Part-time,,Voluntary,Retirement,1,84662,15554,3,31-05-2021,71,2,10,10
+Kathleen Little,cd64776e,Online Application,Hired,16-08-2024,Passed,29-07-2022,Failed,29-04-2022,Passed,Female,Finance,Full-time,,Involuntary,Retirement,30,138012,13303,3,,97,3,5,5
+Gregory Baker,7778f3f2,Online Application,Hired,14-07-2023,Failed,07-04-2023,Failed,08-01-2021,Failed,Other,IT,Part-time,10-09-2021,Voluntary,Personal Reasons,27,103281,10610,2,13-09-2021,70,1,5,0
+Phillip Delgado,d2c985dd,Agency,Hired,24-03-2021,Failed,31-05-2020,Passed,22-06-2020,Failed,Male,Operations,Full-time,03-11-2020,,Other,5,47656,16576,5,,64,4,6,6
+Kevin Edwards,86de16d5,Internal,Hired,22-07-2021,Passed,16-12-2022,Failed,19-08-2020,Failed,Male,Finance,Contract,16-10-2020,Involuntary,Termination,30,123815,11697,5,,80,3,1,8
+Jay Jenkins,5b125771,Internal,Hired,19-08-2022,Failed,18-03-2024,Failed,18-10-2022,Failed,Female,HR,Full-time,,,Other,1,111914,3701,5,,125,9,3,12
+Seth Ramirez,1a5781e9,Online Application,Hired,24-10-2021,Failed,10-07-2020,Failed,09-12-2020,Passed,Female,Marketing,Full-time,,Voluntary,Other,16,93573,17186,1,,87,5,2,4
+Gary Aguilar,344050ea,Online Application,Hired,08-03-2024,Failed,11-04-2022,Passed,23-02-2023,Failed,Female,Finance,Part-time,09-11-2023,Involuntary,Layoff,9,116783,16046,2,,0,4,7,8
+Mark Howard,315f75c2,Internal,Hired,01-02-2020,Failed,19-07-2023,Passed,30-10-2023,Failed,Male,HR,Part-time,18-01-2022,Involuntary,Layoff,16,149278,12684,4,,46,4,6,1
+Courtney Scott,a457aeb2,Agency,Hired,28-02-2021,Passed,01-08-2021,Passed,18-05-2024,Failed,Male,Operations,Contract,,Involuntary,Termination,8,103618,7845,3,,50,4,6,14
+Matthew Miller,3e88e024,Internal,New hire,01-10-2021,Failed,19-06-2021,Failed,25-02-2023,Passed,Other,Finance,Contract,,Voluntary,Termination,25,147499,15433,2,,82,8,10,1
+Jeffrey Chen,6c644df1,Online Application,Hired,12-10-2021,Passed,23-06-2022,Failed,15-06-2024,Failed,Male,IT,Part-time,,Voluntary,Personal Reasons,18,71198,12365,3,,75,2,5,13
+Joshua Reid,c9e54511,Agency,New hire,04-10-2022,Failed,24-11-2022,Failed,17-05-2024,Failed,Female,IT,Part-time,,,Layoff,21,43658,1436,1,,174,2,1,7
+Nicholas Kaiser,499b4f0e,Online Application,Hired,25-11-2023,Failed,24-03-2023,Failed,10-12-2020,Failed,Other,Finance,Contract,10-09-2021,Voluntary,Retirement,24,91484,16579,3,06-06-2022,33,2,1,2
+Billy Murphy,cdeee639,Online Application,Hired,09-06-2024,Failed,24-07-2020,Failed,11-07-2023,Failed,Male,IT,Full-time,,,Retirement,20,134922,7035,5,,7,3,10,9
+Dr. John Shepard,86cf5a0e,Agency,New hire,02-11-2023,Passed,18-06-2023,Failed,14-06-2023,Passed,Other,Sales,Part-time,10-09-2021,Voluntary,Personal Reasons,11,58446,19435,2,21-05-2020,53,3,9,5
+Margaret Cook,35f74755,Internal,Hired,30-09-2023,Failed,10-04-2022,Passed,21-11-2023,Failed,Female,Sales,Full-time,10-09-2021,Involuntary,Termination,26,88219,5269,1,27-07-2020,115,7,8,12
+Joseph Hill,332b1098,Online Application,Hired,14-11-2021,Passed,12-07-2023,Failed,04-12-2023,Passed,Other,HR,Full-time,,Voluntary,Termination,30,90908,10979,1,,123,8,1,13
+Michael Ramirez,b65418f0,Agency,Hired,09-03-2023,Passed,07-09-2022,Passed,13-09-2022,Passed,Male,HR,Contract,10-09-2021,Involuntary,Layoff,27,139700,12812,4,08-02-2022,133,8,7,12
+Kristina Reynolds,82692752,Online Application,Hired,24-08-2021,Failed,26-08-2022,Passed,05-03-2024,Failed,Male,HR,Part-time,,Involuntary,,18,87196,7417,4,,157,9,10,5
+Leah Lawrence,17e98d29,Agency,Hired,27-11-2021,Failed,21-10-2022,Failed,15-04-2022,Passed,Male,Marketing,Part-time,12-06-2020,Voluntary,Personal Reasons,24,82017,4573,3,,136,2,2,4
+Michael Brown,2d1dfd53,Online Application,Hired,16-07-2023,Failed,20-07-2024,Passed,20-01-2023,Failed,Female,Sales,Part-time,10-09-2021,Involuntary,Layoff,23,81468,5524,3,23-11-2020,173,5,3,14
+Victoria Williams,b87d85e0,Internal,New hire,09-10-2020,Failed,14-11-2021,Passed,16-02-2021,Failed,Male,Operations,Contract,,Voluntary,,22,121136,15517,5,,105,2,9,13
+Valerie Baxter,84f750f8,Agency,Hired,01-02-2022,Passed,11-12-2023,Passed,22-12-2021,Failed,Female,Marketing,Part-time,10-09-2021,Involuntary,Layoff,20,55384,7608,4,01-04-2021,116,10,2,13
+Jennifer Osborne,b70ec521,Internal,Hired,17-03-2023,Failed,01-08-2024,Passed,11-07-2024,Failed,Female,Sales,Part-time,10-09-2021,Voluntary,,8,138915,1971,3,16-12-2022,42,9,3,5
+Theresa Henderson,bd3d0b24,Online Application,Hired,18-05-2022,Failed,08-12-2021,Failed,19-01-2023,Passed,Female,Operations,Full-time,,,Other,12,137036,11111,4,,89,5,10,13
+Thomas Oconnor PhD,b5ee0c22,Agency,New hire,12-05-2020,Failed,20-06-2020,Failed,16-03-2020,Passed,Male,Operations,Full-time,10-09-2021,Voluntary,Personal Reasons,17,90958,15535,2,13-01-2021,104,7,6,3
+Mrs. Nicole Garza,311ddc59,Online Application,Hired,27-07-2020,Passed,23-10-2020,Passed,10-10-2021,Failed,Other,Finance,Part-time,,Involuntary,Other,29,74584,17909,3,,114,2,1,3
+George Maxwell,28061ec4,Internal,Hired,30-06-2021,Failed,24-05-2020,Passed,07-01-2024,Passed,Other,Sales,Contract,10-09-2021,Involuntary,Other,12,70306,13844,1,05-08-2020,35,1,10,8
+Leslie Davis,1a495cd5,Internal,Hired,27-08-2021,Passed,13-07-2021,Failed,07-07-2023,Failed,Female,Operations,Part-time,22-12-2022,Voluntary,Retirement,22,91180,11577,1,,133,7,5,8
+Shannon Phelps,0bce2a29,Agency,Hired,16-06-2023,Passed,31-10-2022,Failed,07-08-2024,Failed,Other,Finance,Part-time,10-09-2021,Involuntary,Termination,13,98093,10204,1,14-03-2023,109,8,5,4
+Matthew George,d31df519,Internal,Hired,05-12-2021,Failed,20-01-2022,Passed,05-04-2022,Passed,Other,Operations,Contract,,Voluntary,Retirement,1,89025,3154,1,,42,4,8,0
+Madeline Perez,70db4ef0,Agency,Hired,13-02-2020,Failed,16-03-2020,Passed,14-11-2020,Passed,Male,HR,Part-time,,,Retirement,19,99671,1143,5,,26,10,3,4
+James Anderson,99e70b0b,Agency,Hired,31-01-2020,Passed,15-07-2020,Passed,12-01-2023,Passed,Other,Finance,Contract,21-04-2024,Voluntary,,30,69804,16955,1,,51,1,4,9
+Kim White,3ce73fc3,Agency,Hired,03-12-2022,Passed,01-09-2022,Passed,13-04-2020,Passed,Other,Finance,Contract,10-09-2021,Involuntary,Termination,9,123449,14317,4,03-07-2024,147,1,1,9
+Becky Gray,511943ed,Online Application,New hire,23-08-2022,Passed,30-12-2020,Passed,31-03-2020,Passed,Female,Operations,Part-time,,Voluntary,Layoff,1,58461,19852,3,,166,3,1,14
+Dawn Schmidt,b8da743c,Agency,Hired,02-02-2024,Failed,13-05-2020,Passed,09-10-2022,Passed,Male,Operations,Part-time,14-04-2020,Involuntary,Termination,22,145861,12138,4,,9,7,3,7
+Joshua Rivas,ed9160a8,Online Application,Hired,02-12-2022,Failed,03-12-2021,Passed,31-08-2022,Failed,Male,IT,Part-time,,Voluntary,,24,140553,15567,1,,78,10,9,6
+Brian White,a042c362,Agency,New hire,06-06-2021,Passed,20-06-2021,Passed,26-05-2022,Passed,Other,IT,Full-time,,Involuntary,,17,135162,19675,5,17-08-2022,72,2,1,0
+Sharon Hayes,505b588c,Online Application,Hired,09-12-2022,Failed,26-05-2020,Passed,10-12-2023,Passed,Other,Operations,Contract,,Voluntary,,22,47602,18806,5,,24,1,1,11
+Julie Waters,45613665,Internal,New hire,02-11-2021,Passed,01-07-2023,Passed,22-10-2022,Passed,Female,Marketing,Full-time,,Voluntary,,22,65506,2757,4,,164,2,6,9
+Heather Green,f582723e,Internal,Hired,05-04-2020,Failed,04-03-2022,Passed,15-02-2022,Passed,Other,Sales,Contract,,Involuntary,Other,23,65984,16367,1,,118,10,4,6
+Lindsay Mitchell,6a01244d,Agency,Hired,06-11-2023,Passed,21-06-2024,Failed,03-03-2021,Failed,Female,Marketing,Full-time,,Involuntary,Retirement,30,108896,14324,3,,24,10,1,0
+Lawrence Jennings,31768056,Internal,Hired,17-06-2022,Passed,27-11-2023,Failed,20-01-2022,Passed,Female,Sales,Part-time,,Voluntary,Retirement,4,42512,14907,3,09-01-2023,117,1,6,13
+Virginia Nguyen,93cf0818,Internal,Hired,20-04-2021,Failed,03-12-2022,Failed,26-11-2020,Failed,Other,HR,Part-time,,Voluntary,Personal Reasons,24,142472,15044,4,,32,10,7,8
+Donna Graham,f1608e8a,Agency,Hired,26-04-2023,Passed,15-01-2024,Passed,16-07-2023,Failed,Other,IT,Contract,,Voluntary,Layoff,7,133272,13941,4,29-12-2021,190,6,9,10
+Sally Mitchell,f40259e7,Internal,Hired,24-01-2020,Failed,30-01-2023,Passed,18-04-2024,Failed,Male,Sales,Full-time,,Involuntary,Other,14,87883,15470,3,,191,3,4,12
+Kenneth Smith,a3638105,Online Application,Hired,09-10-2023,Passed,28-03-2023,Failed,20-11-2023,Passed,Other,Sales,Full-time,,Voluntary,Retirement,1,84685,7885,3,,75,4,8,10
+Jennifer Kirby,047b864b,Online Application,Hired,15-04-2023,Passed,13-09-2021,Passed,12-04-2023,Failed,Other,Sales,Part-time,03-01-2024,Involuntary,Termination,21,68238,7808,1,,107,3,9,8
+Jeremy Chan,4.04E+190,Online Application,Hired,30-07-2020,Passed,28-10-2021,Passed,29-12-2023,Failed,Other,IT,Part-time,01-04-2020,Involuntary,Retirement,11,96445,11268,3,17-10-2021,180,6,6,7
+Jennifer Ward,ab43d31e,Online Application,Hired,09-11-2020,Failed,06-12-2022,Passed,05-04-2020,Passed,Male,IT,Full-time,,Voluntary,Other,29,89393,16855,3,,8,9,6,9
+Laurie Spencer,c434ebb0,Internal,Hired,28-02-2021,Failed,10-03-2024,Passed,23-09-2021,Failed,Male,Operations,Part-time,10-06-2021,,Termination,17,86887,16990,3,,32,5,4,2
+Brooke Cruz,af70d693,Agency,New hire,07-05-2020,Failed,16-06-2024,Passed,08-01-2024,Passed,Other,Sales,Part-time,,Voluntary,Layoff,29,80777,18138,4,,83,8,9,8
+Jonathan Berry,2681dded,Online Application,Hired,14-11-2022,Failed,31-07-2023,Passed,17-01-2020,Failed,Female,IT,Full-time,,Involuntary,Other,3,104311,3030,1,,145,3,5,7
+Nathan Hayes,437bb6cc,Online Application,Hired,25-05-2021,Failed,15-04-2023,Passed,28-04-2022,Passed,Male,HR,Contract,31-05-2021,Voluntary,Retirement,5,105447,10801,5,,74,9,10,3
+Michael Robinson,40baeaec,Agency,Hired,26-04-2023,Passed,17-09-2022,Failed,06-04-2022,Failed,Other,Operations,Part-time,01-04-2020,,Layoff,29,61902,13617,4,14-04-2022,52,2,2,10
+Angela Spears,f8a2980d,Internal,Hired,13-02-2022,Failed,13-06-2021,Failed,01-04-2022,Passed,Female,IT,Part-time,,Voluntary,,14,97807,5896,1,,119,9,6,14
+Kelli Wilson,068b2a02,Agency,Hired,13-07-2023,Passed,30-09-2023,Passed,10-12-2021,Passed,Other,Sales,Part-time,01-04-2020,Involuntary,Personal Reasons,27,147335,3909,1,19-06-2021,60,7,7,1
+Michael Mcintyre,2f5f7e36,Online Application,Hired,09-06-2021,Passed,30-10-2023,Failed,21-10-2022,Passed,Other,Marketing,Contract,07-07-2021,Involuntary,Termination,8,56307,9000,1,,14,1,9,12
+Shawn Jacobs,5ac88441,Online Application,Hired,11-08-2020,Passed,15-06-2021,Failed,27-03-2023,Failed,Male,Operations,Full-time,01-04-2020,Involuntary,Termination,21,136373,14290,5,07-07-2022,73,6,2,1
+Jean Rosales,8ab7c883,Online Application,Hired,09-03-2020,Failed,26-12-2020,Passed,30-04-2020,Failed,Other,IT,Part-time,27-05-2023,Involuntary,Personal Reasons,14,103245,2331,3,,165,7,10,9
+Jerry Beasley,b077daa3,Internal,Hired,13-06-2020,Passed,09-11-2020,Failed,01-01-2020,Passed,Female,HR,Part-time,,Voluntary,,2,107575,5782,2,,15,10,6,10
+Gabriella Jefferson,e044c6fb,Internal,Hired,21-10-2021,Passed,30-01-2022,Passed,30-04-2021,Passed,Other,Marketing,Contract,01-04-2020,Involuntary,Layoff,25,63246,14141,5,16-06-2024,130,5,7,13
+Brian Frye,ff329aa2,Internal,Hired,07-08-2023,Passed,10-01-2023,Failed,29-04-2023,Passed,Female,Finance,Full-time,,Voluntary,Retirement,11,82208,1064,1,,143,6,7,9
+Erica Deleon,68c53e14,Online Application,Hired,26-12-2023,Passed,18-05-2024,Passed,24-11-2021,Passed,Male,Finance,Part-time,01-04-2020,,Retirement,25,49226,13754,3,20-10-2021,172,10,8,14
+Alexandra Boone,9788d32b,Internal,Hired,10-11-2021,Failed,06-01-2023,Failed,14-06-2021,Failed,Male,Operations,Part-time,,Involuntary,Termination,11,130989,19829,3,,81,4,9,14
+Todd Callahan,f280aebf,Online Application,Hired,25-05-2024,Failed,27-03-2021,Passed,22-05-2022,Failed,Male,HR,Full-time,01-04-2020,Involuntary,Termination,26,102103,13975,1,07-02-2020,4,10,2,14
+John Franklin,75a6a45b,Internal,Hired,03-01-2023,Passed,29-10-2021,Passed,14-11-2022,Passed,Male,Sales,Full-time,01-04-2020,Voluntary,Other,30,140036,12129,1,08-10-2022,134,10,9,2
+Robin Shepard,828585b2,Online Application,Hired,03-07-2020,Passed,06-01-2024,Failed,09-09-2021,Passed,Male,HR,Part-time,,Voluntary,Layoff,21,103143,11982,1,,87,4,7,13
+Ian Gibbs,25286947,Agency,Hired,31-12-2023,Passed,26-07-2023,Passed,25-04-2022,Failed,Male,HR,Full-time,,Involuntary,Termination,20,109861,3855,4,,149,2,4,4
+James Moore,03dc3bc5,Online Application,Hired,29-06-2023,Failed,21-06-2021,Passed,25-02-2022,Failed,Female,IT,Contract,,Voluntary,Layoff,20,112423,2447,5,,48,5,8,6
+Ronald Garcia,17a7ac43,Agency,Hired,18-08-2020,Passed,29-05-2023,Passed,11-04-2021,Failed,Other,Marketing,Full-time,01-04-2020,Involuntary,Layoff,4,49165,14335,1,07-07-2020,186,1,8,14
+Shaun Smith,6d51f48e,Agency,Hired,20-08-2022,Failed,27-08-2023,Failed,17-02-2024,Failed,Female,IT,Part-time,,,Retirement,6,71095,10940,4,,123,3,1,14
+Oscar Stuart,5422c8f2,Internal,Hired,04-05-2021,Passed,26-03-2024,Failed,02-05-2022,Passed,Male,IT,Full-time,,Involuntary,Termination,8,100809,1578,5,26-10-2021,57,7,9,13
+Daniel Santana,f80b6bd4,Agency,Hired,30-05-2022,Failed,20-03-2021,Passed,08-08-2023,Passed,Male,Finance,Contract,29-08-2021,,Other,7,96492,4145,4,03-03-2024,184,2,1,14
+Joshua Clark,90a1ac57,Agency,Hired,04-01-2020,Passed,07-11-2023,Failed,23-06-2024,Passed,Female,Sales,Contract,,Involuntary,,20,93495,2833,4,,10,4,3,6
+Norma Murphy,bffb1510,Online Application,Hired,25-04-2022,Failed,28-08-2021,Failed,18-02-2024,Passed,Male,HR,Full-time,,Involuntary,,18,83002,8525,3,,127,9,9,12
+Chad Williams,c4ce9190,Agency,Hired,20-08-2021,Passed,12-11-2022,Passed,01-05-2020,Failed,Other,Sales,Contract,,,Personal Reasons,6,90165,7260,4,,118,7,5,10
+Tracy Williams,a27ab787,Internal,Hired,02-02-2022,Failed,19-07-2020,Failed,01-09-2022,Failed,Other,Finance,Full-time,12-01-2022,Voluntary,,11,99417,9102,5,,70,8,2,11
+Helen Holt,febe0228,Agency,Hired,18-08-2022,Passed,28-05-2020,Passed,30-10-2021,Passed,Other,Sales,Contract,14-02-2024,Involuntary,Other,1,84639,11566,2,,157,5,9,9
+Timothy Jordan,287ac941,Internal,Hired,07-07-2020,Failed,26-07-2020,Failed,17-04-2021,Failed,Other,Sales,Part-time,28-09-2020,Involuntary,Personal Reasons,6,121019,13053,1,,44,2,3,1
+Krystal Wilkerson,b1f859f3,Online Application,New hire,24-08-2022,Passed,11-12-2023,Passed,14-08-2021,Failed,Male,IT,Full-time,06-03-2022,,Layoff,21,132219,17262,4,,58,4,3,1
+Breanna Gomez,6e469a00,Online Application,Hired,03-08-2020,Passed,16-06-2022,Failed,07-08-2023,Failed,Male,IT,Part-time,13-02-2024,Involuntary,Other,23,58577,11339,1,,47,6,5,2
+Scott Woods,ffa8eb62,Internal,Hired,30-03-2020,Passed,25-04-2021,Failed,10-08-2022,Passed,Female,Marketing,Part-time,,Involuntary,Termination,27,134944,8977,4,22-04-2023,6,8,7,13
+Barbara Ortega,8d674412,Agency,Hired,15-12-2022,Failed,27-09-2023,Passed,20-03-2022,Passed,Other,IT,Contract,,Voluntary,,26,145434,12998,1,19-12-2023,131,8,3,2
+Julie Barker,c9ff7956,Agency,Hired,07-10-2023,Failed,26-07-2023,Passed,18-05-2021,Failed,Female,IT,Part-time,21-07-2023,Voluntary,Layoff,25,54082,15496,3,18-12-2021,10,7,7,6
+Grace Johnson,4c56528f,Online Application,New hire,26-12-2023,Failed,01-05-2021,Passed,10-01-2024,Passed,Female,IT,Full-time,,,Personal Reasons,24,148425,12918,4,,131,4,7,6
+Jennifer Johnson,187cb47a,Internal,Hired,19-07-2023,Failed,18-11-2022,Failed,02-05-2023,Failed,Other,Sales,Part-time,,Involuntary,Retirement,15,108747,6768,3,02-04-2024,89,3,3,10
+Samuel Todd,65ec3d64,Online Application,New hire,13-10-2022,Passed,26-09-2023,Passed,17-07-2021,Failed,Male,HR,Part-time,,Voluntary,,18,136142,8315,2,,27,6,7,10
+Sarah Owens,aea36f52,Online Application,New hire,25-03-2023,Failed,04-08-2022,Passed,25-11-2021,Passed,Female,Finance,Part-time,30-04-2023,Voluntary,Personal Reasons,19,118604,12459,3,11-05-2022,159,6,9,13
+James Valdez,5cb5c3be,Internal,New hire,25-01-2020,Failed,23-10-2022,Passed,18-02-2021,Failed,Other,Sales,Full-time,26-10-2021,Voluntary,Termination,4,138922,18649,2,,185,4,10,0
+Rachel Hayes,5e866c09,Online Application,Hired,24-10-2021,Passed,02-02-2023,Passed,19-01-2023,Failed,Other,Finance,Full-time,10-06-2021,Involuntary,Layoff,21,100929,16861,4,08-03-2020,99,7,6,0
+Michael Cole,1c17187c,Agency,Hired,10-06-2021,Failed,28-12-2020,Failed,13-08-2021,Passed,Female,Sales,Part-time,,Involuntary,Retirement,15,141614,6134,5,,79,9,4,8
+Christine Liu,58d948d8,Internal,New hire,30-04-2020,Passed,27-01-2022,Passed,01-09-2021,Passed,Male,Finance,Contract,10-06-2021,Voluntary,Personal Reasons,15,133953,9946,4,18-07-2022,119,5,7,2
+Devon Bond,6ac8eace,Online Application,Hired,31-03-2024,Failed,04-12-2022,Passed,08-06-2022,Failed,Male,Sales,Full-time,12-02-2022,Voluntary,,18,84773,19265,4,,51,6,5,2
+Christopher Hill,0eea7e15,Agency,Hired,02-09-2024,Failed,28-05-2020,Passed,09-06-2021,Passed,Other,Sales,Contract,10-06-2021,Voluntary,,27,77822,3340,3,20-11-2022,183,8,3,7
+Angela Leonard,5564f5db,Online Application,Hired,20-06-2024,Failed,09-01-2024,Passed,02-02-2024,Passed,Male,Sales,Contract,,Involuntary,,8,146071,1941,1,,113,8,4,0
+Julie Chase,94912659,Internal,Hired,14-05-2021,Passed,09-01-2024,Failed,02-05-2023,Failed,Male,Marketing,Contract,,Voluntary,Retirement,6,140589,9805,4,,16,2,4,1
+Rebecca Parks,9b6a9b47,Internal,Hired,08-08-2020,Failed,21-09-2022,Failed,12-09-2022,Passed,Male,Operations,Full-time,,Involuntary,Personal Reasons,10,48903,2341,4,17-05-2021,150,8,10,8
+Derek Thomas,83b14b4f,Agency,Hired,30-09-2022,Passed,20-08-2020,Passed,04-08-2022,Passed,Female,HR,Contract,,Voluntary,Layoff,26,146268,3097,5,,153,8,6,15
+Christopher Price,b6bc66af,Agency,Hired,15-05-2021,Passed,25-02-2023,Failed,30-10-2022,Passed,Other,HR,Contract,,Involuntary,Personal Reasons,12,129916,5495,4,,164,6,7,15
+Dale Kim,c6e6ac23,Online Application,New hire,26-03-2022,Passed,28-03-2020,Passed,28-02-2022,Failed,Female,Finance,Full-time,03-04-2020,,Other,13,111413,4697,5,14-04-2023,128,6,5,11
+Mark Johnson,1874b209,Online Application,New hire,01-05-2022,Failed,18-04-2021,Passed,19-12-2021,Failed,Female,Finance,Contract,,,Retirement,23,93480,9327,3,01-03-2023,177,7,1,7
+Mark Stephens,13519bde,Online Application,Hired,04-02-2022,Passed,12-10-2023,Failed,28-08-2022,Passed,Female,Operations,Part-time,,Involuntary,Personal Reasons,4,114184,3468,4,,9,7,6,14
+Brandon Mathews,3590aed3,Online Application,Hired,11-03-2020,Failed,19-10-2022,Passed,23-02-2023,Failed,Male,Marketing,Part-time,09-12-2020,,Personal Reasons,30,96155,8293,5,,61,3,6,4
+Toni Johnson,9c2eef88,Online Application,Hired,07-05-2024,Failed,05-12-2022,Passed,15-04-2021,Passed,Other,IT,Contract,22-03-2021,Involuntary,,18,94186,9116,3,20-10-2021,147,1,7,10
+Robert Mullen,1019a8d8,Internal,New hire,28-05-2022,Passed,23-09-2021,Passed,25-10-2022,Failed,Male,Marketing,Part-time,,Involuntary,Layoff,30,55496,8254,5,,25,10,3,7
+Zachary Johnson,cd481d3e,Internal,Hired,23-08-2020,Failed,12-02-2023,Passed,03-02-2022,Failed,Female,Sales,Part-time,,Voluntary,Termination,12,115629,3462,3,,142,8,9,8
+Dr. Jennifer Garrett,e9f19dc4,Internal,Hired,21-07-2020,Failed,01-02-2024,Failed,08-08-2022,Passed,Other,IT,Part-time,,Involuntary,Other,8,56219,2437,3,,49,3,5,9
+Dennis Spencer,2d231317,Agency,Hired,23-05-2020,Failed,04-11-2023,Failed,06-08-2024,Failed,Other,Sales,Full-time,,Involuntary,Retirement,15,49486,10088,3,,179,9,5,4
+Brian Blair,7da6bfed,Online Application,Hired,07-12-2022,Failed,09-06-2020,Passed,10-09-2021,Passed,Male,HR,Part-time,22-03-2021,Involuntary,Other,8,122422,12938,2,26-04-2021,71,6,9,3
+Ethan Kelly,8beee4c1,Agency,New hire,22-12-2021,Failed,24-05-2023,Passed,03-02-2022,Passed,Male,Marketing,Contract,,Voluntary,Retirement,8,135899,7052,1,,126,9,7,10
+Matthew Jackson,d417602d,Agency,Hired,03-03-2023,Failed,19-02-2024,Failed,07-05-2023,Passed,Other,IT,Full-time,,Involuntary,,23,59209,13274,1,,153,1,8,3
+Mary Simmons,373f868a,Online Application,New hire,13-03-2021,Passed,19-10-2022,Failed,10-02-2020,Failed,Other,Finance,Part-time,22-03-2021,,Retirement,28,71817,15265,1,18-01-2023,47,5,6,15
+Danielle White,ded55dce,Agency,Hired,06-07-2024,Passed,12-02-2023,Passed,05-05-2024,Failed,Male,Finance,Part-time,23-06-2021,Voluntary,Other,7,105868,13334,5,,59,1,6,6
+Jerry Williams,8db8d2f2,Agency,Hired,05-11-2023,Failed,26-06-2021,Failed,13-06-2023,Passed,Other,Finance,Contract,,Involuntary,,18,102995,12270,1,,37,6,7,9
+Mary Jordan,14be36db,Agency,Hired,03-06-2023,Failed,08-02-2022,Passed,31-07-2020,Passed,Female,Finance,Part-time,22-03-2021,,Termination,6,47869,13728,3,07-07-2020,25,9,9,8
+Kimberly Bentley,1e99f81f,Agency,Hired,07-02-2020,Failed,06-10-2023,Passed,13-12-2021,Failed,Female,Operations,Full-time,,,Personal Reasons,19,125576,3842,4,,143,8,10,1
+Janet Green,029ef68d,Agency,Hired,23-06-2021,Passed,27-10-2022,Passed,06-03-2023,Passed,Other,IT,Part-time,,Involuntary,,23,88975,10487,3,,74,4,4,12
+Donna Kennedy,bb9abbb7,Agency,Hired,02-01-2022,Passed,24-09-2023,Failed,11-03-2020,Failed,Other,Finance,Part-time,,Voluntary,Retirement,8,101880,15244,5,06-01-2021,167,4,9,4
+Mark Hurley,0f8cb925,Agency,Hired,23-12-2022,Failed,18-08-2022,Failed,12-07-2024,Failed,Other,HR,Part-time,,Involuntary,Layoff,13,97213,7409,1,,60,6,8,7
+Andrew Weeks,b44016d4,Agency,Hired,05-06-2024,Failed,30-05-2024,Passed,23-07-2023,Passed,Male,IT,Contract,,,,27,74404,11220,5,,103,6,8,12
+Michael Hawkins,a1d64cb6,Internal,Hired,10-09-2020,Failed,19-06-2022,Failed,06-09-2021,Failed,Female,Sales,Full-time,01-04-2024,Involuntary,Other,7,137482,14332,2,29-04-2021,130,2,1,8
+Robert Jacobson,2d50f4d5,Online Application,New hire,31-08-2023,Passed,04-09-2020,Passed,23-05-2024,Failed,Male,Finance,Full-time,,Voluntary,Personal Reasons,16,138281,9770,1,,111,5,1,2
+Dawn Dawson,59d0060f,Agency,Hired,30-01-2020,Failed,03-07-2024,Passed,30-07-2022,Failed,Female,HR,Full-time,01-04-2024,Involuntary,Layoff,11,134431,6057,4,18-10-2022,134,6,5,10
+Jesse Miller,7a836bdd,Internal,New hire,05-10-2021,Failed,19-05-2023,Failed,12-03-2023,Failed,Female,HR,Full-time,,Involuntary,Termination,8,146978,7754,3,,33,8,3,15
+Kristi Butler,75ecbc45,Internal,Hired,17-12-2022,Passed,01-03-2021,Passed,24-02-2021,Failed,Female,Operations,Part-time,,,,18,105422,14233,4,,32,7,8,11
+Dawn Ramirez,5351c827,Agency,Hired,17-12-2023,Failed,10-12-2020,Passed,24-07-2021,Passed,Female,Operations,Part-time,06-03-2024,Voluntary,Termination,14,123654,12564,1,,46,8,4,7
+Sean Dyer,1469fd3d,Agency,Hired,15-08-2022,Failed,04-08-2023,Passed,05-06-2022,Failed,Male,HR,Part-time,01-04-2024,Involuntary,Termination,28,119443,5869,1,13-05-2024,166,1,10,13
+Russell Newman,e3195e96,Internal,Hired,01-02-2023,Failed,19-09-2021,Failed,16-05-2022,Passed,Male,HR,Part-time,,Involuntary,Layoff,9,45353,17408,4,03-02-2022,104,3,6,15
+Anthony Hull,dde12dd6,Agency,Hired,12-08-2023,Passed,06-06-2024,Failed,09-10-2022,Failed,Other,IT,Full-time,28-03-2022,,Termination,27,122330,13535,1,,74,8,6,2
+Michael Haynes,d6581fc6,Internal,Hired,21-10-2022,Passed,20-11-2021,Failed,29-09-2022,Failed,Other,Finance,Part-time,24-07-2022,,,15,96334,3842,2,,18,10,5,12
+Madeline Hernandez,504ebd10,Internal,Hired,08-07-2020,Failed,28-11-2020,Passed,29-09-2022,Failed,Male,HR,Part-time,,Involuntary,Termination,23,103570,2207,2,,53,1,3,3
+Roger Francis,5eab6716,Agency,Hired,07-09-2022,Failed,03-12-2020,Passed,17-01-2021,Passed,Male,Sales,Full-time,,Voluntary,Termination,10,62747,19132,5,,192,4,2,9
+Kimberly Barron,1a7268cb,Online Application,New hire,22-05-2020,Passed,18-03-2021,Failed,28-11-2022,Failed,Other,IT,Contract,,Involuntary,Other,28,146178,4750,2,02-09-2024,128,2,6,13
+Deborah Wade,3b593a7d,Agency,Hired,17-07-2021,Passed,03-07-2020,Passed,21-12-2022,Failed,Female,Finance,Part-time,,Involuntary,,2,86140,18141,5,,101,9,6,2
+Joy Manning,bbcd3288,Online Application,Hired,30-04-2021,Failed,16-02-2024,Passed,13-06-2023,Failed,Other,HR,Part-time,,,Retirement,24,137182,15815,4,,128,10,4,1
+Douglas Riley,efbf7745,Internal,Hired,07-06-2022,Failed,14-07-2020,Failed,16-08-2024,Failed,Male,HR,Contract,21-01-2021,Involuntary,Personal Reasons,24,99049,1274,2,02-06-2023,148,4,3,7
+Jacqueline Solomon,fe255556,Internal,Hired,25-02-2024,Failed,28-09-2022,Passed,29-12-2022,Failed,Male,Finance,Contract,31-05-2023,Voluntary,Personal Reasons,10,84134,1597,3,,26,2,5,9
+Gerald Wright,73e2cdc5,Internal,Hired,14-04-2023,Passed,07-03-2020,Passed,24-10-2022,Failed,Female,IT,Part-time,,,Personal Reasons,19,115717,16980,4,,58,3,6,11
+Susan Foster,4e29b873,Agency,New hire,18-05-2023,Passed,29-09-2021,Failed,22-07-2022,Passed,Female,Operations,Full-time,09-08-2023,Voluntary,Layoff,26,133703,11323,4,,12,9,9,9
+Diane Flowers,dc69a03f,Online Application,Hired,07-11-2021,Failed,05-02-2021,Failed,17-04-2024,Passed,Female,Finance,Part-time,,,Personal Reasons,20,70575,7451,1,,37,7,7,13
+Rachel Holmes,1efe056c,Online Application,Hired,02-05-2022,Passed,02-10-2022,Failed,14-10-2022,Passed,Other,Operations,Part-time,,Voluntary,Personal Reasons,17,78196,13812,1,,61,4,9,12
+Ralph Jimenez,4002e5b9,Online Application,Hired,07-07-2021,Passed,26-06-2024,Passed,09-06-2022,Passed,Female,Marketing,Contract,07-08-2021,,Other,17,127185,2281,3,,88,1,1,13
+Nancy Ramos,b44319c9,Agency,Hired,19-07-2021,Failed,12-07-2021,Failed,16-04-2023,Failed,Other,Finance,Full-time,,Voluntary,,29,95384,15218,1,,81,6,6,2
+Ashley Smith,bf3ab263,Online Application,Hired,25-01-2023,Passed,07-04-2024,Passed,16-05-2020,Passed,Male,Marketing,Full-time,,Involuntary,Personal Reasons,1,148624,1977,4,01-01-2023,179,2,10,15
+David Cohen,84d3899c,Agency,Hired,14-02-2024,Failed,15-01-2021,Failed,20-05-2021,Passed,Other,HR,Contract,17-03-2024,Voluntary,Termination,9,120820,15638,5,,62,8,6,5
+Sarah Jackson,47e32533,Agency,Hired,11-10-2022,Failed,04-12-2023,Passed,28-01-2023,Failed,Female,Marketing,Contract,13-04-2024,Involuntary,,28,57409,11648,3,19-11-2020,190,1,1,6
+James Jacobs,348dfee7,Agency,Hired,19-11-2022,Passed,27-03-2024,Passed,27-09-2020,Failed,Other,Operations,Full-time,13-04-2024,Involuntary,Layoff,27,90349,19462,5,04-07-2021,137,1,4,14
+Daniel Jacobson,192a86ba,Agency,Hired,25-02-2021,Passed,13-07-2021,Failed,29-12-2020,Failed,Male,Marketing,Full-time,13-04-2024,Involuntary,Termination,7,131411,15842,3,18-06-2024,157,2,2,4
+Jessica Schultz,8093c12a,Agency,New hire,08-03-2024,Passed,22-03-2022,Passed,20-10-2023,Passed,Female,Operations,Contract,,Involuntary,Personal Reasons,7,101262,17051,3,08-03-2022,163,2,4,8
+Brandy Kerr,ebae024a,Agency,Hired,24-01-2023,Passed,23-12-2023,Failed,06-10-2020,Passed,Male,Finance,Contract,,Involuntary,Personal Reasons,18,66613,18431,5,,167,10,1,2
+Cheryl Williams,2b14bfe7,Agency,Hired,13-06-2024,Failed,31-07-2020,Passed,14-05-2021,Failed,Male,Marketing,Part-time,14-03-2023,Voluntary,Termination,10,68649,8807,3,,178,1,1,6
+Whitney Pollard DVM,5e2cb499,Online Application,Hired,09-06-2024,Failed,11-01-2021,Passed,23-03-2023,Failed,Other,Marketing,Part-time,,Involuntary,Personal Reasons,13,123035,3189,5,,130,6,4,13
+Jonathan Mills,5874b2df,Internal,Hired,22-03-2020,Failed,06-03-2023,Passed,14-05-2020,Passed,Other,IT,Contract,09-10-2022,Voluntary,Personal Reasons,8,141947,8941,1,18-12-2022,18,5,4,13
+Andrew Lowe DDS,a6526b95,Online Application,Hired,02-05-2024,Passed,11-02-2021,Passed,20-06-2020,Failed,Other,HR,Contract,,Voluntary,,6,114492,17808,2,,53,4,8,11
+Rachel Vasquez,4cb6f663,Online Application,Hired,11-05-2022,Failed,11-12-2020,Failed,08-11-2022,Failed,Other,HR,Contract,,Involuntary,Personal Reasons,14,116824,5993,5,17-08-2023,58,5,10,4
+Jeffrey Bender,7380a459,Agency,Hired,10-01-2022,Passed,29-08-2023,Failed,03-12-2020,Passed,Other,Marketing,Part-time,,,Personal Reasons,11,42930,11672,3,,116,5,6,5
+Tina Malone,7230ab20,Agency,Hired,07-04-2020,Passed,11-12-2022,Passed,10-03-2021,Passed,Female,HR,Part-time,,Voluntary,Layoff,6,147985,8844,1,,28,6,5,0
+Tamara Ramirez,f1902947,Internal,Hired,14-02-2024,Failed,02-09-2021,Failed,26-04-2020,Failed,Other,Finance,Contract,,Involuntary,Layoff,4,54597,17029,3,24-06-2020,124,5,2,8
+Michael Ramirez,52374d54,Internal,Hired,25-07-2021,Failed,25-08-2023,Passed,30-05-2022,Failed,Other,Finance,Full-time,24-04-2022,Voluntary,Retirement,21,123320,16615,1,16-04-2023,43,4,7,1
+Jonathan Jenkins,a915db2b,Online Application,Hired,21-03-2024,Passed,31-01-2024,Passed,26-08-2020,Failed,Female,Marketing,Part-time,,Involuntary,Other,14,115167,9318,1,,31,5,9,7
+George Craig,2d246726,Internal,New hire,04-05-2022,Passed,24-08-2020,Failed,07-10-2020,Failed,Other,Operations,Contract,30-12-2020,,Other,29,48363,13243,2,,0,8,2,5
+Brianna Singleton,75bbd747,Agency,Hired,22-05-2024,Passed,29-04-2022,Passed,10-01-2023,Failed,Female,IT,Part-time,,Voluntary,Termination,26,116707,11656,1,,29,5,6,7
+Bruce Bailey,8747cc1a,Agency,Hired,10-05-2022,Passed,09-09-2020,Passed,15-10-2021,Passed,Other,HR,Part-time,,Voluntary,Personal Reasons,21,129210,15778,2,,133,7,5,9
+Jessica Stone,d12216cb,Online Application,Hired,29-09-2022,Passed,10-06-2020,Failed,15-12-2020,Failed,Male,Finance,Part-time,10-04-2021,Involuntary,Retirement,28,107240,12944,2,,153,5,5,3
+Lauren Reyes,a0ea3501,Internal,Hired,17-08-2023,Passed,06-12-2021,Passed,01-05-2023,Passed,Other,Marketing,Contract,,Involuntary,Personal Reasons,27,68790,1149,1,14-04-2023,16,6,4,12
+Tracy Montgomery,66b9c94f,Agency,Hired,02-08-2020,Passed,22-07-2021,Passed,12-12-2022,Passed,Female,Sales,Full-time,04-11-2022,,Other,24,76792,17263,3,,138,6,10,4
+Joseph Mccall,5ab0994f,Internal,Hired,29-01-2020,Passed,25-03-2022,Failed,29-02-2020,Failed,Other,Marketing,Contract,30-05-2020,Involuntary,Termination,15,108372,14510,5,,125,3,3,11
+Robert Doyle,0370a793,Internal,Hired,19-07-2021,Passed,24-01-2023,Failed,13-01-2023,Passed,Other,Finance,Contract,,Voluntary,Termination,22,133832,12349,1,,115,9,10,12
+Tricia Wagner,e042c3d4,Internal,New hire,10-10-2022,Passed,10-12-2021,Passed,29-01-2024,Failed,Female,HR,Contract,,Involuntary,Other,13,70031,18362,1,,14,9,5,3
+Andrea Smith,1c76a005,Internal,Hired,20-01-2024,Passed,12-06-2021,Passed,28-12-2020,Failed,Male,IT,Contract,20-10-2022,Voluntary,Layoff,16,53031,9318,1,05-09-2020,38,6,6,4
+Peter Sullivan,5f96aeb3,Agency,Hired,05-10-2020,Passed,21-07-2024,Failed,06-05-2020,Failed,Female,HR,Part-time,20-10-2022,Voluntary,Personal Reasons,26,131100,17135,4,22-02-2023,154,1,1,9
+Albert Thomas,3122feed,Agency,Hired,02-02-2021,Failed,18-05-2021,Failed,26-10-2021,Failed,Male,IT,Full-time,,Involuntary,Other,29,97162,19837,1,,113,9,5,7
+Samantha Moreno,bd008341,Internal,New hire,11-02-2023,Passed,03-09-2022,Passed,11-02-2021,Passed,Other,Operations,Contract,,,Retirement,16,128360,9114,5,,127,5,10,4
+James Young,2848bf98,Internal,New hire,09-10-2021,Failed,25-03-2021,Failed,25-12-2022,Passed,Female,Operations,Part-time,15-07-2024,Voluntary,Layoff,29,135157,16490,1,,31,8,10,14
+Christopher Moran,9cd72926,Agency,Hired,06-02-2024,Passed,07-06-2022,Passed,24-05-2020,Passed,Other,IT,Full-time,11-09-2022,Involuntary,,18,139267,7140,5,,199,3,4,5
+Edward Adams,487fc948,Agency,Hired,13-04-2023,Failed,06-02-2022,Failed,23-01-2021,Passed,Female,IT,Part-time,09-04-2024,Voluntary,Termination,15,114236,17253,5,,185,8,1,8
+Laurie Thomas,b1d69d46,Online Application,Hired,06-03-2024,Passed,22-12-2022,Failed,13-08-2020,Passed,Male,Sales,Contract,20-10-2022,Voluntary,Layoff,18,41872,13176,3,01-06-2021,111,9,4,6
+Scott Johnson,f806712d,Internal,Hired,08-08-2020,Passed,16-02-2021,Failed,19-09-2023,Passed,Other,Marketing,Full-time,,Voluntary,Personal Reasons,7,113600,15917,4,,112,4,5,0
+John Riley,d7a88b33,Internal,New hire,11-08-2021,Passed,26-04-2023,Failed,16-02-2023,Failed,Female,HR,Full-time,02-07-2024,,Personal Reasons,25,89106,16446,4,,44,5,3,15
+Virginia Hanson,e520b09d,Online Application,Hired,26-06-2022,Passed,07-05-2023,Passed,24-02-2020,Passed,Female,IT,Full-time,12-05-2020,Involuntary,Retirement,13,142584,7328,2,,176,9,8,2
+Crystal Rodriguez,d896b1f7,Agency,Hired,09-10-2021,Failed,28-11-2022,Passed,20-03-2020,Failed,Other,Marketing,Contract,,Voluntary,Personal Reasons,12,77881,9574,2,,151,9,6,8
+Amy Robinson,b453d2ea,Online Application,Hired,16-09-2022,Failed,23-06-2023,Passed,18-12-2020,Passed,Female,HR,Part-time,,,Termination,6,101507,2899,1,,189,9,8,6
+Zachary Richmond,22c8e438,Internal,Hired,30-03-2021,Passed,25-02-2021,Failed,18-06-2021,Passed,Female,Finance,Contract,27-08-2024,Involuntary,Other,22,129675,15250,4,,100,9,7,10
+Deborah Robbins,503b7860,Online Application,New hire,04-02-2024,Passed,07-10-2020,Passed,13-12-2020,Failed,Other,HR,Part-time,,Voluntary,Termination,24,127240,1253,3,24-07-2024,160,6,10,1
+Linda Fry,9d597b1a,Internal,Hired,21-05-2020,Failed,04-07-2022,Failed,28-10-2020,Passed,Male,Sales,Contract,03-01-2020,Voluntary,Layoff,30,99327,8820,2,,84,8,10,9
+Jessica Bush,402c6afa,Internal,New hire,15-04-2021,Failed,22-02-2020,Passed,23-08-2020,Passed,Female,Operations,Part-time,23-11-2021,Voluntary,Layoff,2,142511,3184,2,21-08-2024,89,1,9,13
+Angel Fletcher,ef5a7a73,Agency,Hired,02-10-2023,Failed,14-05-2022,Failed,29-11-2022,Passed,Other,Sales,Contract,03-01-2020,Involuntary,Retirement,17,140874,5538,4,,115,2,9,8
+Olivia Washington,66a0f205,Agency,Hired,17-07-2022,Failed,07-08-2020,Failed,09-07-2022,Failed,Female,Operations,Contract,11-05-2020,Voluntary,Layoff,13,109959,6071,5,,117,9,4,4
+Daniel Rhodes,54ce9933,Internal,New hire,11-01-2022,Failed,22-10-2023,Failed,04-12-2022,Failed,Other,IT,Full-time,08-02-2023,Involuntary,Termination,5,77161,4965,3,,168,2,2,3
+David Richard,0cab4e01,Online Application,New hire,19-02-2020,Failed,17-09-2021,Passed,26-07-2023,Failed,Female,HR,Full-time,,Involuntary,Layoff,30,70819,15537,5,,101,10,6,11
+Amy Powell,82d93420,Agency,Hired,21-01-2024,Failed,01-06-2024,Passed,29-07-2022,Failed,Male,HR,Part-time,,Involuntary,Personal Reasons,4,112825,19861,3,,174,10,3,15
+Danielle Moreno,1a489a53,Online Application,Hired,26-04-2021,Passed,04-04-2023,Passed,29-04-2024,Passed,Other,HR,Part-time,13-04-2022,,,26,86092,2339,3,,107,2,8,7
+Debra Ross,d82bffdf,Internal,Hired,25-05-2020,Failed,07-06-2020,Passed,21-06-2020,Passed,Other,IT,Part-time,,Voluntary,,18,83837,17002,3,,198,8,2,6
+Amanda Gordon,8bfef535,Internal,Hired,02-12-2022,Passed,27-10-2021,Passed,14-04-2020,Failed,Other,HR,Contract,,,Personal Reasons,19,123905,5569,3,,196,7,2,5
+Antonio Greer,f099d34d,Internal,New hire,06-02-2021,Failed,15-09-2023,Failed,20-02-2024,Passed,Other,Finance,Contract,,Voluntary,Personal Reasons,1,65810,12446,1,,173,1,5,1
+Anna Williams,3dd7c2bf,Online Application,New hire,21-03-2022,Passed,02-10-2022,Passed,17-11-2020,Failed,Other,HR,Part-time,,Involuntary,Personal Reasons,18,130593,10631,1,16-11-2022,20,5,5,11
+Russell Miller,814462d5,Online Application,Hired,22-01-2023,Passed,17-09-2021,Failed,11-12-2023,Failed,Other,HR,Full-time,,,,4,104394,10408,5,,187,8,5,0
+Charlotte Miller,93e497a6,Internal,Hired,22-08-2023,Passed,04-02-2020,Failed,15-04-2023,Passed,Male,HR,Contract,,Voluntary,,6,82043,16522,4,,70,9,5,9
+Andrew Williams,610ae907,Agency,Hired,14-06-2023,Failed,07-12-2021,Passed,01-12-2023,Failed,Male,Finance,Contract,,Involuntary,,30,115178,14527,3,,135,4,5,10
+Robert Mccoy,625cdcc0,Agency,New hire,15-11-2021,Failed,06-02-2020,Passed,14-12-2020,Failed,Male,Finance,Part-time,,,Termination,29,98378,3394,2,,47,4,5,10
+Sharon Morris,1fc6e2fc,Internal,Hired,13-10-2021,Failed,11-07-2022,Failed,08-06-2022,Failed,Male,IT,Part-time,,,Personal Reasons,1,119316,4169,3,29-03-2020,180,2,9,13
+Daniel Henderson,9fd5ff66,Agency,Hired,16-08-2022,Failed,04-01-2024,Failed,18-05-2020,Passed,Female,Marketing,Full-time,18-08-2024,Voluntary,Layoff,15,147438,7661,4,,77,6,4,5
+Stacy Reid,465e5deb,Agency,Hired,19-11-2021,Failed,30-06-2021,Failed,28-09-2022,Failed,Female,Marketing,Part-time,21-03-2024,Involuntary,Termination,25,134165,8098,5,05-11-2020,105,5,2,12
+Heather Reeves,23290a0d,Internal,Hired,11-08-2021,Passed,30-08-2020,Passed,10-04-2022,Passed,Female,HR,Full-time,25-03-2023,Involuntary,,23,115908,14990,1,21-06-2020,77,8,2,6
+Denise Warren,7d3647b0,Online Application,Hired,30-01-2021,Passed,04-03-2024,Passed,25-12-2021,Failed,Male,IT,Contract,,Voluntary,Retirement,26,72540,11225,2,,28,7,7,9
+Leonard Fields,5abecb84,Online Application,Hired,14-07-2022,Failed,21-10-2023,Failed,17-01-2023,Failed,Other,HR,Contract,,Involuntary,Personal Reasons,21,135370,9296,3,30-05-2022,105,9,8,1
+Patrick Cooley,d69ff330,Agency,Hired,21-02-2022,Failed,11-04-2020,Passed,04-01-2020,Passed,Female,IT,Full-time,19-04-2022,Involuntary,Other,17,90936,1418,5,,88,6,6,15
+Johnny Hayes,50777885,Agency,New hire,22-02-2024,Passed,01-02-2024,Passed,16-05-2021,Passed,Other,Marketing,Contract,,,Other,10,66814,8833,5,,137,2,8,8
+Cody Peterson,a9434a1d,Online Application,Hired,19-10-2020,Passed,28-08-2024,Passed,18-03-2020,Passed,Female,Operations,Part-time,12-01-2022,Involuntary,Termination,1,45253,6237,5,,170,4,5,11
+Andrew Miller,29e6855e,Internal,Hired,25-06-2024,Failed,06-05-2023,Passed,07-11-2021,Passed,Other,HR,Full-time,,Voluntary,Layoff,3,133944,6481,3,06-10-2021,12,3,1,5
+Jennifer Pineda,93309ae3,Agency,Hired,28-06-2024,Failed,11-08-2020,Passed,11-05-2024,Passed,Male,IT,Full-time,,Voluntary,Layoff,30,83695,1486,4,,9,6,6,9
+Jasmine Perez,1f1c4ad0,Agency,New hire,16-11-2022,Failed,08-06-2023,Passed,10-10-2023,Passed,Female,IT,Full-time,,Voluntary,Retirement,1,94418,15792,1,,160,8,2,14
+Cheryl Brown,6a755aea,Internal,Hired,23-11-2022,Failed,05-02-2022,Passed,15-11-2023,Failed,Other,Sales,Full-time,,Involuntary,Retirement,23,95397,2908,3,16-12-2020,185,3,3,7
+Breanna Russell,d96f3237,Online Application,Hired,02-03-2020,Failed,06-11-2023,Failed,30-08-2022,Failed,Male,Sales,Full-time,,Voluntary,Retirement,8,62675,8298,4,,60,3,6,0
+Summer Johnson,10babe2d,Internal,Hired,06-01-2022,Passed,16-01-2020,Passed,12-04-2024,Passed,Female,Marketing,Contract,,Involuntary,Retirement,28,135123,11006,1,,152,1,8,4
+Sandra Abbott,42c09997,Agency,Hired,10-07-2020,Failed,21-07-2020,Passed,06-05-2022,Passed,Male,Operations,Part-time,27-06-2022,,Personal Reasons,30,85970,13714,4,21-12-2023,196,3,7,10
+David Lopez,22ea8373,Online Application,Hired,04-06-2021,Passed,31-07-2023,Failed,24-04-2022,Passed,Male,HR,Contract,12-06-2024,Involuntary,Personal Reasons,30,118944,3915,4,,168,6,3,6
+Leah Williams,0c413886,Internal,Hired,02-03-2020,Failed,20-08-2021,Failed,15-04-2021,Passed,Other,Sales,Part-time,,Involuntary,Personal Reasons,15,113058,10477,5,,132,9,9,3
+John Torres,bb098224,Internal,New hire,06-05-2024,Failed,17-10-2021,Failed,18-12-2020,Failed,Female,Finance,Full-time,,Involuntary,Retirement,18,129257,17842,5,,167,9,1,13
+Julia Carter,bce47700,Internal,Hired,15-07-2023,Failed,10-01-2022,Failed,12-07-2021,Failed,Male,Sales,Full-time,03-04-2022,Voluntary,Termination,5,108154,4179,2,,159,2,4,7
+Jason Mitchell,009b53a1,Internal,Hired,18-04-2022,Passed,24-04-2023,Failed,22-09-2020,Failed,Female,Marketing,Contract,,,Other,19,128621,6232,1,,30,1,5,2
+Diana Choi,e49b01db,Agency,Hired,27-04-2020,Passed,11-10-2021,Failed,16-07-2022,Passed,Male,Operations,Full-time,12-11-2022,Voluntary,Other,17,68915,18158,3,27-07-2020,181,9,2,14
+Dana Simmons,5712f621,Internal,Hired,27-08-2023,Failed,11-11-2022,Failed,08-05-2022,Passed,Male,Marketing,Full-time,,Involuntary,,4,138540,13674,5,,155,5,6,0
+Bruce Moran,241f8306,Agency,Hired,02-10-2022,Failed,06-01-2021,Failed,30-05-2021,Failed,Female,Marketing,Full-time,28-06-2020,,Termination,4,106803,15769,4,,46,3,5,14
+Hannah Larsen,786cfd5e,Agency,Hired,13-08-2021,Failed,26-11-2022,Failed,20-08-2020,Failed,Male,Sales,Full-time,,Involuntary,Other,9,55570,4337,4,,136,8,2,9
+Bobby Monroe,93d95d54,Agency,New hire,25-11-2020,Passed,19-05-2023,Passed,03-08-2023,Failed,Male,Marketing,Contract,11-11-2022,,Retirement,28,147028,13332,1,,180,1,10,10
+Robert Maldonado,3ee8aaf9,Online Application,Hired,31-01-2022,Failed,22-07-2023,Failed,05-05-2022,Failed,Female,IT,Part-time,,Voluntary,Other,12,110287,6566,1,13-03-2021,79,10,6,6
+April Cox,594728c6,Agency,Hired,18-05-2024,Failed,07-07-2021,Failed,21-10-2020,Failed,Female,IT,Full-time,,,Retirement,26,94472,3519,3,14-09-2022,192,1,3,4
+Ryan Rowland,6e8a6294,Internal,New hire,30-11-2022,Passed,03-05-2024,Passed,01-05-2024,Failed,Female,Operations,Full-time,,Involuntary,Personal Reasons,29,134713,17763,3,,196,8,1,2
+Brian Bray,3ecf047e,Online Application,Hired,16-08-2023,Passed,20-08-2021,Failed,22-05-2022,Passed,Female,HR,Part-time,,Voluntary,Other,11,84801,12591,3,,180,2,9,14
+Alison Johnson,9d6e58eb,Internal,Hired,11-08-2023,Passed,08-04-2023,Failed,03-07-2020,Failed,Other,Finance,Part-time,25-03-2023,,Other,1,71497,9360,5,,147,4,4,5
+Brandon Smith,e6e1f3d4,Agency,New hire,26-01-2022,Failed,01-03-2020,Passed,23-07-2023,Failed,Other,HR,Part-time,,Voluntary,,13,135315,11677,2,,166,2,2,2
+Randy Taylor,c0c7caa0,Agency,Hired,19-03-2024,Passed,26-10-2023,Passed,24-12-2020,Passed,Male,HR,Part-time,19-06-2021,Voluntary,Retirement,11,45330,6174,1,13-04-2022,9,5,10,8
+Jared Fields,6a191950,Internal,New hire,16-01-2024,Failed,13-07-2022,Passed,03-05-2021,Passed,Other,Marketing,Contract,,Voluntary,Other,2,101450,17340,2,,138,5,6,13
+Alex Hill,0ea7e233,Online Application,Hired,29-05-2024,Passed,25-01-2024,Failed,24-05-2024,Passed,Female,IT,Contract,,Voluntary,Personal Reasons,20,54031,4239,5,11-07-2022,97,8,6,4
+Chris Dyer,43c98d21,Internal,Hired,04-02-2022,Passed,18-01-2020,Passed,08-12-2020,Passed,Male,Operations,Part-time,,Voluntary,Personal Reasons,10,114468,15970,4,,166,9,2,13
+Justin Atkins,772e72f9,Agency,New hire,12-07-2022,Passed,23-01-2024,Failed,24-03-2024,Passed,Female,HR,Full-time,11-11-2020,Involuntary,,8,105357,7987,3,,140,3,6,12
+Christopher Alexander,f021dd79,Internal,New hire,23-04-2024,Failed,09-09-2022,Passed,22-06-2022,Passed,Male,HR,Contract,27-07-2022,,Retirement,10,75269,2190,2,,181,6,1,12
+Leslie Mitchell,4b0e55a7,Agency,New hire,09-02-2022,Passed,30-10-2020,Failed,01-09-2024,Failed,Female,Sales,Part-time,20-04-2024,,Personal Reasons,26,90242,9095,5,09-12-2021,173,8,7,4
+David Anderson,49dbab5a,Internal,Hired,01-03-2023,Failed,30-04-2022,Passed,20-04-2024,Failed,Male,Operations,Full-time,,Involuntary,Personal Reasons,11,89111,6204,3,,47,9,7,0
+James Gutierrez,2ed520ba,Online Application,Hired,20-07-2020,Passed,22-10-2023,Passed,04-05-2020,Failed,Female,Finance,Part-time,,,Retirement,28,119842,6191,1,,16,8,2,14
+Rachael Pratt,8a132206,Agency,New hire,19-06-2021,Failed,17-10-2021,Passed,12-09-2023,Passed,Other,HR,Part-time,,,Other,21,88297,18775,2,,138,4,8,8
+Bryan Price,d3e73435,Internal,New hire,05-12-2021,Passed,13-04-2020,Passed,03-09-2022,Failed,Male,Marketing,Contract,,Involuntary,Personal Reasons,8,89193,11756,4,,185,7,9,12
+Adam Bray,93f428e2,Agency,New hire,24-11-2021,Passed,17-02-2020,Passed,02-01-2024,Failed,Female,Sales,Part-time,19-06-2024,Involuntary,Other,5,73612,12635,5,,8,4,5,1
+Richard Burns,e4ff0a95,Agency,Hired,29-07-2022,Failed,08-02-2023,Passed,06-07-2020,Passed,Other,Marketing,Contract,,Involuntary,Personal Reasons,13,81588,3006,5,12-09-2020,150,2,5,14
+Kelly Thompson,3414c55d,Internal,New hire,27-07-2023,Failed,26-09-2022,Passed,07-07-2020,Passed,Female,Marketing,Full-time,24-06-2022,Involuntary,Personal Reasons,14,104842,9327,1,18-07-2022,43,9,4,9
+Abigail Wiley,aaab8052,Agency,Hired,24-01-2021,Passed,01-09-2023,Passed,22-01-2022,Failed,Male,Finance,Contract,21-09-2021,Voluntary,Personal Reasons,14,62367,16475,4,17-01-2022,55,7,1,14
+Victor Rivera,641ad68a,Agency,Hired,21-04-2023,Failed,22-06-2020,Passed,01-06-2020,Failed,Other,HR,Contract,,Voluntary,Personal Reasons,3,114318,5576,1,,28,2,2,1
+Paul Turner,70a00ebe,Online Application,Hired,08-04-2024,Passed,17-11-2023,Failed,03-05-2022,Passed,Other,HR,Contract,,,Personal Reasons,15,129842,19471,4,31-05-2023,154,8,2,2
+Ashley Haynes,f45a2ad4,Online Application,Hired,14-02-2023,Failed,12-11-2020,Passed,04-03-2023,Failed,Other,Operations,Full-time,,Voluntary,Layoff,30,79425,9370,4,08-11-2020,105,7,1,0
+Amanda Aguirre,8568ad49,Internal,New hire,22-04-2024,Failed,08-06-2021,Failed,23-06-2023,Passed,Female,Operations,Full-time,,Involuntary,,7,116187,6614,5,01-04-2023,165,4,1,12
+Timothy Lewis,3ad4986d,Online Application,New hire,04-01-2022,Failed,17-10-2022,Passed,31-12-2020,Passed,Female,HR,Contract,01-02-2024,Involuntary,,19,73987,8536,2,,154,5,7,10
+Lisa Hoover,13c9572b,Internal,Hired,01-03-2020,Passed,01-01-2024,Passed,28-02-2020,Passed,Female,Sales,Contract,01-12-2023,Voluntary,Personal Reasons,6,95884,13252,2,04-02-2022,95,1,7,8
+Anthony Ho,e0d377f2,Internal,New hire,23-09-2022,Failed,01-05-2024,Passed,09-11-2023,Passed,Male,IT,Part-time,,Involuntary,Retirement,26,76363,13926,4,,70,2,4,7
+Carlos Anderson,e3fdab80,Internal,Hired,21-11-2021,Passed,18-12-2022,Passed,02-07-2023,Passed,Female,Marketing,Full-time,,Involuntary,Layoff,13,79899,19205,3,27-10-2021,200,9,4,2
+Zachary Mcintyre,9ce14d5f,Internal,Hired,25-08-2024,Failed,17-08-2020,Failed,07-04-2023,Passed,Male,HR,Full-time,,Voluntary,Personal Reasons,17,110670,19986,4,,119,5,5,0
+Jordan May,3be4c0b1,Internal,Hired,30-09-2022,Passed,27-11-2022,Failed,05-07-2021,Failed,Male,HR,Full-time,,Voluntary,Other,29,80062,9529,5,,101,6,3,1
+April Bruce,5e8a91dd,Agency,New hire,03-06-2020,Failed,30-03-2022,Failed,01-03-2021,Failed,Other,Finance,Contract,,,Layoff,27,61546,19717,5,,134,6,3,9
+Jerry Diaz,6761415a,Internal,Hired,19-09-2020,Failed,14-06-2020,Failed,24-07-2024,Passed,Other,Sales,Contract,16-09-2022,Involuntary,Termination,2,149812,5897,2,24-03-2024,56,2,2,9
+Charles Baker,0921821f,Internal,Hired,10-01-2024,Failed,20-09-2023,Passed,07-07-2021,Failed,Other,Sales,Contract,,Voluntary,Retirement,28,54353,15340,2,,117,9,6,11
+Julie Morris,dbc02185,Agency,New hire,30-08-2022,Failed,19-10-2020,Passed,09-03-2024,Passed,Male,Finance,Contract,16-09-2022,Voluntary,Termination,24,74878,18630,4,16-05-2022,169,4,3,13
+Carly Pierce,703d2f72,Internal,Hired,12-08-2022,Failed,26-08-2024,Passed,12-11-2022,Passed,Female,Marketing,Contract,,,Other,9,87568,14205,5,,33,1,5,3
+Craig Rodriguez,db5a393b,Internal,Hired,23-08-2020,Failed,07-11-2021,Failed,28-01-2023,Failed,Male,Operations,Contract,16-09-2022,Voluntary,Other,10,60995,16796,1,29-12-2020,185,3,9,8
+Stephanie Thompson,3825a546,Agency,Hired,25-10-2020,Failed,27-05-2023,Failed,09-05-2021,Passed,Male,Marketing,Full-time,17-06-2020,Involuntary,Layoff,10,99152,16083,4,,144,5,7,12
+Leslie Smith,1bf69f67,Online Application,Hired,10-11-2023,Passed,18-03-2021,Failed,28-12-2022,Passed,Male,Sales,Part-time,,Voluntary,Layoff,19,115349,8774,3,03-08-2020,16,8,5,0
+Henry Miller,0bfcd17c,Online Application,Hired,15-02-2023,Failed,04-03-2021,Failed,07-07-2021,Failed,Male,HR,Full-time,29-03-2022,Involuntary,Layoff,7,149023,19914,5,,175,9,3,9
+Crystal Johnson,660fa5ba,Agency,Hired,26-12-2022,Passed,20-08-2023,Passed,13-11-2022,Passed,Other,Marketing,Part-time,,,Layoff,7,136175,17244,1,,179,1,9,13
+Derrick Whitehead,f619cfdd,Agency,Hired,30-01-2020,Passed,16-11-2020,Passed,12-10-2021,Passed,Male,Finance,Contract,,Voluntary,,3,130244,10337,2,28-04-2024,91,10,3,10
+Allen Mckinney,93073c3a,Internal,Hired,21-08-2023,Failed,06-02-2020,Failed,19-05-2023,Failed,Male,HR,Part-time,,Involuntary,Termination,14,89121,10216,5,,120,9,10,7
+Nicole Warner,2a82d9da,Online Application,Hired,19-02-2024,Passed,27-05-2021,Passed,14-04-2021,Passed,Other,Operations,Part-time,,Voluntary,Retirement,9,101526,15687,4,,30,4,4,1
+Jennifer Smith,d49bb3be,Internal,Hired,02-11-2023,Passed,18-07-2022,Passed,25-09-2022,Failed,Male,Finance,Part-time,,Voluntary,Personal Reasons,26,94679,4189,5,21-05-2020,172,3,5,9
+Richard Knight,330e8504,Agency,New hire,09-01-2023,Passed,01-07-2023,Failed,07-10-2023,Failed,Female,IT,Full-time,,,Termination,28,91130,4009,5,,37,8,4,9
+Kelly Melendez,57ff1ff8,Online Application,New hire,25-10-2021,Failed,17-04-2021,Failed,01-03-2022,Failed,Male,HR,Contract,,Voluntary,Other,13,68822,14601,4,,86,8,9,15
+Julie Walters,2a09a9c9,Internal,Hired,16-01-2023,Failed,28-05-2021,Passed,12-01-2023,Failed,Male,Finance,Contract,,Involuntary,Other,5,57531,6749,3,,76,2,4,13
+Jessica Bautista,607dcc09,Online Application,Hired,23-06-2021,Passed,01-12-2023,Passed,09-07-2022,Passed,Other,Operations,Contract,,,Layoff,19,66632,2225,5,,117,8,2,0
+Andrea Young,b843f34e,Agency,Hired,13-07-2020,Failed,05-08-2024,Failed,17-03-2022,Passed,Male,HR,Contract,,,Other,5,119791,12052,3,,120,9,5,14
+Alexander Mcdonald,c713ad89,Agency,New hire,22-03-2021,Passed,12-08-2021,Failed,25-07-2022,Failed,Male,Sales,Contract,13-12-2021,Involuntary,,17,62370,8269,3,,14,7,5,15
+Brandon Downs,cb609f44,Online Application,Hired,30-05-2020,Failed,24-02-2023,Passed,27-07-2020,Passed,Male,HR,Part-time,,Involuntary,Other,1,106880,17792,2,,67,4,3,6
+Michael Reed,8e60e510,Internal,Hired,22-11-2022,Passed,11-05-2022,Failed,29-10-2022,Passed,Other,Sales,Part-time,,Voluntary,,2,137173,7247,2,,60,8,8,5
+Paul Anderson,fe44debe,Internal,New hire,31-10-2022,Failed,06-03-2024,Failed,05-04-2020,Failed,Female,Sales,Part-time,,Voluntary,Other,27,111081,19864,4,,14,2,10,11
+Bradley Mathews,233572d4,Internal,New hire,02-12-2021,Passed,24-03-2022,Passed,17-06-2021,Passed,Male,Operations,Part-time,14-03-2021,Voluntary,Retirement,17,60291,6524,3,15-10-2020,126,6,4,0
+Gregory Roberts,8a5ccc1c,Agency,Hired,13-10-2021,Failed,30-07-2023,Passed,05-08-2021,Failed,Other,Finance,Full-time,14-03-2021,Voluntary,Other,16,42970,13268,1,27-11-2020,123,10,8,5
+Bryan Oconnor,a79fef7b,Online Application,Hired,20-10-2022,Failed,26-06-2024,Passed,06-04-2020,Failed,Female,Sales,Part-time,,Involuntary,Retirement,13,116032,13347,1,,63,2,8,4
+Stephen Woodward,25b36c04,Agency,Hired,13-02-2023,Failed,30-11-2021,Failed,25-02-2022,Passed,Female,HR,Full-time,14-03-2021,Voluntary,Other,11,87608,7772,4,16-08-2020,148,4,3,2
+Heather Green,a3b6daeb,Agency,Hired,29-12-2022,Passed,01-04-2024,Failed,18-12-2023,Passed,Other,Operations,Part-time,,,Layoff,17,62499,11503,3,,115,5,3,12
+Daniel Gonzalez,916dc55d,Agency,Hired,22-06-2020,Failed,29-05-2020,Failed,22-02-2021,Failed,Female,IT,Part-time,06-11-2023,,Termination,14,109513,11576,1,,191,9,10,6
+Katie Henderson,2ba7a7cc,Online Application,Hired,12-12-2022,Failed,09-08-2023,Failed,25-07-2022,Passed,Other,Sales,Part-time,,Involuntary,Personal Reasons,10,120248,19556,2,19-01-2022,175,3,1,12
+Tracy Cox,588f33e2,Online Application,New hire,19-09-2020,Failed,31-12-2022,Failed,16-02-2020,Passed,Female,HR,Part-time,21-12-2021,Involuntary,Termination,15,136790,19800,5,05-03-2023,136,6,6,4
+Kari Perez,01d39226,Online Application,New hire,24-03-2020,Failed,08-10-2022,Failed,09-09-2023,Passed,Male,Operations,Contract,,Involuntary,Termination,15,69463,8159,2,03-05-2021,115,10,1,2
+Dustin Bond DDS,11748f43,Internal,New hire,01-10-2020,Failed,29-11-2023,Passed,28-03-2020,Failed,Other,Finance,Contract,,,Termination,16,149193,5207,2,,35,4,2,11
+Andrew Nelson,6e29a4bf,Online Application,Hired,19-05-2023,Passed,10-10-2022,Passed,12-10-2020,Passed,Male,Operations,Full-time,01-05-2021,,,29,74592,1606,2,,162,6,2,14
+Dawn Gonzalez MD,297713f6,Online Application,New hire,04-09-2022,Passed,05-12-2022,Failed,27-02-2023,Passed,Other,Finance,Full-time,,Voluntary,,22,87769,15283,4,,166,10,9,0
+Ashlee Peck,f2f7402e,Internal,New hire,02-12-2023,Passed,27-03-2021,Failed,17-01-2022,Passed,Other,IT,Contract,,Voluntary,Termination,15,92384,8253,5,,100,10,8,13
+Ryan Martinez,560e6757,Internal,Hired,24-06-2023,Failed,14-04-2023,Passed,09-02-2024,Passed,Female,HR,Contract,,Involuntary,Personal Reasons,30,122898,3855,3,,63,3,1,14
+Brianna Singh,0b5ed7c7,Agency,New hire,15-02-2020,Failed,08-07-2021,Passed,02-03-2021,Failed,Other,Sales,Full-time,,,,9,53798,9026,4,,194,9,3,5
+Heather Roth,88828c6c,Online Application,Hired,30-01-2020,Failed,24-03-2021,Failed,05-10-2022,Passed,Female,Sales,Contract,16-01-2023,Involuntary,,15,138435,3455,1,,163,2,10,10
+Randy Adkins,1ba07bbb,Internal,New hire,19-05-2020,Failed,19-11-2022,Failed,19-12-2023,Failed,Other,Finance,Contract,,Voluntary,Termination,20,140767,2464,1,19-02-2021,131,6,5,12
+Daniel Hubbard,34a46cf5,Internal,New hire,04-09-2020,Passed,09-11-2023,Passed,16-04-2023,Passed,Male,Finance,Full-time,26-09-2022,Voluntary,Termination,17,109418,15379,5,01-06-2020,70,10,3,0
+Cheryl Bruce,e0c1ce7f,Internal,Hired,25-06-2023,Failed,07-02-2024,Passed,13-04-2023,Passed,Male,HR,Full-time,04-05-2020,,Layoff,21,89291,16208,4,,8,4,2,15
+Michael Johnson,a67b6a95,Agency,Hired,18-03-2021,Failed,16-03-2020,Failed,14-05-2023,Failed,Other,Finance,Contract,19-11-2023,Voluntary,Retirement,9,134484,16922,3,,75,10,4,7
+Shelby Garcia,16e42178,Agency,Hired,18-01-2024,Passed,25-01-2024,Passed,03-06-2024,Passed,Female,Sales,Part-time,,Voluntary,Layoff,26,105818,7690,4,22-09-2022,129,9,9,4
+Mckenzie Jones,7df38de4,Agency,Hired,19-07-2023,Failed,15-09-2023,Passed,25-11-2020,Failed,Other,IT,Full-time,08-03-2020,,Termination,15,118027,8613,1,,83,1,7,13
+Gina Hall,d021c207,Agency,Hired,02-12-2020,Failed,21-05-2024,Failed,02-11-2023,Failed,Other,Marketing,Full-time,14-03-2020,Voluntary,Other,18,149884,6146,4,10-10-2021,80,7,10,6
+Glenn Tucker,918876ce,Online Application,Hired,09-05-2021,Failed,25-04-2020,Failed,30-07-2022,Failed,Female,Operations,Part-time,,,Layoff,4,107227,6049,5,,34,3,10,4
+Timothy Miller,c9f49a28,Online Application,Hired,11-06-2021,Failed,13-01-2020,Failed,26-04-2020,Failed,Female,Sales,Full-time,11-07-2020,Voluntary,Retirement,12,83527,11323,3,05-05-2024,86,1,3,9
+Tammy Austin,d59a410f,Online Application,Hired,02-04-2024,Failed,06-02-2020,Failed,03-01-2024,Failed,Female,Sales,Contract,,Involuntary,Personal Reasons,6,101758,13655,2,,173,6,5,3
+Jason Castillo,901190c5,Internal,New hire,03-11-2023,Passed,10-11-2021,Passed,16-01-2023,Failed,Female,Marketing,Part-time,,,,23,44574,14028,3,,63,8,8,13
+Sandra Meadows,31f7ea84,Agency,Hired,29-03-2021,Failed,30-12-2022,Failed,27-04-2022,Passed,Female,Sales,Part-time,14-02-2024,Voluntary,Retirement,5,103176,6225,4,,115,9,1,13
+Stephanie Rodgers,f370d7f5,Agency,Hired,20-09-2022,Passed,06-04-2022,Failed,17-07-2021,Failed,Other,Sales,Part-time,11-07-2020,Involuntary,Layoff,13,98454,16315,3,06-04-2023,15,1,9,12
+Katelyn Hernandez MD,948c0f35,Internal,Hired,25-07-2022,Passed,14-07-2023,Passed,10-06-2022,Failed,Male,IT,Full-time,03-04-2024,Involuntary,Other,22,47990,6092,1,,7,5,10,14
+Terri Wright,2756090a,Internal,Hired,09-08-2020,Failed,30-10-2023,Passed,14-07-2023,Failed,Female,Operations,Full-time,,Voluntary,Retirement,27,65886,4720,2,,23,6,3,6
+Steven Collins,fb45d80d,Agency,Hired,23-06-2022,Passed,24-12-2022,Passed,24-02-2024,Passed,Male,Operations,Contract,11-07-2020,Involuntary,Other,4,70319,15492,1,18-01-2024,166,5,8,4
+Bobby Stone,5fd5f3e3,Internal,Hired,23-04-2023,Failed,02-05-2021,Passed,26-03-2022,Failed,Other,HR,Full-time,,,Other,26,136614,9578,3,,145,9,8,2
+Steven Woodard,376e77c7,Agency,Hired,23-01-2024,Passed,05-11-2021,Passed,31-12-2020,Failed,Female,HR,Contract,11-07-2020,Voluntary,Termination,26,120212,14305,2,11-07-2021,33,8,1,1
+Larry Smith,425d4cd0,Online Application,Hired,19-10-2021,Failed,22-04-2020,Failed,07-01-2021,Failed,Other,HR,Contract,,Involuntary,Layoff,14,115166,8820,4,13-12-2023,140,4,6,9
+Margaret Williams,150d4003,Agency,Hired,20-07-2023,Passed,15-05-2020,Passed,28-02-2022,Passed,Female,Sales,Full-time,,Involuntary,Personal Reasons,14,56423,3475,3,,109,5,3,14
+Robert Martin,27f1f394,Agency,Hired,04-11-2023,Passed,20-09-2021,Failed,21-10-2020,Failed,Male,Operations,Part-time,13-07-2023,Involuntary,Retirement,23,140998,3561,4,18-09-2023,128,7,6,9
+Christina Barnes,01735d16,Agency,Hired,19-09-2023,Failed,10-02-2023,Passed,13-03-2021,Failed,Other,IT,Contract,,Involuntary,Other,4,99174,7426,5,,148,7,4,5
+Victor Allen,acb2d7c5,Online Application,Hired,20-08-2022,Passed,30-08-2021,Failed,05-09-2022,Passed,Other,IT,Full-time,09-09-2023,Voluntary,Other,28,81694,6103,3,,52,6,2,3
+Christina Hansen,c03cacce,Agency,Hired,30-12-2021,Passed,02-10-2021,Failed,26-05-2021,Failed,Male,Operations,Contract,,Involuntary,Retirement,24,70891,8422,2,,27,5,6,3
+Donald Kennedy,71dff92f,Internal,Hired,13-11-2022,Failed,24-06-2023,Passed,19-09-2021,Failed,Other,Marketing,Full-time,13-07-2023,Voluntary,Termination,16,134363,19683,2,06-06-2023,6,9,5,3
+Amy Nguyen,a50ec63b,Internal,Hired,26-03-2023,Failed,25-11-2022,Failed,29-12-2020,Passed,Other,HR,Part-time,03-01-2023,,Layoff,18,111103,18926,3,,25,1,4,11
+Angela Miller,b119875d,Internal,Hired,30-06-2020,Passed,31-07-2021,Passed,22-06-2023,Passed,Male,Operations,Part-time,25-08-2023,Involuntary,Termination,6,145451,15363,4,,113,2,10,14
+Bill Hanna,570d33620,Agency,Hired,04-10-2022,Passed,20-05-2022,Failed,06-01-2022,Passed,Female,Operations,Contract,13-07-2023,Voluntary,Termination,30,143824,2499,4,30-04-2024,162,3,6,1
+Troy Zimmerman,6fcc8bf2,Online Application,New hire,20-01-2024,Failed,24-11-2022,Failed,28-02-2024,Failed,Female,HR,Contract,13-07-2023,Voluntary,Layoff,16,72477,11153,2,31-07-2024,119,9,2,15
+Kimberly Hughes,e8bf5ede,Internal,Hired,02-10-2020,Failed,11-01-2022,Failed,26-09-2022,Failed,Other,Operations,Part-time,,Involuntary,Other,25,93672,14956,2,,41,6,2,1
+Cynthia Miller,57d74505,Internal,Hired,02-03-2021,Failed,05-03-2024,Passed,08-02-2022,Failed,Male,IT,Contract,,Voluntary,Retirement,15,119415,16678,5,,78,2,6,8
+Richard Wheeler,25cb7e07,Agency,Hired,03-03-2022,Failed,19-07-2021,Passed,09-08-2022,Passed,Other,Operations,Part-time,,,Other,10,90900,10911,1,,151,8,8,14
+John Griffin,c67b76a6,Agency,Hired,04-06-2022,Failed,06-01-2022,Failed,22-10-2023,Passed,Female,Marketing,Full-time,,Voluntary,Other,16,94459,11864,4,04-12-2022,97,7,5,1
+Andre Duncan,53ee788e,Agency,Hired,05-08-2024,Passed,18-04-2024,Passed,03-04-2020,Passed,Female,Marketing,Contract,,Voluntary,Personal Reasons,27,78818,6646,3,,38,1,1,13
+Jason Miller,76d838ed,Internal,Hired,19-11-2021,Passed,01-06-2020,Passed,21-08-2020,Failed,Male,Sales,Full-time,,Voluntary,Personal Reasons,20,104501,3290,2,,197,3,7,2
+Marco Warren,959a3092,Online Application,Hired,07-04-2022,Failed,17-10-2023,Failed,19-11-2023,Failed,Other,HR,Part-time,,Involuntary,Layoff,25,134583,17221,2,,5,3,6,4
+Tina Floyd,b0144466,Internal,Hired,08-02-2022,Failed,20-07-2023,Failed,04-07-2024,Passed,Male,Operations,Contract,11-09-2022,,Personal Reasons,23,86102,15429,2,,162,8,4,9
+Crystal Robinson,4fbf96ff,Internal,Hired,19-02-2021,Failed,10-08-2020,Failed,27-11-2021,Failed,Other,IT,Part-time,19-10-2021,Involuntary,Other,30,146153,16456,5,16-12-2023,111,6,4,7
+Jodi Gutierrez,f702fdcf,Agency,Hired,19-11-2023,Passed,14-08-2024,Failed,09-06-2020,Passed,Female,HR,Contract,,Involuntary,,3,91214,12079,2,25-01-2024,20,1,9,4
+Dr. Cynthia Martin,80d9936f,Online Application,Hired,13-07-2023,Passed,27-02-2022,Failed,30-01-2022,Passed,Female,Operations,Contract,,Involuntary,Other,18,45538,11435,1,,46,2,10,2
+Jessica Davis,e7cdc8bf,Agency,New hire,16-02-2021,Failed,08-01-2020,Passed,02-11-2022,Passed,Male,Finance,Full-time,,Voluntary,Termination,12,96504,15946,2,,99,1,2,2
+Tom Jones,9f0ec8c1,Internal,New hire,09-01-2022,Failed,13-02-2024,Passed,03-08-2021,Failed,Female,HR,Part-time,11-08-2023,Voluntary,Retirement,6,91144,4798,3,,87,3,5,14
+Joshua Evans,0fa9c3ae,Internal,Hired,07-12-2021,Failed,13-09-2020,Passed,25-02-2024,Failed,Other,Operations,Part-time,,Voluntary,Other,5,130255,18632,1,,145,5,2,13
+Mark Edwards,aafb943a,Internal,New hire,18-04-2022,Passed,16-12-2020,Failed,07-07-2023,Passed,Male,HR,Full-time,,,Layoff,15,56168,10629,4,,92,7,2,10
+Antonio Wu,28017176,Internal,Hired,09-08-2021,Passed,25-04-2021,Failed,27-05-2021,Failed,Male,HR,Part-time,,Involuntary,Retirement,4,46111,12726,2,,12,6,1,9
+Richard Conley,48c401f4,Internal,Hired,22-03-2023,Failed,11-06-2022,Passed,05-02-2023,Passed,Male,Sales,Part-time,07-07-2021,Involuntary,Other,26,128746,19344,3,30-05-2022,91,6,5,2
+Melissa Wright,bc42f442,Online Application,Hired,17-02-2023,Failed,04-12-2023,Failed,30-08-2024,Passed,Male,Sales,Full-time,07-07-2021,Involuntary,Other,8,72590,6466,3,25-09-2022,47,8,7,7
+Christopher Guerrero,fe340e3c,Agency,New hire,28-10-2022,Passed,08-03-2024,Passed,23-01-2020,Failed,Male,IT,Contract,07-07-2021,Involuntary,Retirement,20,96407,1036,3,20-05-2023,197,10,1,3
+Matthew Garcia,db678c06,Agency,Hired,22-07-2024,Passed,24-11-2022,Failed,15-01-2022,Failed,Male,Sales,Part-time,,Voluntary,Termination,26,105420,4507,2,,71,8,7,6
+Matthew Booth,0e432d2c,Internal,New hire,02-01-2023,Passed,19-07-2020,Failed,02-07-2023,Failed,Other,HR,Full-time,07-07-2021,Involuntary,Layoff,26,77363,18271,2,10-04-2020,8,1,10,9
+Justin Murphy,0c54375d,Internal,Hired,14-02-2022,Failed,31-12-2023,Passed,25-05-2021,Failed,Female,IT,Full-time,,Involuntary,,28,90976,13911,2,,79,4,3,2
+Matthew Oneill,80d9d865,Agency,Hired,12-05-2022,Passed,29-07-2021,Failed,24-07-2021,Passed,Other,Sales,Contract,07-07-2021,Involuntary,,26,106102,17276,1,27-10-2020,126,10,2,4
+Caroline Leonard,a23a8a3d,Internal,Hired,28-03-2023,Failed,07-06-2021,Failed,19-06-2021,Passed,Female,Finance,Full-time,,,Retirement,20,45781,14975,1,08-10-2023,126,10,7,9
+Denise Gentry,3ef30eb8,Online Application,Hired,08-04-2024,Passed,23-05-2022,Failed,09-01-2024,Passed,Male,Operations,Contract,,Voluntary,Retirement,26,127534,10615,1,,89,6,6,11
+Donald Smith,e103b071,Online Application,Hired,17-08-2023,Passed,05-07-2021,Passed,31-01-2024,Failed,Male,Sales,Full-time,,Voluntary,Other,30,77727,1973,2,,182,10,1,3
+Rodney Jackson,3c1274bd,Online Application,Hired,04-05-2021,Passed,22-04-2020,Passed,13-10-2023,Passed,Other,IT,Contract,,,,12,131934,3758,1,,49,1,1,4
+Larry Vang,4578021a,Agency,Hired,31-10-2022,Passed,30-05-2024,Failed,25-06-2023,Passed,Male,Operations,Contract,28-09-2021,Voluntary,Termination,11,71667,4075,4,,194,8,8,9
+Tammy Serrano,18704463,Internal,Hired,30-09-2022,Passed,26-09-2021,Failed,16-03-2024,Failed,Other,Operations,Part-time,,,Layoff,22,115876,2775,4,,132,3,5,14
+Virginia Reyes,dd71ae75,Internal,Hired,23-11-2020,Failed,02-03-2022,Passed,20-05-2022,Passed,Female,Operations,Contract,,Voluntary,Retirement,3,50381,11519,4,30-01-2020,32,6,7,7
+John Whitaker,e6d5f13c,Internal,Hired,26-03-2021,Passed,10-11-2022,Failed,07-04-2022,Passed,Other,Operations,Full-time,,Voluntary,Retirement,22,62677,17087,1,,50,9,8,0
+Tyler Tate,128ffd3b,Online Application,Hired,11-01-2021,Passed,16-08-2021,Passed,23-11-2022,Failed,Other,Operations,Part-time,11-01-2023,Voluntary,Layoff,3,134565,5588,5,,108,1,5,3
+Carolyn Santos,8bab0ea1,Agency,Hired,26-09-2021,Failed,14-12-2023,Failed,27-08-2022,Passed,Female,IT,Contract,,Voluntary,,22,129703,3308,2,,69,4,1,5
+John Martin,83cf0fe7,Agency,New hire,26-07-2022,Passed,28-01-2024,Passed,31-08-2022,Passed,Other,Sales,Part-time,,Voluntary,Retirement,8,73351,13129,2,,4,10,5,7
+Ashley Wade,73ec3ae5,Online Application,New hire,25-06-2022,Passed,03-04-2021,Failed,27-05-2023,Passed,Male,Marketing,Part-time,,Involuntary,Layoff,1,137646,9740,5,22-03-2023,193,8,4,1
+Kristine Gutierrez,f4812ae8,Agency,Hired,20-01-2022,Failed,26-06-2022,Passed,31-08-2020,Passed,Male,HR,Part-time,,Voluntary,Layoff,20,70129,1929,1,07-04-2022,56,10,7,12
+Terry Banks,5217d4cc,Internal,Hired,10-02-2022,Failed,09-04-2023,Failed,28-04-2021,Passed,Other,IT,Contract,,,,21,74850,9612,2,,17,9,2,1
+Victoria Young,918b5e51,Online Application,New hire,30-04-2024,Passed,29-01-2020,Passed,03-03-2020,Passed,Other,IT,Part-time,31-03-2020,Involuntary,Retirement,20,74730,19121,3,15-03-2024,64,10,1,11
+Brittany Phillips,a9a8f661,Internal,Hired,15-04-2023,Failed,02-10-2022,Passed,02-03-2023,Passed,Female,HR,Full-time,,Voluntary,,1,102095,12075,2,,136,6,8,12
+Wendy Willis,79c36fe4,Agency,New hire,14-02-2022,Failed,23-08-2021,Failed,14-02-2022,Passed,Other,Sales,Part-time,11-12-2020,Voluntary,Termination,16,71052,14105,2,,86,6,10,6
+Deborah Rogers,b4f64207,Online Application,Hired,15-11-2021,Failed,06-08-2023,Passed,21-12-2022,Failed,Male,Operations,Part-time,15-07-2023,,Other,17,44971,5126,5,,166,6,8,6
+Edward Sanford,224680c1,Agency,Hired,04-09-2024,Passed,10-08-2021,Failed,23-01-2021,Failed,Male,Sales,Part-time,17-03-2022,Involuntary,Layoff,7,88916,9523,2,,18,7,2,1
+Timothy Delgado,0aae7ae5,Agency,Hired,14-05-2022,Failed,01-06-2023,Passed,04-04-2023,Failed,Other,Operations,Contract,05-02-2020,Involuntary,Termination,16,103098,18933,1,,47,9,6,10
+Jose Donaldson,ff621e57,Internal,Hired,10-06-2021,Failed,16-03-2021,Failed,15-05-2022,Failed,Other,IT,Contract,,Voluntary,Layoff,18,92094,12922,5,,91,4,10,0
+David Davis,248d237f,Agency,New hire,18-06-2022,Failed,02-04-2021,Passed,21-06-2021,Failed,Other,Finance,Part-time,,Involuntary,,5,55081,6087,2,,195,6,4,9
+Cindy Cole,ceed6082,Agency,Hired,11-01-2022,Passed,19-02-2020,Passed,11-01-2023,Passed,Female,IT,Part-time,,Involuntary,Termination,14,58358,3259,1,,103,6,10,6
+Denise Moses,97f6c2af,Online Application,Hired,13-06-2020,Failed,01-08-2024,Failed,05-07-2021,Failed,Male,Sales,Full-time,31-12-2023,,Retirement,18,136822,3703,5,03-03-2021,160,2,6,9
+Mary King,c39ac60c,Agency,Hired,10-05-2023,Failed,13-05-2021,Passed,04-06-2022,Failed,Other,Sales,Contract,30-05-2020,Voluntary,,23,126791,7616,3,,195,3,8,7
+Holly Saunders MD,47ac639f,Internal,New hire,29-01-2023,Passed,06-04-2023,Passed,21-07-2021,Failed,Female,Operations,Contract,,Involuntary,Termination,5,118555,7252,1,,1,10,3,6
+Matthew Smith,2d38ccbe,Internal,Hired,20-10-2020,Failed,06-05-2020,Failed,14-12-2022,Failed,Male,Sales,Part-time,,,Retirement,8,52994,7404,4,24-10-2020,45,7,3,6
+Thomas Baker,ef5b8a90,Agency,Hired,10-12-2023,Failed,10-04-2020,Failed,05-05-2024,Passed,Male,HR,Full-time,,,Personal Reasons,4,99189,16277,5,,123,6,4,0
+Mercedes Sanders,c347e410,Online Application,New hire,20-05-2023,Passed,03-02-2023,Failed,30-04-2022,Failed,Male,Operations,Full-time,,Involuntary,Personal Reasons,2,101832,10167,5,04-11-2020,86,7,6,8
+Stacy Peterson,3ccdc507,Agency,Hired,18-11-2021,Passed,30-01-2021,Failed,02-07-2021,Failed,Female,HR,Part-time,12-10-2021,Involuntary,Termination,15,110290,12956,4,,181,9,8,14
+Pamela Haas,3f59653c,Online Application,New hire,13-09-2023,Failed,15-07-2023,Failed,16-05-2020,Failed,Other,Sales,Part-time,29-12-2021,,Retirement,4,54672,13973,5,,108,2,1,5
+Lindsay Moss,ea2c57ac,Internal,Hired,09-03-2023,Passed,23-08-2021,Failed,17-11-2020,Passed,Male,Operations,Contract,,Involuntary,Termination,16,132288,13587,5,,24,3,10,13
+Ronnie Silva,7535f02d,Agency,New hire,17-07-2023,Failed,10-02-2024,Passed,07-03-2024,Failed,Male,Finance,Part-time,,Voluntary,Other,5,115497,16362,3,15-06-2023,138,7,10,12
+Andrew Anderson,1b2544c8,Online Application,New hire,25-09-2022,Failed,11-01-2021,Passed,11-01-2024,Passed,Other,Operations,Full-time,,Voluntary,Personal Reasons,24,128784,12938,3,,126,4,8,7
+Monica Perez,b39d4559,Agency,Hired,27-01-2022,Passed,08-03-2024,Passed,26-08-2021,Passed,Other,Finance,Part-time,,Voluntary,,9,133426,18918,1,,114,10,8,9
+Todd Wright,270161d5,Online Application,New hire,25-11-2021,Failed,11-05-2021,Passed,05-06-2022,Passed,Male,Sales,Contract,,,Other,19,147230,7900,4,,37,7,1,1
+Stephanie Patel,5f81e73d,Agency,Hired,20-06-2024,Failed,14-04-2020,Passed,10-05-2022,Failed,Male,Operations,Contract,,Voluntary,Layoff,3,96440,13843,1,,44,6,2,0
+Jennifer Clark,2df87963,Internal,New hire,08-08-2024,Passed,01-07-2022,Passed,30-11-2023,Failed,Male,Finance,Contract,,,Personal Reasons,10,47467,16968,3,,174,7,3,1
+Jason Ortega,696efa2b,Online Application,New hire,04-10-2020,Failed,20-04-2024,Passed,21-12-2022,Failed,Male,HR,Part-time,11-02-2023,,Personal Reasons,8,57092,16417,4,,187,4,9,12
+Kristi Shaw,e4ad3a48,Online Application,Hired,20-01-2021,Failed,12-08-2020,Passed,11-12-2022,Passed,Female,Operations,Full-time,03-06-2020,,Retirement,28,116731,5345,1,,101,7,9,4
+Jared Gardner,f1fc0683,Internal,Hired,10-01-2020,Failed,10-11-2021,Passed,02-03-2021,Failed,Male,Marketing,Part-time,05-11-2023,Voluntary,Layoff,20,89929,9719,1,07-09-2021,141,6,8,3
+Kyle Costa,e36eb8ad,Internal,New hire,12-08-2024,Failed,11-04-2023,Failed,26-02-2020,Failed,Female,Marketing,Part-time,16-10-2022,Involuntary,Retirement,27,142568,11084,3,,109,1,3,9
+Teresa Wang,4b0d32d3,Internal,Hired,25-01-2023,Failed,03-02-2020,Failed,01-07-2020,Failed,Male,Operations,Full-time,,Involuntary,Layoff,15,49820,12107,2,,122,1,4,0
+Mr. Alexander Howell DDS,8b546862,Online Application,Hired,28-12-2022,Failed,03-08-2020,Failed,06-07-2021,Failed,Male,Sales,Full-time,31-07-2024,Voluntary,Retirement,28,70981,16655,2,11-01-2024,50,7,2,0
+Francisco Martinez,bbda8214,Internal,Hired,08-06-2022,Failed,10-02-2021,Passed,06-12-2022,Passed,Male,Operations,Full-time,,Voluntary,Termination,18,47838,11135,4,,92,10,9,2
+Dr. Sara Sanford,214ccc82,Internal,New hire,20-07-2022,Failed,24-10-2020,Passed,21-10-2020,Passed,Other,Finance,Part-time,13-02-2022,Voluntary,Other,1,127211,15115,2,,12,8,4,8
+Lori Gillespie,db91bc7a,Agency,Hired,09-12-2023,Passed,10-03-2021,Failed,10-04-2024,Passed,Other,Marketing,Part-time,31-07-2024,Involuntary,Layoff,30,90975,8535,3,25-12-2021,155,8,9,5
+Michele Meyer,f24e8e40,Agency,Hired,02-04-2022,Failed,24-08-2022,Passed,12-01-2023,Failed,Male,Operations,Contract,04-07-2020,Involuntary,,28,53369,7076,3,,9,3,5,13
+Kenneth Nelson,99e77d2b,Online Application,Hired,03-07-2024,Failed,05-04-2024,Failed,31-07-2024,Failed,Other,Marketing,Contract,31-07-2024,Involuntary,Layoff,9,131752,3691,4,07-08-2021,96,6,10,13
+William Franco,ee120d59,Internal,New hire,23-05-2022,Passed,08-11-2022,Passed,05-09-2020,Failed,Other,HR,Contract,31-07-2024,Involuntary,Personal Reasons,13,115947,6345,2,01-07-2022,123,4,2,11
+Christopher Allen,c3fcbce4,Agency,Hired,26-06-2024,Passed,20-06-2020,Failed,22-05-2023,Passed,Other,Operations,Full-time,31-07-2024,Voluntary,Layoff,17,77118,8835,3,31-05-2024,1,9,9,11
+Lisa Davidson,869275c8,Internal,Hired,21-07-2020,Passed,08-03-2024,Passed,07-02-2023,Failed,Female,Finance,Contract,,Voluntary,Termination,1,73192,1940,5,,50,9,4,3
+Stephanie Lopez,6e7175dc,Internal,Hired,14-02-2023,Failed,14-11-2022,Passed,24-02-2021,Passed,Male,Sales,Full-time,,Voluntary,Personal Reasons,18,102036,19807,2,,84,2,4,4
+Courtney Savage,4bafac9b,Online Application,Hired,29-07-2021,Passed,26-04-2023,Passed,21-02-2020,Passed,Other,HR,Part-time,09-11-2022,Involuntary,,7,41558,10928,3,,175,4,9,11
+Kevin Mitchell,3b197254,Agency,Hired,31-08-2022,Passed,17-07-2024,Failed,17-05-2020,Failed,Male,Finance,Full-time,,Voluntary,Retirement,9,56196,1414,3,,144,7,5,2
+Monica Chavez,af25d2b1,Internal,New hire,05-09-2023,Passed,14-11-2021,Failed,12-08-2021,Passed,Other,HR,Full-time,16-02-2021,Involuntary,Other,17,56446,9383,4,,76,3,7,15
+Tammy Patton,508689b4,Agency,Hired,12-05-2021,Failed,24-11-2022,Failed,27-01-2022,Passed,Female,Finance,Contract,,Involuntary,Layoff,21,65197,19496,4,,199,5,10,7
+Richard Jones,34521fe9,Internal,Hired,17-12-2022,Passed,22-11-2023,Failed,07-11-2023,Passed,Female,Operations,Contract,31-07-2024,Voluntary,Layoff,15,129880,13484,5,20-10-2020,200,8,5,11
+Whitney Vaughn,b18c9b81,Online Application,Hired,04-03-2022,Passed,30-03-2023,Failed,25-04-2020,Failed,Other,HR,Contract,,Involuntary,Termination,7,61039,10078,2,,29,5,2,5
+Jodi Gomez,7953b9ce,Agency,Hired,03-05-2020,Passed,01-01-2020,Passed,13-06-2022,Passed,Other,Marketing,Part-time,,Involuntary,Termination,22,126951,1501,3,,180,8,1,15
+Edward Warren,a5b5913b,Internal,New hire,08-08-2020,Failed,02-11-2021,Passed,22-11-2021,Passed,Female,Operations,Contract,31-07-2024,Involuntary,Personal Reasons,17,68835,10937,3,22-08-2022,13,2,5,15
+Sarah Brown,032d7688,Agency,Hired,12-07-2020,Failed,06-08-2020,Failed,05-12-2020,Failed,Male,Sales,Contract,01-01-2022,Voluntary,Other,3,77022,16197,3,,52,9,3,6
+Jimmy Cole,dd6aa189,Online Application,Hired,16-01-2021,Passed,23-02-2020,Failed,21-12-2021,Passed,Male,IT,Full-time,,Involuntary,Termination,24,77058,8349,3,,12,7,2,0
+Cody Hart DDS,e31eb6bd,Agency,Hired,21-05-2020,Failed,27-11-2020,Failed,28-05-2022,Failed,Female,Operations,Contract,02-06-2022,Voluntary,Retirement,28,146559,5931,5,06-07-2023,119,10,8,0
+Christopher Colon,a332dd2c,Agency,Hired,06-12-2022,Failed,05-01-2020,Passed,19-05-2020,Passed,Female,HR,Contract,,Voluntary,Personal Reasons,26,137697,16254,4,,174,2,10,8
+Mark Jones,6aadf50b,Agency,Hired,26-02-2022,Passed,28-09-2022,Passed,16-10-2022,Failed,Male,IT,Contract,,Voluntary,Personal Reasons,17,92217,16517,3,20-05-2021,152,6,7,14
+John Allen,ceb7a3e9,Agency,Hired,13-02-2023,Failed,13-03-2023,Failed,17-08-2021,Failed,Male,Marketing,Part-time,08-09-2022,Involuntary,,17,84511,18073,1,26-04-2024,182,7,2,0
+Cynthia Bush,b45625cb,Agency,Hired,08-02-2022,Passed,12-05-2024,Passed,09-09-2022,Failed,Other,Operations,Contract,,,,13,93355,12261,2,,23,3,3,4
+Rachel Craig,5e32e14e,Internal,Hired,02-08-2020,Failed,05-11-2021,Passed,09-05-2024,Passed,Male,HR,Contract,,Involuntary,Termination,7,139709,16020,5,,175,7,2,11
+Ellen Rhodes,93e55574,Agency,Hired,09-05-2020,Passed,27-10-2023,Passed,17-10-2022,Passed,Male,Marketing,Full-time,,Involuntary,Layoff,16,45119,9977,2,,99,3,7,12
+James Morgan,245184ba,Internal,Hired,07-02-2021,Passed,08-04-2024,Passed,12-11-2022,Passed,Male,Marketing,Contract,,Involuntary,,30,105169,1183,4,,156,7,6,12
+Maria Walker,ae6339b0,Agency,Hired,17-12-2023,Failed,21-05-2022,Failed,17-01-2021,Passed,Other,IT,Part-time,,Voluntary,Termination,26,73989,8713,2,,103,2,5,9
+Charles Pena,e5997c44,Online Application,New hire,18-11-2023,Failed,27-11-2021,Passed,16-03-2023,Passed,Female,HR,Contract,13-08-2022,Involuntary,Other,4,141382,8963,4,,61,7,3,2
+Jack Hopkins,a80fd275,Internal,New hire,29-08-2021,Failed,01-07-2024,Failed,09-07-2023,Failed,Female,Operations,Full-time,,Voluntary,Personal Reasons,9,69579,12745,1,,185,6,5,12
+Eric Stanley,fff7cf05,Agency,New hire,13-10-2020,Passed,10-05-2021,Passed,27-08-2020,Failed,Other,HR,Contract,19-05-2022,,Personal Reasons,16,70823,9242,4,,55,9,10,4
+Michael Simmons,34922db1,Internal,Hired,19-11-2023,Passed,07-02-2022,Passed,15-01-2024,Failed,Female,Finance,Part-time,08-09-2022,Voluntary,Termination,24,53550,9551,3,27-02-2023,123,4,5,7
+Michelle Logan,b905d13c,Internal,Hired,26-06-2024,Failed,22-01-2023,Passed,28-11-2022,Failed,Female,Finance,Full-time,,,Layoff,12,89445,4263,2,,132,1,3,7
+Alyssa Lamb,32e918d8,Online Application,Hired,10-08-2022,Passed,18-09-2021,Failed,05-08-2021,Failed,Male,IT,Full-time,,Voluntary,Layoff,25,54167,14452,3,,66,3,3,4
+Gina Collins,80eb9e55,Agency,Hired,20-03-2021,Failed,06-04-2021,Failed,25-04-2020,Passed,Other,HR,Part-time,06-01-2023,Involuntary,Retirement,28,127111,4048,4,,38,8,4,15
+Elizabeth Fisher,0e02e65f,Internal,Hired,30-01-2021,Failed,06-08-2022,Failed,08-12-2020,Passed,Female,Sales,Contract,08-09-2022,,Retirement,12,104948,11440,4,11-05-2020,92,2,6,7
+Stephanie Preston,fe7a5d2b,Internal,New hire,18-07-2020,Passed,12-04-2022,Passed,17-12-2021,Failed,Male,Operations,Full-time,08-09-2022,Involuntary,Other,8,47933,8885,3,03-04-2020,189,1,5,5
+Adam Owens MD,af656807,Online Application,Hired,27-08-2023,Failed,21-06-2021,Passed,07-10-2021,Passed,Female,Marketing,Part-time,08-09-2022,,Other,13,99880,5213,2,05-11-2022,108,3,9,11
+Jacqueline Hickman,2a797d09,Agency,Hired,15-10-2021,Failed,13-01-2023,Failed,13-08-2021,Failed,Male,IT,Contract,,Involuntary,Other,27,141717,13171,5,,66,2,3,8
+Peggy Lewis,350820f5,Online Application,Hired,21-02-2024,Failed,09-11-2020,Passed,02-05-2021,Failed,Male,IT,Full-time,,Involuntary,Personal Reasons,23,55807,17589,4,,131,5,3,15
+Philip Copeland,6167aabe,Internal,New hire,08-09-2023,Failed,06-09-2020,Passed,26-04-2024,Passed,Female,IT,Full-time,,Involuntary,Other,17,41782,15413,3,,136,1,2,11
+Caitlin Waller,71717c15,Internal,Hired,16-01-2020,Passed,14-03-2021,Failed,02-07-2023,Passed,Other,Finance,Part-time,09-12-2020,,Retirement,7,94556,19055,1,,87,6,7,10
+Jessica Ramos,c3e7d1d4,Agency,Hired,17-01-2020,Failed,14-12-2020,Passed,14-11-2021,Failed,Male,IT,Full-time,24-06-2024,,Layoff,12,45140,12355,5,22-01-2024,156,7,3,3
+Mark Carter,5f12a0a8,Internal,Hired,27-12-2022,Failed,10-06-2024,Passed,21-09-2020,Failed,Other,Sales,Full-time,,,,9,68179,3822,2,,115,5,8,6
+Lauren Lynn,7c1f2bd0,Agency,New hire,20-01-2020,Passed,07-08-2023,Failed,12-02-2020,Passed,Male,Finance,Part-time,,Involuntary,Retirement,4,120381,17420,3,,45,9,9,6
+Patrick Davis,f716cc21,Internal,Hired,07-09-2021,Failed,27-08-2024,Failed,24-08-2020,Passed,Other,Marketing,Part-time,,Voluntary,Termination,12,63377,14743,1,,43,1,8,10
+Carol Moss,b8c7559d,Agency,New hire,21-08-2023,Failed,22-04-2024,Failed,02-03-2021,Failed,Other,Marketing,Full-time,24-06-2024,Voluntary,Other,27,104390,11507,3,02-06-2021,181,4,2,6
+Christopher Jones,900baf0f,Internal,Hired,19-03-2021,Failed,19-09-2023,Passed,28-05-2022,Passed,Female,Finance,Part-time,,Voluntary,Personal Reasons,12,76518,16714,5,,8,6,8,12
+Jason Terry,b04291cc,Online Application,New hire,20-05-2022,Failed,25-11-2023,Passed,16-06-2024,Failed,Other,HR,Part-time,24-06-2024,,Termination,5,117172,9206,1,25-03-2020,98,6,7,9
+Michael Oconnell,5bdddcbb,Agency,Hired,24-10-2020,Passed,10-06-2022,Passed,22-08-2020,Failed,Male,Operations,Full-time,21-12-2022,Voluntary,Layoff,17,121683,10988,1,27-02-2022,35,6,10,4
+Ricky Williams,95c877df,Internal,Hired,21-10-2023,Failed,25-07-2022,Passed,28-01-2024,Failed,Female,HR,Part-time,09-01-2020,Voluntary,Retirement,26,84501,9516,2,09-08-2020,75,10,4,6
+Samuel Morales,86aeb8ef,Agency,Hired,10-12-2020,Failed,02-01-2023,Passed,25-09-2020,Passed,Female,HR,Part-time,15-02-2024,,Layoff,11,83514,8208,2,,123,3,1,8
+Michelle Stevenson,e56a6788,Online Application,Hired,24-03-2023,Passed,29-04-2023,Passed,21-08-2024,Passed,Male,HR,Part-time,10-04-2023,Voluntary,Layoff,8,43189,16276,2,,42,7,2,2
+Belinda Johnston,daaac5a9,Agency,New hire,06-10-2023,Passed,12-10-2023,Failed,12-05-2022,Passed,Other,Finance,Part-time,,Voluntary,Personal Reasons,20,65496,13081,1,,147,6,8,12
+Zachary Lewis,7c0af2f0,Agency,Hired,22-06-2021,Failed,27-09-2021,Passed,12-08-2023,Passed,Other,Sales,Full-time,12-06-2024,Involuntary,Layoff,19,94508,5101,1,,98,9,3,0
+Brandy Jackson,a03c6b3f,Agency,New hire,04-09-2022,Failed,28-04-2022,Passed,07-07-2021,Failed,Other,Sales,Part-time,,Involuntary,Retirement,10,51059,18691,4,,83,10,8,4
+Michael Baxter,cb3c82bf,Online Application,Hired,07-11-2023,Failed,27-07-2020,Failed,08-03-2024,Passed,Male,Operations,Contract,,Involuntary,Personal Reasons,30,92552,7808,4,,34,8,8,10
+Deborah Fowler,da88ad93,Internal,Hired,28-05-2023,Failed,08-02-2024,Failed,16-05-2023,Passed,Female,Sales,Part-time,09-01-2020,Involuntary,Retirement,22,126037,2549,5,27-07-2024,59,10,10,5
+Christopher Phillips,5880e2c8,Online Application,Hired,20-06-2022,Passed,21-05-2023,Passed,07-02-2022,Passed,Male,HR,Contract,,Involuntary,Retirement,25,46707,4184,1,,20,7,2,15
+Mary Rivera,8f45aa85,Internal,New hire,05-02-2021,Failed,08-06-2024,Failed,25-02-2020,Failed,Female,IT,Part-time,09-01-2020,Involuntary,Personal Reasons,14,121651,13725,5,18-01-2023,166,5,8,11
+Katherine Lopez,a2e11a98,Online Application,Hired,12-12-2022,Passed,15-05-2024,Passed,14-07-2023,Passed,Female,Finance,Part-time,23-09-2021,Voluntary,,25,133591,11982,5,,8,8,2,3
+Norma Soto,4bb6d046,Online Application,New hire,16-05-2021,Passed,14-07-2024,Failed,28-07-2020,Passed,Male,Marketing,Contract,25-12-2022,Voluntary,Other,14,74328,16450,2,,134,10,1,2
+Crystal Rivera,3e3c287b,Online Application,Hired,09-05-2020,Passed,22-10-2023,Failed,24-10-2023,Failed,Other,Marketing,Contract,,Voluntary,Personal Reasons,19,66174,10235,3,20-07-2023,51,7,7,8
+Randy Harrison,f18db4ad,Internal,Hired,19-07-2021,Failed,11-01-2021,Passed,31-07-2021,Passed,Male,Finance,Contract,15-04-2022,,Personal Reasons,12,119534,1926,1,24-01-2021,123,5,4,6
+Christian Young,5840ff60,Internal,Hired,15-08-2021,Failed,27-12-2022,Passed,06-08-2022,Passed,Male,Sales,Part-time,,Voluntary,Termination,30,125248,13943,1,,178,1,9,2
+Eileen Cameron,83cd9dca,Agency,Hired,19-10-2022,Passed,06-11-2021,Failed,06-05-2022,Failed,Other,Finance,Part-time,,Involuntary,Layoff,13,55530,8273,4,10-05-2024,90,9,6,4
+Aaron Young,720548f9,Agency,Hired,23-12-2020,Passed,23-10-2022,Passed,01-02-2024,Failed,Female,Operations,Full-time,,,,28,85226,2648,4,,84,3,5,13
+Dr. Aaron Scott,58f7aed8,Agency,New hire,25-04-2021,Failed,19-08-2020,Failed,31-05-2020,Failed,Other,Finance,Full-time,,,Retirement,6,135623,15815,3,16-04-2023,5,5,10,2
+Yvonne Ellis,3472479b,Online Application,Hired,14-04-2022,Failed,07-06-2021,Failed,26-05-2023,Passed,Other,IT,Contract,,Voluntary,Layoff,12,129103,15052,5,,97,1,5,7
+Jamie Patterson,d1a19ef9,Agency,Hired,24-01-2020,Passed,02-09-2022,Passed,20-11-2022,Failed,Female,Marketing,Contract,,Voluntary,,17,99447,16593,5,,143,6,9,7
+Mr. Nathan Sanchez,ec51eb9e,Internal,Hired,14-05-2024,Passed,17-04-2021,Passed,26-09-2021,Failed,Male,HR,Full-time,,,Layoff,25,58881,6649,3,,68,6,5,3
+Cristian Perez,76d5d489,Online Application,Hired,13-03-2020,Passed,14-11-2020,Failed,04-05-2021,Passed,Male,Operations,Part-time,,,Layoff,13,140999,12927,3,,94,2,6,13
+Stephen Vance,9a770c4c,Internal,New hire,28-04-2020,Failed,02-12-2021,Passed,30-01-2021,Failed,Other,IT,Full-time,,Involuntary,Layoff,19,101626,5259,3,,173,8,5,13
+Brian Thompson,6d3c5f9f,Online Application,Hired,16-11-2020,Passed,01-05-2023,Passed,16-07-2022,Failed,Female,Sales,Full-time,,,Other,27,142955,3045,2,,77,10,1,8
+Nancy Valenzuela,657a8d92,Internal,Hired,26-10-2022,Failed,22-02-2023,Passed,30-12-2023,Passed,Other,IT,Full-time,,Involuntary,Other,17,84372,13361,2,,187,5,1,5
+Diana Roth,f07740fc,Agency,New hire,03-08-2021,Failed,13-09-2020,Failed,21-12-2020,Passed,Male,Finance,Full-time,,Involuntary,Personal Reasons,28,84555,18371,4,,45,1,8,1
+Chase Brown,e11b1348,Agency,Hired,03-07-2021,Failed,09-02-2023,Passed,16-12-2022,Passed,Male,HR,Part-time,13-08-2022,Involuntary,Layoff,5,96676,11524,1,,71,7,3,10
+Rachael Ray,3c73ff32,Online Application,New hire,08-03-2023,Failed,10-01-2020,Failed,26-09-2020,Failed,Other,HR,Part-time,04-04-2020,Voluntary,Retirement,22,88061,6960,1,14-03-2022,21,3,4,5
+Daniel Wilson,69b19b62,Online Application,Hired,11-05-2022,Failed,05-05-2020,Passed,16-05-2021,Passed,Other,Operations,Part-time,,Involuntary,Retirement,1,45954,2484,3,,161,1,9,10
+Cynthia Duncan,e284ea46,Agency,Hired,09-06-2024,Failed,14-02-2024,Passed,25-02-2021,Passed,Male,Marketing,Contract,19-01-2023,Voluntary,Retirement,30,76209,2858,5,,121,1,8,4
+Ronald Santiago,d4e0eb7e,Agency,Hired,03-02-2020,Passed,03-12-2020,Failed,02-12-2020,Passed,Male,IT,Full-time,04-04-2020,Involuntary,Other,26,56327,15274,5,07-07-2021,17,1,6,8
+Roger Smith,54a84ce9,Internal,New hire,19-04-2023,Failed,01-01-2020,Failed,31-01-2021,Passed,Other,Finance,Part-time,,Involuntary,Personal Reasons,2,51424,12440,3,,55,7,10,1
+Caitlyn Andrade,36e64735,Agency,Hired,17-04-2021,Passed,21-04-2023,Passed,09-03-2023,Passed,Other,Finance,Part-time,04-04-2020,Involuntary,Other,14,132767,11501,2,25-01-2020,134,7,1,11
+Brian Hernandez,02d36c39,Agency,Hired,26-06-2022,Failed,08-07-2020,Failed,06-11-2023,Passed,Other,Finance,Part-time,04-04-2020,Involuntary,Retirement,20,101326,6812,5,14-06-2020,136,3,7,2
+Diana Nelson,db949f7d,Online Application,New hire,04-11-2020,Failed,26-05-2024,Failed,23-11-2021,Passed,Other,Finance,Part-time,,Involuntary,Layoff,14,134184,13064,3,,36,10,1,10
+Brandon Thompson,f7400dc8,Internal,Hired,12-07-2024,Passed,03-11-2023,Passed,11-04-2022,Failed,Female,Finance,Full-time,04-04-2020,Involuntary,Termination,29,87850,8057,4,07-02-2024,142,7,1,0
+Lisa Malone,6c3a1ea1,Online Application,Hired,13-01-2020,Failed,02-04-2024,Failed,19-10-2022,Passed,Other,Finance,Full-time,04-04-2020,Voluntary,Other,11,115166,11046,2,19-04-2024,108,4,6,12
+Sharon Stevens,321s58098,Internal,Hired,17-09-2022,Passed,19-04-2024,Passed,09-05-2022,Failed,Female,Sales,Contract,04-04-2020,Involuntary,Termination,10,93314,17651,3,02-11-2020,76,7,8,4
+Preston Valdez,ebab0cd4,Agency,Hired,10-12-2023,Failed,13-08-2022,Failed,05-05-2020,Failed,Male,Sales,Contract,07-06-2022,Involuntary,Personal Reasons,27,96004,3351,5,31-01-2022,6,3,5,8
+Dale Roberts,ec3851e4,Agency,New hire,21-09-2021,Passed,09-11-2023,Failed,29-05-2023,Failed,Male,Marketing,Full-time,,,Personal Reasons,2,141904,7425,3,,188,1,6,6
+Virginia Wilkins,5741a14b,Online Application,Hired,16-10-2022,Failed,02-11-2020,Passed,15-03-2024,Passed,Female,Finance,Contract,02-06-2024,,Personal Reasons,4,46674,9569,5,09-06-2022,71,4,9,2
+Kelsey Stevens,3c516209,Online Application,Hired,01-10-2020,Failed,16-08-2023,Failed,11-01-2020,Failed,Female,Sales,Contract,,,,29,42146,3082,4,,138,3,4,7
+Thomas Scott,79d8a200,Internal,Hired,24-01-2022,Failed,09-11-2023,Failed,06-05-2022,Failed,Female,Finance,Part-time,,,Retirement,11,72379,17012,2,,56,1,3,13
+John Young,13915a47,Online Application,Hired,18-06-2024,Passed,14-04-2021,Failed,16-01-2023,Passed,Male,Marketing,Full-time,,Voluntary,Other,23,94977,15318,4,28-08-2020,91,8,3,14
+Wendy Hall,6aae0ed7,Agency,Hired,14-12-2022,Failed,21-02-2021,Passed,01-03-2020,Passed,Male,Finance,Full-time,,Involuntary,,4,140484,2639,4,,45,7,3,7
+Michael Harvey,c76296f2,Agency,Hired,14-05-2021,Passed,26-05-2021,Passed,22-09-2023,Passed,Other,Marketing,Contract,22-03-2023,Involuntary,Personal Reasons,11,139677,2630,5,01-07-2021,134,6,5,3
+Scott Rivers,8e047901,Agency,Hired,09-01-2021,Passed,19-08-2022,Failed,22-01-2020,Passed,Female,Sales,Contract,14-05-2024,Involuntary,,7,142818,5909,3,,105,2,10,10
+Diana Morales,1604a5dc,Agency,Hired,21-05-2023,Failed,08-04-2022,Passed,20-09-2022,Passed,Male,IT,Part-time,,Involuntary,Termination,2,73015,12188,5,,162,5,4,14
+Sara Neal,ee33a6af,Agency,Hired,29-10-2022,Failed,05-10-2020,Failed,17-02-2024,Failed,Male,Sales,Full-time,,,Retirement,24,92424,13114,4,,112,3,2,11
+Brian Anderson,f53ae3fe,Internal,Hired,05-08-2022,Failed,20-01-2024,Passed,20-08-2021,Passed,Male,Sales,Part-time,22-03-2023,Voluntary,Layoff,21,40930,3134,5,16-09-2022,66,7,9,1
+Stephanie Gomez,e0cc030f,Agency,Hired,27-02-2020,Failed,23-10-2021,Passed,30-05-2022,Failed,Other,Sales,Contract,22-03-2023,Voluntary,Layoff,21,116557,7112,4,02-03-2022,183,10,4,1
+Andrew Daniel,c7ec58e8,Internal,New hire,03-12-2023,Passed,09-07-2021,Failed,13-03-2020,Passed,Male,HR,Contract,29-11-2021,Voluntary,Layoff,5,61754,14542,2,,16,10,2,15
+Amy Collins,01d79098,Online Application,Hired,16-08-2021,Failed,20-01-2022,Passed,06-09-2022,Passed,Male,IT,Contract,03-08-2023,Involuntary,,24,57447,8609,1,,122,6,10,10
+Erik Parker,5c53bcdf,Internal,Hired,12-10-2021,Passed,10-03-2021,Failed,14-06-2021,Passed,Other,Finance,Full-time,22-05-2023,Voluntary,Personal Reasons,12,75855,10729,5,,165,1,1,9
+Sabrina Hawkins,88bde83f,Online Application,Hired,25-03-2020,Passed,15-04-2023,Passed,22-08-2022,Failed,Other,IT,Full-time,,Voluntary,Personal Reasons,17,138664,9576,2,,126,9,8,15
+995,,,,,,,,,,,,,,,,,,,,,,,,
